@@ -1,0 +1,13 @@
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 12 Feb 2015 20:26:39 GMT
+Date: Thu, 12 Feb 2015 20:26:39 GMT
+Cache-Control: private, max-age=0
+Last-Modified: Wed, 11 Feb 2015 07:01:43 GMT
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alternate-Protocol: 80:quic,p=0.08
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+

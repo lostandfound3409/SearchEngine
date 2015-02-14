@@ -1,0 +1,13 @@
+Server: Apache/2.2.15 (CentOS)
+X-Pingback: http://collider.com/xmlrpc.php
+Link: <http://collider.com/?p=178106>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=900
+X-Obj-Device: desktop
+Transfer-Encoding: chunked
+Date: Thu, 12 Feb 2015 20:10:11 GMT
+Age: 0
+Expires: Thu, 12 Feb 2015 20:25:11 GMT
+Vary: Accept-Encoding, User-Agent
+Connection: close
+

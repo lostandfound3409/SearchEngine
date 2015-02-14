@@ -1,0 +1,14 @@
+Transfer-Encoding: chunked
+Date: Thu, 12 Feb 2015 20:26:48 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.3.29
+Vary: Cookie
+Set-Cookie: wfvt_1606670=54dd0c884ee6f; expires=Thu, 12-Feb-2015 20:56:48 GMT; path=/; httponly
+X-Pingback: http://busaff.com/xmlrpc.php
+Cache-Control: public, max-age=2592000
+Expires: Sat, 14 Mar 2015 20:26:48 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <http://wp.me/p5mqdP-hF>; rel=shortlink
+Access-Control-Allow-Origin: =?utf-8?b?w6LCgMKcKsOiwoDCnQ==?=
+

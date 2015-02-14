@@ -1,0 +1,12 @@
+Date: Thu, 12 Feb 2015 20:10:15 GMT
+Server: LiteSpeed
+Accept-Ranges: bytes
+Connection: close
+Last-Modified: Thu, 12 Feb 2015 15:49:56 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 61529
+Vary: Accept-Encoding, Cookie
+Cache-Control: max-age=3, must-revalidate
+Cache-Control: public, max-age=3
+Expires: Thu, 12 Feb 2015 20:10:18 GMT
+

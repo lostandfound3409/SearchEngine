@@ -1,0 +1,14 @@
+Date: Thu, 12 Feb 2015 20:26:40 GMT
+Server: Apache
+Set-Cookie: device=desktop; expires=Fri, 13-Feb-2015 20:26:40 GMT; path=/
+Set-Cookie: deviceDetected=desktop; expires=Fri, 13-Feb-2015 20:26:40 GMT; path=/
+Set-Cookie: PHPSESSID=bpe8gef28r7qajs39jvga177j0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: overlay_ts=today; expires=Fri, 12-Feb-2016 20:26:40 GMT; path=/
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
