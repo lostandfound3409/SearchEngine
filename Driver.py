@@ -17,6 +17,9 @@ googleman = MyGoogle()
 id = 0
 num_results = 10
 
+dict = {}
+list = []
+termDict = TermDictionary(list, dict)
 
 for root, dirs, files in os.walk(cleanFolder):
     for file in files:
@@ -25,10 +28,8 @@ for root, dirs, files in os.walk(cleanFolder):
         docID = os.path.splitext(file)[0]
         for term in log.readlines():
             count += 1
-            wordDict = TermDictionary()
-            wordDict.addWord(term, docID, count, wordDict)
-for x in wordDict.items():
-    print (x)
+            termDict.addWord(term, docID, count)
+termDict.items()
 
 
 choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n > "))
