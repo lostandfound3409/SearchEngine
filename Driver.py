@@ -25,7 +25,8 @@ for root, dirs, files in os.walk(cleanFolder):
         docID = os.path.splitext(file)[0]
         for term in log.readlines():
             count += 1
-            wordDict = TermDictionary(term, docID, count, wordDict).addWord()
+            wordDict = TermDictionary()
+            wordDict.addWord(term, docID, count, wordDict)
 for x in wordDict.items():
     print (x)
 

@@ -20,28 +20,16 @@ import os
 
 
 class TermDictionary:
-    word = ""
-    docID = ""
-    posID = ""
 
-
-    def __init__(self, word, docID, posID, posList, wordDict, docIDDict):
-        word = word
-        docID = docID
-        posID = posID
-        posList = posList
-        docIDDict = docIDDict
-        termDict = wordDict
-
-    def addWord(self):
-        if self.word in self.termDict.keys():
-            if self.docID in self.docIDDict.keys():
-                self.posList.append(self.posID)
-                self.termDict.update({self.word:{self.docID: self.posList}})
+    def addWord(self, word, docID, posID, posList, wordDict, docIDDict):
+        if word in wordDict.keys():
+            if docID in docIDDict.keys():
+                posList.append(posID)
+                wordDict.update({word:{docID: posList}})
             else:
-                self.docIDDict.update({self.docID: self.posList.append(self.posID)})
+                docIDDict.update({docID: posList.append(posID)})
         else:
-            self.termDict.update({self.word: {self.docID: self.posList.append(self.posID)}})
+            wordDict.update({word: {docID: posList.append(posID)}})
 
-        return self.termDict
+        return wordDict
 
