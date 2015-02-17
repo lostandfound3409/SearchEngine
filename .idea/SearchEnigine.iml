@@ -4,5 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="TheRPG" />
+    <orderEntry type="module" module-name="ex47" />
+    <orderEntry type="module" module-name="ex48" />
+    <orderEntry type="module" module-name="gothonweb" />
   </component>
 </module>

@@ -5,6 +5,8 @@ from MyGoogle import MyGoogle
 import os
 import time
 from TermDictionary import TermDictionary
+from sys import exit
+
 import re
 
 my_list = []
@@ -56,7 +58,7 @@ while 0 < choice < 8:
         time.sleep(5)
     else:
         print ("\nYou did not enter a valid number\n")
-        time.sleep(1)
+        exit(0)
 
     choice = input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n >")
 

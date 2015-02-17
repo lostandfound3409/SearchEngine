@@ -25,7 +25,7 @@ class TermDictionary:
     posID = ""
 
 
-    def __init__(self, word, docID, posID, posList, **wordDict, **docIDDict):
+    def __init__(self, word, docID, posID, posList, wordDict, docIDDict):
         word = word
         docID = docID
         posID = posID
