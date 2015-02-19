@@ -1,0 +1,12 @@
+Date: Wed, 18 Feb 2015 02:35:10 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYgGNy-eEmk_hlFkKB3dpSEKsuR21To3XABUtqLP8zTo_f7l0LCRF_wnjBQNW0Z4la_GnIZnAnq%0D%0AmepTnPoKEiULC_G_-2LKKGSlOYgXuKmibGImnZStALa7mK8adEIZJIV6vIsYNhuO-3dLe4ZbmvGT%0D%0AXEYSxZbrh_AennJRg9a_-mtjpabCLYhzx59G8BhIB3AusJMWRKY_BVYkjdpfi-dDLe3XjgU6p4kW%0D%0AgIoRMmFjy15D3DVwFKWA6FWVBDGAJ9cVIzd3_4H4PWm3VrDD1Q-uMg%0D%0A; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:49:18 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:49:18 GMT; Path=/
+Set-Cookie: session-id-time=1581906910; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:49:18 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

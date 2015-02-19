@@ -1,0 +1,10 @@
+Date: Wed, 18 Feb 2015 02:18:04 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.35
+Vary: Cookie
+X-Pingback: http://www.disneydreaming.com/xmlrpc.php
+Link: <http://www.disneydreaming.com/?p=23243>; rel=shortlink
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,9 @@
+Date: Wed, 18 Feb 2015 02:03:15 GMT
+Server: Apache
+Vary: Cookie
+X-Pingback: http://www.titanicuniverse.com/xmlrpc.php
+Link: <http://www.titanicuniverse.com/?p=52>; rel=shortlink
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

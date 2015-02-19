@@ -761,7 +761,6 @@ extern
 link
 plot
 summari
-edit
 see
 also
 the
@@ -1035,7 +1034,6 @@ fellowship
 of
 the
 ring
-edit
 the
 stori
 begin
@@ -1534,7 +1532,6 @@ along
 the
 two
 tower
-edit
 orc
 sent
 by
@@ -1934,7 +1931,6 @@ return
 of
 the
 king
-edit
 sauron
 unleash
 a
@@ -2446,7 +2442,6 @@ ring
 bearer
 main
 charact
-edit
 protagonist
 frodo
 baggin
@@ -2799,9 +2794,7 @@ moria
 concept
 and
 creation
-edit
 background
-edit
 the
 lord
 of
@@ -2817,7 +2810,6 @@ r
 r
 tolkien
 s
-earlier
 work
 the
 hobbit
@@ -2933,7 +2925,6 @@ was
 year
 old
 write
-edit
 persuad
 by
 his
@@ -3193,7 +3184,6 @@ marquett
 univers
 16
 influenc
-edit
 mention
 at
 the
@@ -3643,7 +3633,6 @@ serv
 33
 public
 histori
-edit
 a
 disput
 with
@@ -4012,7 +4001,6 @@ hobbit
 edit
 and
 revis
-edit
 in
 the
 earli
@@ -4220,7 +4208,6 @@ posthum
 public
 of
 draft
-edit
 from
 1988
 to
@@ -4283,7 +4270,6 @@ and
 sauron
 defeat
 translat
-edit
 main
 articl
 translat
@@ -4307,7 +4293,6 @@ into
 at
 least
 38
-other
 languag
 46
 tolkien
@@ -4424,7 +4409,6 @@ with
 general
 guidanc
 recept
-edit
 main
 articl
 recept
@@ -4465,16 +4449,16 @@ as
 a
 signific
 one
-on
-it
+the
 initi
 review
+in
 the
 sunday
 telegraph
-felt
+describ
 it
-was
+as
 among
 the
 greatest
@@ -4490,17 +4474,9 @@ centuri
 the
 sunday
 time
-seem
-to
 echo
-these
+this
 sentiment
-when
-in
-it
-review
-it
-was
 state
 that
 the
@@ -4908,7 +4884,6 @@ award
 in
 2009
 theme
-edit
 main
 articl
 theme
@@ -5226,7 +5201,6 @@ s
 monomyth
 74
 adapt
-edit
 main
 articl
 adapt
@@ -5746,7 +5720,6 @@ in
 may
 2007
 legaci
-edit
 main
 articl
 work
@@ -5761,7 +5734,6 @@ on
 the
 fantasi
 genr
-edit
 the
 enorm
 popular
@@ -6019,7 +5991,6 @@ the
 ring
 84
 music
-edit
 in
 1965
 songwrit
@@ -6669,7 +6640,6 @@ impact
 on
 popular
 cultur
-edit
 welcom
 to
 hobbiton
@@ -7032,7 +7002,6 @@ turbin
 inc
 see
 also
-edit
 middl
 earth
 portal
@@ -7061,7 +7030,6 @@ the
 unit
 kingdom
 note
-edit
 this
 is
 made
@@ -7146,7 +7114,6 @@ aunt
 s
 son
 refer
-edit
 a
 b
 world
@@ -9202,7 +9169,6 @@ isbn
 7
 further
 read
-edit
 carter
 lin
 1969
@@ -9408,7 +9374,6 @@ fairi
 stori
 extern
 link
-edit
 wikimedia
 common
 has
@@ -10726,7 +10691,7 @@ php
 titl
 the_lord_of_the_r
 oldid
-646830012
+647200283
 categori
 1950s
 fantasi
@@ -10844,7 +10809,8 @@ talk
 variant
 view
 read
-edit
+view
+sourc
 view
 histori
 more
@@ -10977,12 +10943,12 @@ was
 last
 modifi
 on
-12
+15
 februari
 2015
 at
-18
-35
+04
+58
 text
 is
 avail

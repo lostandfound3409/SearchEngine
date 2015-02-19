@@ -1,0 +1,16 @@
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 17 Feb 2015 23:55:02 GMT
+Link: <http://www.ew.com/node/2117033>; rel="shortlink",<http://www.ew.com/article/2015/02/15/entertainment-geekly-mailbag-amazing-spider-man-talkback>; rel="canonical"
+P3P: CP='PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA PRE CUR ADMa DEVa TAIo PSAo PSDo IVAo IVDo CONo TELo OTPi OUR UNRo PUBi OTRo IND DSP CAO COR'
+Server: 
+Vary: Accept-Encoding
+Expires: Wed, 18 Feb 2015 02:51:38 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 18 Feb 2015 02:51:38 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: TI_PREFS=default; path=/; domain=.ew.com; expires=Fri, 20-Mar-2015 02:51:38 GMT
+

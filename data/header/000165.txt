@@ -1,0 +1,13 @@
+Server: Apache/2.2.15 (CentOS)
+X-Pingback: http://collider.com/xmlrpc.php
+Link: <http://collider.com/?p=31723>; rel=shortlink
+X-Mod-Oboe-PS: 1.7.30.5-1b9067388c7559ed3592edeee499f1269d5bfd16
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=900
+Transfer-Encoding: chunked
+Date: Wed, 18 Feb 2015 02:18:06 GMT
+Age: 0
+Expires: Wed, 18 Feb 2015 02:33:06 GMT
+Vary: Accept-Encoding, User-Agent
+Connection: close
+

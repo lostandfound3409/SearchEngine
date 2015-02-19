@@ -1,0 +1,19 @@
+Server: nginx/1.4.1
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache
+ETag: W/"7cH1isbvzIv2UNMC0SJmRA=="
+Via: 1.1 varnish
+X-Beresp-status: 200
+X-UA-Device: pc
+Content-Length: 185990
+Accept-Ranges: bytes
+Date: Wed, 18 Feb 2015 02:45:38 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: close
+X-Served-By: cache-jfk1034-JFK, cache-ord1735-ORD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+Vary: Accept-Encoding, User-Agent
+

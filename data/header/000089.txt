@@ -1,0 +1,11 @@
+Date: Wed, 18 Feb 2015 01:29:24 GMT
+Server: Apache
+Set-Cookie: SESSb04c4fb7fbb8812e5f15bbbf21002d31=jn6vt0ppqh1qnjq6agdqc5f7q4; expires=Sat, 28-Feb-2015 01:29:24 GMT; path=/; domain=.tatteredcover.com
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 18 Feb 2015 01:29:24 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

@@ -1,0 +1,13 @@
+X-Pingback: http://www.barnesandnoble.com/blog/barnesy/xmlrpc.php
+Link: <http://www.barnesandnoble.com/blog/?p=7383>; rel=shortlink
+Last-Modified: Wed, 18 Feb 2015 01:22:39 GMT
+X-Cnection: close
+Content-Type: text/html; charset=UTF-8
+Vary: User-Agent
+Vary: Accept-Encoding
+Date: Wed, 18 Feb 2015 01:22:39 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: TS019fd21a=016b4a666e2b1dba434b30e7689957c01ba9c8e13b15a1b533f78fe1076c033c029a005cfc; Path=/
+

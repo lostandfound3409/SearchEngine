@@ -1,44 +1,16 @@
-import os
-
-"""
-                for file in folder
-                count = 0
-                    for word in file
-                        count++
-                        if word exists in dictionary
-                            if doc id exists in word
-                                append count to list
-                            else
-                                add page id
-                                append count to list
-                        else
-                            add word to dict
-                            add page id
-                            add count to list
-"""
-
-
-
 class TermDictionary():
 
-    def __init__(self, posList, docIDDict,):
-        self.posList = posList
-        self.docIDDict = docIDDict
-        self.wordDict = {}
+    def __init__(self):
+        self.index = dict()
 
-    def addWord(self, word, docID, posID):
-        if word in self.wordDict.keys():
-            if docID in self.docIDDict.keys():
-                self.posList.append(posID)
-                self.wordDict.update({word:{docID: self.posList}})
-            else:
-                self.docIDDict.update({docID: self.posList.append(posID)})
-        else:
-            self.wordDict.update({word: {docID: self.posList.append(posID)}})
+    def addWord(self, word, docID, position):
+        if word not in self.index:
+            self.index[word] = dict()
+        if docID not in self.index[word]:
+            self.index[word][docID] = list()
+        self.index[word][docID].append(position)
 
     def items(self):
-        for key in self.wordDict.keys() :
-            print (key, "\n")
-            for key2 in self.docIDDict.keys():
-                print(key2, "\n", self.posList)
+        for key in self.index :
+            print(key, self.index[key])
 

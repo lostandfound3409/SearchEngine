@@ -6,9 +6,10 @@ import os
 import time
 from TermDictionary import TermDictionary
 from sys import exit
+from WebDB import WebDB
 
 import re
-
+db = WebDB('data\cache.db')
 my_list = []
 wordDict = {}
 itemFolder = 'data\item'
@@ -17,9 +18,7 @@ googleman = MyGoogle()
 id = 0
 num_results = 10
 
-dict = {}
-list = []
-termDict = TermDictionary(list, dict)
+termDict = TermDictionary()
 
 for root, dirs, files in os.walk(cleanFolder):
     for file in files:
@@ -29,6 +28,7 @@ for root, dirs, files in os.walk(cleanFolder):
         for term in log.readlines():
             count += 1
             termDict.addWord(term, docID, count)
+        log.close()
 termDict.items()
 
 

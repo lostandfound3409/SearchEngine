@@ -1,12 +1,14 @@
-Date: Thu, 12 Feb 2015 20:10:15 GMT
+Transfer-Encoding: chunked
+Date: Wed, 18 Feb 2015 00:36:29 GMT
 Server: LiteSpeed
-Accept-Ranges: bytes
 Connection: close
-Last-Modified: Thu, 12 Feb 2015 15:49:56 GMT
+X-Powered-By: PHP/5.3.29
+Vary: Cookie
+Set-Cookie: wfvt_1606670=54e3de8cc41fc; expires=Wed, 18-Feb-2015 01:06:28 GMT; path=/; httponly
+X-Pingback: http://busaff.com/xmlrpc.php
+Cache-Control: public, max-age=2592000
+Expires: Fri, 20 Mar 2015 00:36:29 GMT
 Content-Type: text/html; charset=UTF-8
-Content-Length: 61529
-Vary: Accept-Encoding, Cookie
-Cache-Control: max-age=3, must-revalidate
-Cache-Control: public, max-age=3
-Expires: Thu, 12 Feb 2015 20:10:18 GMT
+Link: <http://wp.me/p5mqdP-eh>; rel=shortlink
+Access-Control-Allow-Origin: =?utf-8?b?w6LCgMKcKsOiwoDCnQ==?=
 

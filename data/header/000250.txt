@@ -1,0 +1,12 @@
+Date: Wed, 18 Feb 2015 02:57:03 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYrrnft_XRBRG4NsCy1xCJ2bNkyW-i8X-GyJpU3GL6RKqD5p5KiO9jjYQ2ixqvJVJq92nXdFDX5%0D%0AIWh8zoe36_xW4-vd7X1cZH3SJP57Q5ERxnVpPNuSoWnnAgcNxFOpZMa-NbvI1694mg1_GL1yatSJ%0D%0AFOzOA9pWhhbWxlNVdIHF7MdPZzEBD3JZjCO4OfNv9JlK37wtjHALAG1hY6iwqm0DWTy8s81P5ms2%0D%0AFKNjnNJ7ZNnSt4egbE9vG7lXY4YBKQMYxLWBq3a6EfZSgUk41Mgk6Q%0D%0A; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 06:11:10 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 06:11:10 GMT; Path=/
+Set-Cookie: session-id-time=1581908223; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 06:11:10 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

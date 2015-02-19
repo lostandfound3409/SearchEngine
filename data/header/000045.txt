@@ -1,10 +1,11 @@
-Server: nginx/1.6.0
-Date: Thu, 12 Feb 2015 20:28:22 GMT
-Content-Type: text/html
-Content-Length: 14273
-Last-Modified: Sun, 07 Sep 2014 13:17:46 GMT
+Server: nginx/1.6.2
+Date: Wed, 18 Feb 2015 00:54:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 99844
 Connection: close
-ETag: "540c5afa-37c1"
-Access-Control-Allow-Origin: *
+Last-Modified: Thu, 23 Jan 2014 21:00:24 GMT
 Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Expires: Wed, 18 Feb 2015 00:54:38 GMT
+Vary: Accept-Encoding,Cookie
 

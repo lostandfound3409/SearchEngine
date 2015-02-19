@@ -1,5 +1,5 @@
 Server: nginx
-Date: Thu, 12 Feb 2015 20:24:12 GMT
+Date: Wed, 18 Feb 2015 00:50:35 GMT
 Content-Type: text/html; charset=utf-8
 Transfer-Encoding: chunked
 Connection: close
@@ -8,10 +8,10 @@ Vary: Accept-Encoding
 Status: 200 OK
 Cache-Control: max-age=0,must-revalidate
 X-UA-Compatible: IE=Edge,chrome=1
-X-Request-Id: 253d5d04-9db1-4f50-b944-64c66b2a159c
-X-Runtime: 0.506489
+X-Request-Id: 82dcf93c-f72d-4fa3-b5b7-2e0e956b9b36
+X-Runtime: 0.207258
 P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA"
-X-Varnish: 844334793
+X-Varnish: 532787932
 Age: 0
 Via: 1.1 varnish-v4
 Accept-Ranges: bytes

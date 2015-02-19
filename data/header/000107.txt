@@ -1,0 +1,14 @@
+Date: Wed, 18 Feb 2015 01:39:15 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 1W40QDTV63HW67G3VXFZ
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: ebooks_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: snJw5vtyzqF6NoO+mY3ig1OcgpqfRuQvFZaruXgCAl3Tq6eyi/RuEI9tP5hkXl++
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
+Transfer-Encoding: chunked
+

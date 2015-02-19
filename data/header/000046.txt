@@ -1,12 +1,20 @@
-Server: nginx
-Date: Thu, 12 Feb 2015 20:28:24 GMT
-Content-Type: text/html; charset=UTF-8
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Date: Wed, 18 Feb 2015 00:54:44 GMT
 Transfer-Encoding: chunked
 Connection: close
-Vary: Accept-Encoding
-Vary: Cookie
-X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
-X-Pingback: https://goodbookscents.wordpress.com/xmlrpc.php
-Link: <http://wp.me/p2lO0T-Hy>; rel=shortlink
-X-ac: 1.ord _dca
+Connection: Transfer-Encoding
+Set-Cookie: JSESSIONID=1covenshtfnx0id6to42dk32spnjbnflite071424220883423;Path=/;Expires=Wed, 18-Feb-2015 01:54:43 GMT
+Set-Cookie: pds%5Flife=d=AQCj9r8NMD9i%2B0jZkKDvS%2BOjA6dIArD4CGcjI4i0L30PUIyOggbQZRvu%2BJ2DRMAsJtU%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 17-Feb-2020 00:54:43 GMT
+Set-Cookie: BNCAB=A;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: userid=oF1twgJW1m;Path=/;Domain=.barnesandnoble.com;Expires=Mon, 17-Feb-2020 00:54:43 GMT
+Set-Cookie: pds%5Fsess=d=AQBPclDIxRTXQzJoEhV7bTkBpA87m3qU55BzhFBwIUtbHZnKRL%2B8u0xXW5pNaNKyyy4%3D&v=5;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: bnMobile=type=&state=ignore&device=N;path=/;domain=.barnesandnoble.com;
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+Set-Cookie: TS019fd21a=016b4a666e348ecbcbf8843a81b2f2efe1f51e1d22a632068fc2d527b6bd955f8e45d53df8018f2a3ab4f8848b06745dd569a8e735; Path=/
+Set-Cookie: TS01a610f6=016b4a666e09dee00bd47be73a6c696bba9fafca34e6549bc38a826a0367d8e6a42bbadac27a83c881e075e34928b164b5c30d66844485062f60666efe7ecd2448d8e609cc723f78a130dba0dac121399ed9d8aebda3f28aaf78f831d81e33c7d91ecfc1d2e9c5a5923cdbdd78fd5274c90c73fe9da90f5225652e1d57eea6ff14e83ab1e1; path=/; domain=.barnesandnoble.com
 

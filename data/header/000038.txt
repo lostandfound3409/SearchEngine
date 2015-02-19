@@ -1,12 +1,12 @@
-Date: Thu, 12 Feb 2015 20:26:42 GMT
+Date: Wed, 18 Feb 2015 00:53:02 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.28
 Link: <http://wp.me/pszyz-1qv>; rel=shortlink
 X-Pingback: http://www.linussblanket.com/xmlrpc.php
-Set-Cookie: wpgb_visit_last_php-default=1423772804; expires=Fri, 12-Feb-2016 20:26:44 GMT; path=/
-Last-Modified: Thu, 12 Feb 2015 20:26:45 GMT
+Set-Cookie: wpgb_visit_last_php-default=1424220783; expires=Thu, 18-Feb-2016 00:53:03 GMT; path=/
+Last-Modified: Wed, 18 Feb 2015 00:53:04 GMT
 Cache-Control: max-age=1209600
-Expires: Thu, 26 Feb 2015 20:26:42 GMT
+Expires: Wed, 04 Mar 2015 00:53:02 GMT
 Vary: Accept-Encoding,User-Agent
 Connection: close
 Transfer-Encoding: chunked

@@ -1,0 +1,11 @@
+Date: Wed, 18 Feb 2015 02:08:48 GMT
+Server: Apache/2.2.22 (Amazon)
+X-Powered-By: PHP/5.3.6
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: locale=en; expires=Thu, 18-Feb-2016 02:08:48 GMT; path=/; domain=.everytrail.com
+Set-Cookie: viewTripCookie-3087532=3087532; expires=Wed, 18-Feb-2015 03:08:48 GMT
+Set-Cookie: ROUTEID=.2; path=/
+Connection: close
+Transfer-Encoding: chunked
+

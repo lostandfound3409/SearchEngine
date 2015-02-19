@@ -1,0 +1,9 @@
+Date: Wed, 18 Feb 2015 02:46:40 GMT
+Server: Apache
+X-Pingback: http://derekwinnert.com/xmlrpc.php
+Link: <http://wp.me/p3jRpy-1Ay>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
