@@ -25,12 +25,12 @@ class Queries():
         tokenQuery = stem(tokenQuery).lower()
         print("Actual Search: " + tokenQuery)
         tokenId = self.termDict.getPosFromQuery(tokenQuery)
-        print(str(len(tokenId)) + " results.")
-        itemCount = 0
+        tokenList =[]
         for fileId, pos in tokenId.items():
             if (self.db.lookupCachedURL_byID(int(fileId))) is not None:
-                itemCount+=1
-                print(str(itemCount) + ". " + str(self.db.lookupCachedURL_byID(int(fileId))))
+                tokenList.append(str(self.db.lookupCachedURL_byID(int(fileId))))
+        self.print_results(tokenList)
+
 
     def and_query(self):
         andQuery = input("Enter 2 tokens: ")
@@ -38,20 +38,15 @@ class Queries():
         andQuery[0] = stem(andQuery[0]).lower()
         andQuery[1] = stem(andQuery[1]).lower()
         print("Actual Search: " + andQuery[0] + " " + andQuery[1])
-        linkList = []
+        andList = []
         andId1 = self.termDict.getPosFromQuery(andQuery[0])
         andId2 = self.termDict.getPosFromQuery(andQuery[1])
         if andId1 is not None and andId2 is not None:
             for key1, value1 in andId1.items():
                 for key2, value2 in andId2.items():
                     if key1 == key2:
-                        linkList.append(self.db.lookupCachedURL_byID(int(key2)))
-        print(str(len(linkList)-1) + " results.")
-        itemCount = 0
-        for item in linkList:
-            if item is not None:
-                itemCount+=1
-                print(str(itemCount) + ". " + str(item))
+                        andList.append(self.db.lookupCachedURL_byID(int(key2)))
+        self.print_results(andList)
 
     def or_query(self):
         orQuery = input("Enter 2 tokens: ")
@@ -71,12 +66,7 @@ class Queries():
                         check = self.db.lookupCachedURL_byID((int(key2)))
                         if check not in orList:
                             orList.append(check)
-        print(str(len(orList)-1) + " results.")
-        itemCount = 0
-        for item in orList:
-            if item is not None:
-                itemCount+=1
-                print(str(itemCount) + ". " + str(item))
+        self.print_results(orList)
 
     def phrase_query(self):
         phraseQuery = input("Enter a 2 token phrase separated by a space: ")
@@ -101,12 +91,7 @@ class Queries():
                                             break
             except TypeError:
                 print("0 results")
-        print(str(len(phraseList)-1) + " results.")
-        itemCount = 0
-        for item in phraseList:
-            if item is not None:
-                itemCount+=1
-                print(str(itemCount) + ". " + str(item))
+        self.print_results(phraseList)
 
     def near_query(self):
         nearQuery = input("Enter a 2 token query: ")
@@ -132,9 +117,11 @@ class Queries():
                                             break
             except TypeError:
                 print("0 results")
-        print(str(len(nearList)-1) + " results.")
+        self.print_results(nearList)
+        
+    def print_results(self, listToPrint):
         itemCount = 0
-        for item in nearList:
+        for item in listToPrint:
             if item is not None:
                 itemCount += 1
                 print(str(itemCount) + ". " + str(item))
