@@ -1,0 +1,12 @@
+Cache-Control: must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Feb 2015 18:06:01 GMT
+Expires: Mon, 23 Feb 2015 18:06:00 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Set-Cookie: CAKEPHP=dpamtg8k56lkaoghdqkj1c8h16; expires=Mon, 23-Feb-2015 22:06:01 GMT; path=/; HttpOnly
+Set-Cookie: weatherData_Weather=%7B%22location_id%22%3A%22UKXX0085%22%2C%22town%22%3A%22London%22%2C%22country_code%22%3A%22UK%22%2C%22state_code%22%3A%22GL%22%2C%22sky_code%22%3A%2230%22%2C%22centigrade%22%3A%227%22%2C%22time_of_Observation%22%3A%22165000%22%2C%22day_of_observation%22%3A%2220150223%22%2C%22weather_description%22%3A%22Partly+Cloudy%22%2C%22wind_direction%22%3A%22WSW%22%2C%22wind_speed_mph%22%3A%2224%22%2C%22humidity%22%3A%2253%22%2C%22pressure%22%3A%22%2A%22%2C%22barometric_trend%22%3A%22Steady%22%2C%22day_of_observation_format%22%3A%2223%5C%2F2%5C%2F2015%22%2C%22time_of_Observation_hour%22%3A%2216%22%2C%22time_of_Observation_minutes%22%3A%2250%22%7D; expires=Mon, 23-Feb-2015 18:36:01 GMT
+Vary: User-Agent,Accept-Encoding
+X-UA-Compatible: IE=edge,chrome=1
+Content-Length: 94510
+Connection: Close
+

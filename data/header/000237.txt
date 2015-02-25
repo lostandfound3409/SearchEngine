@@ -1,21 +1,14 @@
-Age: 1000
-Cache-Control: public, max-age=1800
-Content-Language: en
-Content-Type: text/html; charset=utf-8
-Date: Wed, 18 Feb 2015 02:51:53 GMT
-Etag: "1424209121-1"
-Expires: Sun, 19 Nov 1978 05:00:00 GMT
-Last-Modified: Tue, 17 Feb 2015 21:38:41 GMT
-Link: <http://www.reviewjournal.com/entertainment/movies/what-spider-man-coming-marvel-does-and-doesn-t-mean>; rel="canonical"
 Server: nginx
+Date: Mon, 23 Feb 2015 17:38:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 58005
+Connection: close
 Vary: Accept-Encoding
-Via: 1.1 varnish
-X-AH-Environment: prod
-X-Cache: HIT
-X-Cache-Hits: 21
-X-Drupal-Cache: HIT
-X-Request-ID: v-c3e82282-b716-11e4-8826-22000afe0aed
-X-Varnish: 1066859877 1066811416
-transfer-encoding: chunked
-Connection: Close
+Accept-Ranges: bytes
+X-Mod-Pagespeed: 1.8.31.5-4307
+Cache-Control: max-age=604800
+Vary: Accept-Encoding,Cookie
+X-Powered-By: W3 Total Cache/0.9.4.1
+Expires: Mon, 02 Mar 2015 17:38:21 GMT
+ngpass_ngstatic: 1
 

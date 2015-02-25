@@ -1,12 +1,13 @@
-Server: nginx
-Date: Wed, 18 Feb 2015 01:22:25 GMT
+X-Pingback: http://www.barnesandnoble.com/blog/barnesy/xmlrpc.php
+Link: <http://www.barnesandnoble.com/blog/?p=7383>; rel=shortlink
+Last-Modified: Mon, 23 Feb 2015 15:54:15 GMT
+X-Cnection: close
 Content-Type: text/html; charset=UTF-8
+Vary: User-Agent
+Vary: Accept-Encoding
+Date: Mon, 23 Feb 2015 15:54:15 GMT
 Transfer-Encoding: chunked
 Connection: close
-Vary: Accept-Encoding
-Vary: Cookie
-X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
-X-Pingback: http://101books.net/xmlrpc.php
-Link: <http://wp.me/p136Ap-F>; rel=shortlink
-X-ac: 3.ord _dca
+Connection: Transfer-Encoding
+Set-Cookie: TS019fd21a=016b4a666ed541c236c9e23d24da98e036ccc36bd818df56125b8978f53c296e57de61aa51; Path=/
 

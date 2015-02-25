@@ -1,14 +1,22 @@
 Server: Apache
-Content-Type: text/html; charset=UTF-8
-Vary: Accept-Encoding
-Cache-Control: max-age=873
-Expires: Wed, 18 Feb 2015 02:39:05 GMT
-Date: Wed, 18 Feb 2015 02:24:32 GMT
-Content-Length: 31639
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.247
+ETag: "20150223033314-1424445818"
+Last-Modified: Mon, 23 Feb 2015 03:33:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 309501
+Accept-Ranges: bytes
+Date: Mon, 23 Feb 2015 17:18:35 GMT
+Age: 44903
 Connection: close
-Set-Cookie: edgelong=-76.4974
-Set-Cookie: edgelat=42.4320
-Set-Cookie: edgestate=NY
-Set-Cookie: edgecity=ITHACA
-Set-Cookie: edgezip=14850
+X-Served-By: ap-s34, cache-wk-sjc3160-WKSJC, cache-atl6226-ATL
+X-Cache: ORIGIN, HIT, MISS
+X-Cache-Hits: ORIGIN, 3, 0
+X-Timer: S1424711915.295194,VS0,VE194
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=Px4kC6iHdB; domain=.wikia.com; path=/; expires=Sat, 22 Aug 2015 17:18:35 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 

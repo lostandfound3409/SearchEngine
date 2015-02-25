@@ -1,6 +1,15 @@
-Date: Wed, 18 Feb 2015 02:56:12 GMT
-Server: Apache/2.2.29
-Connection: close
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1378164899 1378118957
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=1958
+Date: Mon, 23 Feb 2015 17:42:24 GMT
 Transfer-Encoding: chunked
-Content-Type: text/html
+Connection: close
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

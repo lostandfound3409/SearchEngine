@@ -5092,6 +5092,8 @@ secret
 ident
 batgirl
 batman
+dark
+knight
 batw
 batwoman
 bluebird
@@ -5199,7 +5201,7 @@ martha
 wayn
 thoma
 wayn
-villain
+antagonist
 anarki
 bane
 black
@@ -5211,6 +5213,9 @@ catman
 catwoman
 clayfac
 cluemast
+court
+of
+owl
 deadshot
 deathstrok
 carmin

@@ -1,13 +1,16 @@
-Set-Cookie: ServerID=1601; path=/
-Date: Wed, 18 Feb 2015 02:22:45 GMT
-Set-Cookie: JSESSIONID=C56FD9B5D5F6E325019215032BF1F841; Path=/; HttpOnly
-Content-Type: text/html;charset=ISO-8859-1
-Content-Language: en-US
-Vary: User-Agent,Accept-Encoding
-FLX-Server: web501.flixster.com
-RT-Commit: RTRELEASE.2015-02-12.12-40-32 b3f4891
-FLX-Commit: ADMINRELEASE.2015-02-12.12-02-52 2f36d85
-FLX-Build-Date: 2015-02-12 12:44:08
-Connection: close
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1377877479 1377601620
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=355
+Date: Mon, 23 Feb 2015 17:18:00 GMT
 Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

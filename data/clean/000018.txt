@@ -172,7 +172,6 @@ fine
 jewelri
 view
 all
-jewelri
 shop
 by
 watch
@@ -181,9 +180,6 @@ s
 watch
 men
 s
-watch
-view
-all
 watch
 more
 way

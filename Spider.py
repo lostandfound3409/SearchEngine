@@ -1,11 +1,14 @@
 import os
+import urllib.request
+import urllib.error
 import nltk
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup
 import shutil
 from stemming.porter2 import stem
+import time
 from WebDB import WebDB
-import re
+from MyGoogle import MyGoogle
 
 
 class MLStripper(HTMLParser):
@@ -26,11 +29,16 @@ class Spider:
     directoriesToCreate = [r'data', r'data\item', r'data\raw', r'data\clean',
                            r'data\header']  # Directories to be created
     directoriesToRenew = [r'data\raw', r'data\clean', r'data\header']
+    itemFolder = 'data\item'
+    cleanFolder = 'data\clean'
+    googleman = MyGoogle()
+    startId = 0
+    num_results = 10
 
     # Constructor, clears and recreates cache
     def __init__(self, create=directoriesToCreate, delete=directoriesToRenew):
-        self.delete_dirs(delete)
-        self.create_dirs(create)
+        """self.delete_dirs(delete)
+        self.create_dirs(create)"""
 
     #Creates Cache
     def create_dirs(self, directories):
@@ -48,6 +56,7 @@ class Spider:
     def parser(self, siteIn):
         # Remove scripts and styles
         soup = BeautifulSoup(siteIn)
+        title = soup.title.string
         [tag.decompose() for tag in soup(["script", "style", "iframe"])]
 
         s = MLStripper()
@@ -59,7 +68,7 @@ class Spider:
             text = text.replace(badChar, " ")
         wordList = nltk.word_tokenize(text)
 
-        return wordList
+        return wordList, title
 
     #Stemmer
     def stem_list(self, listIn):
@@ -70,34 +79,35 @@ class Spider:
         lowerList = [token.lower() for token in listIn]
         return lowerList
 
-    def convertEmbeddedList(self, list):
+    def convert_embedded_list(self, list):
         toReturn = []
         for sublist in list:
             for item in sublist:
                 toReturn.append(item)
         return toReturn
 
-    def fetch(self, urlIn, site, id, type):
+    def fetch(self, urlIn, site, theId, theType, query):
+        wordlist = []
         print("Fetching...")
         readSite = site.read()
 
         #Header storage algorithm
-        headerFile = open(r'data\header\\' + str(id).zfill(6) + '.txt', 'w+')
+        headerFile = open(r'data\header\\' + str(theId).zfill(6) + '.txt', 'w+')
         headerFile.write(str(site.info()))
         headerFile.close()
 
 
         #Clean
-        list = self.parser(readSite)
-        list = self.lower_list(list)
-        list = self.stem_list(list)
-        list = self.convertEmbeddedList(list)
-        cleanFile = open(r'data\clean\\' + str(id).zfill(6) + '.txt', 'w+')
-        for item in list:
+        wordlist, title = self.parser(readSite)
+        wordlist = self.lower_list(wordlist)
+        wordlist = self.stem_list(wordlist)
+        wordlist = self.convert_embedded_list(wordlist)
+        cleanFile = open(r'data\clean\\' + str(theId).zfill(6) + '.txt', 'w+')
+        for item in wordlist:
             try:
                 cleanFile.write(item + "\n")
                 #Raw
-                rawFile = open(r'data\raw\\' + str(id).zfill(6) + '.html', 'w+')
+                rawFile = open(r'data\raw\\' + str(theId).zfill(6) + '.html', 'w+')
                 rawFile.write(str(readSite))
                 rawFile.close()
             except UnicodeEncodeError:
@@ -106,13 +116,40 @@ class Spider:
 
         #Store in database
         db = WebDB('data\cache.db')
-        try:
-            titleRE = re.compile("<title>(.+?)</title>")
-            title = titleRE.search(str(site)).group(1)
-        except AttributeError:
-            title = "No title specified"
-        urlID = db.insertCachedURL(str(urlIn), "text/html", title)
-        itemID = db.insertItem(str(id), type)
+        if title != None:
+            title = "".join(c for c in title if c not in ('!','.',':', '\''))
+        else:
+            title = "No Title Specified"
+        query = "".join(c for c in query if c not in ('!','.',':', '\''))
+        print(title)
+        print (query)
+        urlID = db.insertCachedURL(str(urlIn), query + " : " + str(theType), title)
+        itemID = db.insertItem(str(theId), theType)
         u2iID = db.insertURLToItem(urlID, itemID)
-        (url, docType, title) = db.lookupCachedURL_byID(urlID)
+
         print("Stored in DB \n")
+
+    def cache_restruct(self):
+        input("Are you sure? This will delete all files stored in the data folder \nPress enter to continue.....")
+        databaseClear = input("Would you like to clear the database file as well?(y or n): ")
+        if databaseClear == "y":
+            db = None
+            os.remove('data\cache.db')
+            print("Database Cleared!")
+        for root, dirs, files in os.walk(self.itemFolder):
+            for file in files:
+                log = open(os.path.join(root, file), 'r')
+                type = os.path.splitext(file)[0]
+                for query in log.readlines():
+                    my_list = self.googleman.searchMe("\"" + query.rstrip() + "\" " + type)
+                    print("Searching for " + "\"" + query.rstrip() + "\" " + type)
+                    for url in my_list[0:self.num_results]:
+                        print(url)
+                        try:
+                            site = urllib.request.urlopen(str(url))
+                            self.fetch(url, site, self.startId, type, query.rstrip())
+                        except (urllib.error.URLError, SyntaxError):
+                            print("Can not access this page, skipping....")
+                        self.startId += 1
+        print("Please restart the application.")
+        time.sleep(5)

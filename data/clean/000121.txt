@@ -11261,7 +11261,8 @@ as
 the
 top
 sell
-bluray
+blu
+ray
 in
 the
 us
@@ -21247,7 +21248,7 @@ titl
 avatar_
 2009_film
 oldid
-647454175
+648426759
 categori
 2009
 filmsenglish
@@ -21302,6 +21303,10 @@ in
 the
 22nd
 centuryfilm
+about
+parapleg
+or
+quadriplegicsfilm
 about
 rebellionsfilm
 about
@@ -21601,12 +21606,12 @@ was
 last
 modifi
 on
-16
+23
 februari
 2015
 at
-21
-35
+04
+18
 text
 is
 avail

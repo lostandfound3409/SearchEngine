@@ -1,14 +1,7 @@
-Server: nginx/1.4.4
-Content-Type: text/html;charset=utf-8
-Status: 200 OK
-X-XSS-Protection: 1; mode=block
-X-UA-Compatible: IE=edge,chrome=1
-X-Varnish: 2115841031 2115831289
-Vary: Accept-Encoding
-Cache-Control: public, max-age=1608
-Date: Wed, 18 Feb 2015 02:45:44 GMT
-Transfer-Encoding: chunked
+Date: Mon, 23 Feb 2015 17:32:19 GMT
+Server: Apache/2.4.12 (FreeBSD) mod_wsgi/3.5 Python/2.7.9
+Accept-Ranges: bytes
+Content-Length: 5889
 Connection: close
-Connection: Transfer-Encoding
-X-Origin: Matterhorn
+Content-Type: text/html
 

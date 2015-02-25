@@ -1,11 +1,9 @@
-X-Powered-By: PHP/5.5.11
-Content-Type: text/html; charset=utf-8
-Set-Cookie: PHPSESSID=jmfcs7t3qmaec3mc88jr71q2c5; path=/
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
+Date: Mon, 23 Feb 2015 17:33:12 GMT
+Server: Apache
+X-Pingback: http://earnthis.net/xmlrpc.php
+Link: <http://earnthis.net/?p=4654>; rel=shortlink
+Vary: Accept-Encoding
 Connection: close
 Transfer-Encoding: chunked
-Date: Wed, 18 Feb 2015 02:46:39 GMT
-Server: lighttpd/1.4.35
+Content-Type: text/html; charset=UTF-8
 

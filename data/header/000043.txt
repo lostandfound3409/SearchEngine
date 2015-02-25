@@ -1,9 +1,19 @@
-Server: nginx
-Date: Wed, 18 Feb 2015 00:54:28 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=19659802;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
 Content-Type: text/html; charset=UTF-8
+X-Varnish: 2812688803 2782231864, 1893469898
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Mon, 23 Feb 2015 15:45:52 GMT
+Age: 23018
 Connection: close
-Vary: Accept-Encoding
-X-Pingback: http://blogs.slj.com/afuse8production/xmlrpc.php
-Link: <http://blogs.slj.com/afuse8production/?p=14005>; rel=shortlink
+X-Cache: cp1054 hit (4), cp1052 frontend miss (0)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

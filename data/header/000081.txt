@@ -7,13 +7,13 @@ Vary: Accept-Encoding,Cookie
 X-Powered-By: HHVM/3.3.1
 Last-Modified: Mon, 16 Feb 2015 14:13:00 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3951285889 3950106355, 1354545272 1219016331
+X-Varnish: 167736800 153076895, 1071978208 901308960
 Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Wed, 18 Feb 2015 01:28:30 GMT
-Age: 126798
+Date: Mon, 23 Feb 2015 15:59:11 GMT
+Age: 177418
 Connection: close
-X-Cache: cp1067 hit (4), cp1053 frontend hit (116)
+X-Cache: cp1067 hit (2), cp1067 frontend hit (113)
 Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

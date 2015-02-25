@@ -761,6 +761,7 @@ extern
 link
 plot
 summari
+edit
 see
 also
 the
@@ -1034,6 +1035,7 @@ fellowship
 of
 the
 ring
+edit
 the
 stori
 begin
@@ -1532,6 +1534,7 @@ along
 the
 two
 tower
+edit
 orc
 sent
 by
@@ -1931,6 +1934,7 @@ return
 of
 the
 king
+edit
 sauron
 unleash
 a
@@ -2442,6 +2446,7 @@ ring
 bearer
 main
 charact
+edit
 protagonist
 frodo
 baggin
@@ -2472,9 +2477,9 @@ s
 cousin
 peregrin
 took
-pip
-or
 pippin
+or
+pip
 frodo
 s
 cousin
@@ -2590,7 +2595,7 @@ father
 of
 arwen
 arwen
-undomiel
+undómiel
 daughter
 of
 elrond
@@ -2794,7 +2799,9 @@ moria
 concept
 and
 creation
+edit
 background
+edit
 the
 lord
 of
@@ -2925,6 +2932,7 @@ was
 year
 old
 write
+edit
 persuad
 by
 his
@@ -3184,6 +3192,7 @@ marquett
 univers
 16
 influenc
+edit
 mention
 at
 the
@@ -3633,6 +3642,7 @@ serv
 33
 public
 histori
+edit
 a
 disput
 with
@@ -4001,6 +4011,7 @@ hobbit
 edit
 and
 revis
+edit
 in
 the
 earli
@@ -4208,6 +4219,7 @@ posthum
 public
 of
 draft
+edit
 from
 1988
 to
@@ -4270,6 +4282,7 @@ and
 sauron
 defeat
 translat
+edit
 main
 articl
 translat
@@ -4409,6 +4422,7 @@ with
 general
 guidanc
 recept
+edit
 main
 articl
 recept
@@ -4884,6 +4898,7 @@ award
 in
 2009
 theme
+edit
 main
 articl
 theme
@@ -5201,6 +5216,7 @@ s
 monomyth
 74
 adapt
+edit
 main
 articl
 adapt
@@ -5720,6 +5736,7 @@ in
 may
 2007
 legaci
+edit
 main
 articl
 work
@@ -5734,6 +5751,7 @@ on
 the
 fantasi
 genr
+edit
 the
 enorm
 popular
@@ -5991,6 +6009,7 @@ the
 ring
 84
 music
+edit
 in
 1965
 songwrit
@@ -6640,6 +6659,7 @@ impact
 on
 popular
 cultur
+edit
 welcom
 to
 hobbiton
@@ -7002,6 +7022,7 @@ turbin
 inc
 see
 also
+edit
 middl
 earth
 portal
@@ -7030,6 +7051,7 @@ the
 unit
 kingdom
 note
+edit
 this
 is
 made
@@ -7114,6 +7136,7 @@ aunt
 s
 son
 refer
+edit
 a
 b
 world
@@ -7829,9 +7852,7 @@ isbn
 928037
 6
 tolkien
-j
-r
-r
+christoph
 2000
 the
 war
@@ -9169,6 +9190,7 @@ isbn
 7
 further
 read
+edit
 carter
 lin
 1969
@@ -9374,6 +9396,7 @@ fairi
 stori
 extern
 link
+edit
 wikimedia
 common
 has
@@ -10691,7 +10714,7 @@ php
 titl
 the_lord_of_the_r
 oldid
-647200283
+648355520
 categori
 1950s
 fantasi
@@ -10809,8 +10832,7 @@ talk
 variant
 view
 read
-view
-sourc
+edit
 view
 histori
 more
@@ -10943,12 +10965,12 @@ was
 last
 modifi
 on
-15
+22
 februari
 2015
 at
-04
-58
+18
+24
 text
 is
 avail

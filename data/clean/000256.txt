@@ -7334,9 +7334,9 @@ juli
 532
 764
 no
-52
+55
 no
-39
+42
 160
 000
 000
@@ -7634,7 +7634,7 @@ current
 stand
 as
 the
-41st
+42nd
 highest
 gross
 of
@@ -8760,6 +8760,9 @@ dream
 of
 a
 lifetim
+by
+don
+rosa
 140
 141
 142
@@ -12657,7 +12660,7 @@ php
 titl
 incept
 oldid
-647602962
+648452427
 categori
 2010
 filmsenglish
@@ -12952,12 +12955,12 @@ was
 last
 modifi
 on
-17
+23
 februari
 2015
 at
-20
-39
+09
+11
 text
 is
 avail

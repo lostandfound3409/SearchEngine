@@ -1,15 +1,19 @@
-Date: Wed, 18 Feb 2015 02:45:01 GMT
-Server: Server
-pragma: no-cache
-x-amz-id-1: 0VG4DXHC61DDMA2VAE1P
-p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-x-sap-pg: dvd_display_on_website
-cache-control: no-cache
-x-frame-options: SAMEORIGIN
-expires: -1
-x-amz-id-2: 7cQ1uHvAqM7fvk9cgEu9IYkfvpR1JbUjVgbVKff5ffOSivOKuXCfGjNS+WY8XVcb
-x-ua-compatible: IE=edge
-Vary: Accept-Encoding,User-Agent
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=88678;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 23 Feb 2015 14:22:35 GMT
 Content-Type: text/html; charset=UTF-8
+X-Varnish: 3194593542 3194375982, 709345855 695877124
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Mon, 23 Feb 2015 17:30:25 GMT
+Age: 11257
+Connection: close
+X-Cache: cp1068 hit (2), cp1066 frontend hit (27)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

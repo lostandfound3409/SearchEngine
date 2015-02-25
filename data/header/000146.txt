@@ -1,5 +1,5 @@
 Server: nginx
-Date: Wed, 18 Feb 2015 02:08:40 GMT
+Date: Mon, 23 Feb 2015 16:40:02 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
@@ -8,5 +8,8 @@ Vary: Cookie
 X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
 X-Pingback: https://ellokhai.wordpress.com/xmlrpc.php
 Link: <http://wp.me/p1SGU0-5S>; rel=shortlink
+Last-Modified: Mon, 23 Feb 2015 16:40:02 GMT
+Cache-Control: max-age=300, must-revalidate
+X-nananana: Batcache
 X-ac: 1.ord _dca
 

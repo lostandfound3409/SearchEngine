@@ -1,9 +1,12 @@
-Date: Wed, 18 Feb 2015 02:03:15 GMT
-Server: Apache
-Vary: Cookie
-X-Pingback: http://www.titanicuniverse.com/xmlrpc.php
-Link: <http://www.titanicuniverse.com/?p=52>; rel=shortlink
-Connection: close
+Date: Mon, 23 Feb 2015 16:34:17 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYubP8PQkc97zKMhLXtTdj3mvDdiqr8DdN1TeXfCvWmff_B_2ExC7zGRqV2nT-mHf6zqOCq9DQd%0D%0Ae-hI97Qlz0Dg3xPcqG8_DdOdxS0dx3JzjDjv8YcKCliMIdKwzQL9qUmZDOPBIdmb8VXiJFipB_He%0D%0ARcOs1TiqpU3s8P5qSXN4EJIH4KAF0Fqdm8Mkk8-a1bDywxj_ID0yIQHi_peaPovSZtF_vfJYFhJ2%0D%0AS_bIQnRSxsLzpVZLE9NPis5cxToLntUt9i_jl2kqDYs_ebsBdNP3GA%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:48:24 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:48:24 GMT; Path=/
+Set-Cookie: session-id-time=1582389257; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:48:24 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
 

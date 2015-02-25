@@ -1,14 +1,15 @@
-Date: Wed, 18 Feb 2015 02:18:12 GMT
+Date: Mon, 23 Feb 2015 17:13:27 GMT
 Server: gwiseguy/2.0
-Cache-Control: no-cache
+X-Frame-Options: SAMEORIGIN
 Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
 Expires: Tue, 27 Apr 1971 19:44:06 EST
 X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
 P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-inline' 'unsafe-eval' https:; img-src https: data:; report-uri /csp_204?t=https&ts=Thu+Feb+19+05%3A14%3A15+2015+%281424351655%29&pcl=86681273&vcs=5b83184fa6f877f97d8f4db6598efd9b
 X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-Set-Cookie: YSC=bW2WEX3sW1c; path=/; domain=.youtube.com; HttpOnly
-Set-Cookie: VISITOR_INFO1_LIVE=qU42xzb5kQk; expires=Mon, 19-Oct-2015 14:11:12 GMT; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: YSC=yyb8KgZV1oo; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=YGlMdCqz6KM; expires=Sun, 25-Oct-2015 05:06:27 GMT; path=/; domain=.youtube.com; HttpOnly
 Alternate-Protocol: 443:quic,p=0.08
 Accept-Ranges: none
 Vary: Accept-Encoding

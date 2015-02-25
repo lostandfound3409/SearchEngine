@@ -1,12 +1,10 @@
 Server: Apache/2.2.15 (CentOS)
-X-Pingback: http://collider.com/xmlrpc.php
-Link: <http://collider.com/?p=174399>; rel=shortlink
+X-Pingback: http://www.deathandtaxesmag.com/wp/xmlrpc.php
+Link: <http://www.deathandtaxesmag.com/?p=183463>; rel=shortlink
 Content-Type: text/html; charset=UTF-8
-Cache-Control: public, max-age=900
+Vary: Accept-Encoding
+Date: Mon, 23 Feb 2015 17:29:57 GMT
 Transfer-Encoding: chunked
-Date: Wed, 18 Feb 2015 02:42:55 GMT
-Age: 0
-Expires: Wed, 18 Feb 2015 02:57:55 GMT
-Vary: Accept-Encoding, User-Agent
 Connection: close
+Connection: Transfer-Encoding
 

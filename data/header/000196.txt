@@ -1,13 +1,12 @@
-Date: Wed, 18 Feb 2015 02:42:41 GMT
+Date: Mon, 23 Feb 2015 17:29:44 GMT
 Server: Server
 X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYolmSTzRT1C-zgOMcohenJXye7m7iOWCUxpV4XiDUXd486uDKH5cN3pPuOtjZurq9AXyJp6tRe%0D%0AuTJe0T_trK3y9BaIn2dYTYFHDfUHm-8XwVB1uomT0FPo7vVfIENFLqqftKp04yeZoaKD85aojbQ8%0D%0AcjJ6rJV5rkod5bX5LKxyxknjOuApsY5mxtt0_VPbeuas4ES0en97pWTtsCT2iQy8kXg3qZMZoWrK%0D%0A6F6my__XaFYMgluNNT9hQPwvNa_jZQ7m6_NmWM0PIYMOH8FoMrSmcw%0D%0A; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:56:49 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:56:49 GMT; Path=/
-Set-Cookie: session-id-time=1581907361; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:56:49 GMT; Path=/
+Set-Cookie: uu=BCYpVn3po4LxSVo_JmHS5U5LWSnUyTzLFLapAyk-Qh6ORdAd8Ctb-jVck-LCkE0sjZ_JqKtjtHC2%0D%0A8umi_gdJPHu2N3g01WF3wNSslPi4YZIbQGWIpAcF9w52TlEIWa90x7Yr6XbYnepsm8IdzrIUELEZ%0D%0A-ay5VI-rMwdRRZZ4xEPYm9YmQfHNyt-vvhmG8UFP9BRbQirvq9MC76coWF_WejZITuxXlsYzld4w%0D%0AC1vmyOc5X-jEU6vsq_MNED7tsqZXCBw1qgMML6hlnjQYJxcpWA6JMQ%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:43:51 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:43:51 GMT; Path=/
+Set-Cookie: session-id-time=1582392584; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:43:51 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Connection: close
 Transfer-Encoding: chunked
 

@@ -1,19 +1,16 @@
-Server: Apache
+Date: Mon, 23 Feb 2015 17:36:31 GMT
+Server: gwiseguy/2.0
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
-X-Analytics: page_id=702117;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Mon, 16 Feb 2015 14:13:00 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 2434653438 2433668312, 1410758738 1268653785
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Wed, 18 Feb 2015 02:49:59 GMT
-Age: 131546
+Set-Cookie: YSC=bmlTcpHuX4M; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=x6bee6DKGDU; expires=Sun, 25-Oct-2015 05:29:31 GMT; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.08
+Accept-Ranges: none
+Vary: Accept-Encoding
 Connection: close
-X-Cache: cp1055 hit (2), cp1052 frontend hit (119)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -1,10 +1,12 @@
-Date: Wed, 18 Feb 2015 02:18:04 GMT
+Date: Mon, 23 Feb 2015 17:13:18 GMT
 Server: Apache
-X-Powered-By: PHP/5.4.35
-Vary: Cookie
-X-Pingback: http://www.disneydreaming.com/xmlrpc.php
-Link: <http://www.disneydreaming.com/?p=23243>; rel=shortlink
+Last-Modified: Sun, 22 Feb 2015 19:34:48 GMT
+ETag: "700002cf-4f44-50fb260f77708;50f7b92ede6d6"
+Accept-Ranges: bytes
+Content-Length: 20292
+Cache-Control: max-age=3, must-revalidate
+Expires: Mon, 23 Feb 2015 17:13:21 GMT
+Vary: Accept-Encoding,Cookie
 Connection: close
-Transfer-Encoding: chunked
 Content-Type: text/html; charset=UTF-8
 

@@ -1,72 +1,43 @@
-import urllib.request
-import urllib.error
 from Spider import Spider
-from MyGoogle import MyGoogle
-import os
-import time
-from TermDictionary import TermDictionary
 from sys import exit
 from WebDB import WebDB
+from Queries import Queries
 
-import re
 db = WebDB('data\cache.db')
 my_list = []
 wordDict = {}
-itemFolder = 'data\item'
-cleanFolder = r'data\clean'
-googleman = MyGoogle()
-id = 0
+id = 190
 num_results = 10
+queries = Queries()
+spiderman = Spider()
 
-termDict = TermDictionary()
-
-for root, dirs, files in os.walk(cleanFolder):
-    for file in files:
-        count = 0
-        log = open(os.path.join(root, file), 'r')
-        docID = os.path.splitext(file)[0]
-        for term in log.readlines():
-            count += 1
-            termDict.addWord(term, docID, count)
-        log.close()
-termDict.items()
-
-
-choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n > "))
+choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n> "))
 while 0 < choice < 8:
-
+    # token query
     if choice == 1:
-        print ("hello")
-
+        queries.token_query()
+    #And query
+    elif choice == 2:
+        queries.and_query()
+    #OR query
+    elif choice == 3:
+        queries.or_query()
+    #Phrase Query
+    elif choice == 4:
+        queries.phrase_query()
+    #Near Query
+    elif choice == 5:
+        queries.near_query()
     #Recreate cache
     elif choice == 6:
-        spiderman = Spider()
-        for root, dirs, files in os.walk(itemFolder):
-            for file in files:
-                log = open(os.path.join(root, file),'r')
-                type = os.path.splitext(file)[0]
-                for query in log.readlines():
-                    my_list = googleman.searchMe("\"" + query.rstrip() + "\" " + type)
-                    print("Searching for " + "\"" + query.rstrip() + "\" " + type)
-                    for url in my_list[0:num_results]:
-                        print(url)
-                        try:
-                            site = urllib.request.urlopen(str(url))
-                            spiderman.fetch(url, site, id, type)
-                        except urllib.error.URLError:
-                            print("Can not access this page, skipping....")
-                        id += 1
-        print("Please restart the application.")
-        time.sleep(5)
-    else:
-        print ("\nYou did not enter a valid number\n")
+        spiderman.cache_restruct()
+    elif choice == 7:
         exit(0)
 
-    choice = input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n >")
+    choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n>"))
+
+print("\nYou did not enter a valid number\n")
 
 
-
-
-print("Download Complete!")
 
 

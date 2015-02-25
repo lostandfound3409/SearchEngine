@@ -1,16 +1,20 @@
-Date: Wed, 18 Feb 2015 03:01:05 GMT
-Server: Apache
-X-UA-Compatible: IE=Edge,chrome=1
-ETag: "77c286d255afa54199b5ef8afe0538fb"
-Cache-Control: max-age=0, private, must-revalidate
-X-Request-Id: c4658c5a81f4de1449762946978c1516
-X-Runtime: 0.182039
-X-Rack-Cache: miss
-X-Powered-By: Phusion Passenger 4.0.23
-Set-Cookie: _jango_s=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTBmYjk4NDMyMThhNGIxNWFmZjUwMmQ1Y2Y2NGFhNGE5BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMVRBeWdzc2hqQ0xxdHBzQTdtalJTMjVDc1U2bXlkZk9PV0hFYUY5QXkrcFE9BjsARg%3D%3D--6b66b2fe00886e3fb2fb640d40b2981959d04cb4; domain=.jango.com; path=/; expires=Tue, 18-Feb-2020 03:01:05 GMT; HttpOnly
-Content-Length: 51394
-Status: 200 OK
-Vary: Accept-Encoding
-Connection: close
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www210
+P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
+X-Frame-Options: SAMEORIGIN
+X-Prof: MCg:1123, MCs:0, DBq:2, DBc:1, PellegrinoSingleQueries:2
 Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Vary: X-Country-Code
+Vary: Accept-Encoding
+Expires: Mon, 23 Feb 2015 17:47:46 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 23 Feb 2015 17:47:46 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=b28a5e0d0c59dae60c7722928b706e82-806398598eb390fbbaf817d4c8ed67e2a7f4bb47beac0a0293f34d6f2be3dc75; expires=Fri, 24-Jan-2025 05:47:41 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=87f37050b7f5ea4c4ab0aa6c4f236762; expires=Thu, 18-Feb-2016 17:47:41 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1424713661; path=/; domain=.last.fm
 

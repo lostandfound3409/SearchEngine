@@ -1,12 +1,9 @@
-Date: Wed, 18 Feb 2015 02:03:02 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYl_nEEyEafclk3VVGqVOicptTdM6P86MApdU64SXhPGUjT0nIfcgvtxaQAfgUMuPDxmnKPfu8i%0D%0AKfKwpfMESDUDKF9CloMaU5gLNwDQdNP4_KSSNV29NWD_utddg9II0a1LlN1FLJdImYnN5Jj-Jw55%0D%0AmsxK1X3Zh_6VTYwjxuODqW8LORYbMHTMdTULtogalicNGs0BI87bhHm7FVg1Cmap3y4jd1Ga0yl-%0D%0AIWTfhzMuvBl9izbpKrUdqWq9naP-qy0ELqXX6mn04FSPS_FMJgDxHA%0D%0A; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:17:09 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:17:09 GMT; Path=/
-Set-Cookie: session-id-time=1581904981; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:17:09 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Date: Mon, 23 Feb 2015 16:34:16 GMT
+Server: Apache
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
+Connection: close
 Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

@@ -1,12 +1,21 @@
-Date: Wed, 18 Feb 2015 02:11:45 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYphwF_IGiWVzcyi-SnN6p2MXRqePp5TbyhLQolqUDuqqFQPurAGeh3_iMbLfM0W9vWiDI9tk7s%0D%0AdXqUmlTedZlOJZfjis4B45g2S3y7LHgIVZ6MurIOvYIe06Rdrqak77g9yXVnGVitKfa1J--Ofiky%0D%0AuCEsvsPxME1A8FTjf--bc1Jd7N1dHZEjbdJ_GY3ZBnfs2uLHgWsocfo9vDaIax58u5lSqK4x4TI1%0D%0AnHaJ9ETgTfLlT2vg1HA6FomPo9b9mKgB2SdvdG8SfLX9j3SZrCWUEw%0D%0A; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:25:52 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:25:52 GMT; Path=/
-Set-Cookie: session-id-time=1581905505; Domain=.imdb.com; Expires=Mon, 08-Mar-2083 05:25:52 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Transfer-Encoding: chunked
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=999394;ns=0
+Content-language: en
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Wed, 18 Feb 2015 16:53:14 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3206760409, 1076710541
+Via: 1.1 varnish, 1.1 varnish
+Content-Length: 214995
+Accept-Ranges: bytes
+Date: Mon, 23 Feb 2015 17:05:45 GMT
+Age: 0
+Connection: close
+X-Cache: cp1068 miss (0), cp1067 frontend miss (0)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

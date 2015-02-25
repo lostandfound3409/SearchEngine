@@ -1,0 +1,12 @@
+Server: Apache
+X-Powered-By: PHP/5.3.29
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Date: Mon, 23 Feb 2015 18:34:40 GMT
+X-Varnish: 1078597941 1078499924
+Age: 2670
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: __fwLCpfvBUjcH=__s2; path=/
+

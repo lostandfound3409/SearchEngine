@@ -1,11 +1,12 @@
-Server: nginx/1.6.2
-Date: Wed, 18 Feb 2015 00:54:35 GMT
-Content-Type: text/html; charset=UTF-8
-Content-Length: 99844
+Date: Mon, 23 Feb 2015 15:45:57 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: private
+Vary: Accept-Encoding
+Content-Type: text/html
+Expires: Mon, 23 Feb 2015 15:45:57 GMT
+Age: 0
+Transfer-Encoding: chunked
 Connection: close
-Last-Modified: Thu, 23 Jan 2014 21:00:24 GMT
-Accept-Ranges: bytes
-Cache-Control: max-age=3, must-revalidate
-Expires: Wed, 18 Feb 2015 00:54:38 GMT
-Vary: Accept-Encoding,Cookie
+Via: http/1.1 phtml3.store.bf1.yahoo.com (ApacheTrafficServer/5.0.1)
+Server: ATS
 

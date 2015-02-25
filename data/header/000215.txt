@@ -1,9 +1,14 @@
-Date: Wed, 18 Feb 2015 02:46:36 GMT
-Server: Apache
-X-Pingback: http://earnthis.net/xmlrpc.php
-Link: <http://earnthis.net/?p=4654>; rel=shortlink
-Vary: Accept-Encoding
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Mon, 23 Feb 2015 17:33:08 GMT
+ETag: "fa9b5fda57897e3c75523e58d4f97a18"
+Server: nginx
+Set-Cookie: _ebert_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWQ1Y2Q5MmJmMTJmMDBiZGI2ZWU5YWFlOTg4ZTBkNTk4BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXFKZmRDVW1nVndWOGFwczhseElDTjlhSlZNeFF2eHUrZXAxUkhSeGdpQkk9BjsARg%3D%3D--ff4845d0d34d5738a25309a52b5c208073737eeb; path=/; HttpOnly
+Status: 200 OK
+X-Rack-Cache: miss
+X-Request-Id: ce9ee4cee05950fd42504263db5d78ca
+X-Runtime: 0.088792
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Length: 79682
+Connection: Close
 

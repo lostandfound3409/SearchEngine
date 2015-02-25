@@ -1,12 +1,22 @@
-Server: Apache/2.2.15 (CentOS)
-X-Pingback: http://collider.com/xmlrpc.php
-Link: <http://collider.com/?p=17329>; rel=shortlink
-Content-Type: text/html; charset=UTF-8
-Cache-Control: public, max-age=900
-Transfer-Encoding: chunked
-Date: Wed, 18 Feb 2015 02:38:24 GMT
-Age: 0
-Expires: Wed, 18 Feb 2015 02:53:24 GMT
-Vary: Accept-Encoding, User-Agent
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.234
+ETag: "20150103220924-1424445818"
+Last-Modified: Sat, 03 Jan 2015 22:09:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 149774
+Accept-Ranges: bytes
+Date: Mon, 23 Feb 2015 17:23:15 GMT
+Age: 37772
 Connection: close
+X-Served-By: ap-s11, cache-wk-sjc3160-WKSJC, cache-ord1720-ORD
+X-Cache: ORIGIN, HIT, HIT
+X-Cache-Hits: ORIGIN, 1, 1
+X-Timer: S1424712195.115896,VS0,VE52
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=ufgSwTf2pT; domain=.wikia.com; path=/; expires=Sat, 22 Aug 2015 17:23:15 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 

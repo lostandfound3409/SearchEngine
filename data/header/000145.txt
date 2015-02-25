@@ -4,9 +4,8 @@ Server:
 Backend: templates
 X-Frame-Options: SAMEORIGIN
 X-Cnection: close
-X-Akamai-Transformed: 9 19087 0 pmb=mRUM,1
 Vary: Accept-Encoding
-Date: Wed, 18 Feb 2015 02:08:36 GMT
+Date: Mon, 23 Feb 2015 16:39:58 GMT
 Transfer-Encoding: chunked
 Connection: close
 Connection: Transfer-Encoding

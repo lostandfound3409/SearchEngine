@@ -1,16 +1,12 @@
-Date: Wed, 18 Feb 2015 02:45:47 GMT
-Server: gwiseguy/2.0
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-X-Content-Type-Options: nosniff
-Content-Type: text/html; charset=utf-8
-P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
-X-Frame-Options: SAMEORIGIN
-Cache-Control: no-cache
-X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
-Set-Cookie: VISITOR_INFO1_LIVE=G3MJtHZyt_Q; expires=Mon, 19-Oct-2015 14:38:47 GMT; path=/; domain=.youtube.com; HttpOnly
-Set-Cookie: YSC=kzhCQZQT5Js; path=/; domain=.youtube.com; HttpOnly
-Alternate-Protocol: 443:quic,p=0.08
-Accept-Ranges: none
-Vary: Accept-Encoding
+Date: Fri, 31 Jan 2014 16:05:43 GMT
+Server: Apache/2
+X-Powered-By: PHP/5.3.28
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=5a5u11oq4ileqn23r0jhkl3840; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding,User-Agent
 Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

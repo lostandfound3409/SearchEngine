@@ -1,15 +1,14 @@
-Server: nginx
-Date: Wed, 18 Feb 2015 01:22:43 GMT
-Content-Type: text/html; charset=UTF-8
+X-UA-Compatible: IE=Edge
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding
+Cache-Control: max-age=300
+Expires: Mon, 23 Feb 2015 15:59:22 GMT
+Date: Mon, 23 Feb 2015 15:54:22 GMT
 Transfer-Encoding: chunked
 Connection: close
-Vary: Accept-Encoding
-Vary: Cookie
-X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
-X-Pingback: https://sentientbeingblog.wordpress.com/xmlrpc.php
-Link: <http://wp.me/p2zTQd-3W>; rel=shortlink
-Last-Modified: Wed, 18 Feb 2015 01:22:43 GMT
-Cache-Control: max-age=300, must-revalidate
-X-nananana: Batcache
-X-ac: 1.ord _dca
+Connection: Transfer-Encoding
+Set-Cookie: ABCGuestID=107.14.38.196.160271424706862164; expires=Mon, 23-Feb-2015 16:24:22 GMT; path=/; domain=.abc.net.au
+Set-Cookie: ABC_LD=int; path=/; domain=.abc.net.au
+Set-Cookie: ABC_FF=desktop; expires=Mon, 23-Feb-2015 17:54:22 GMT; path=/
 

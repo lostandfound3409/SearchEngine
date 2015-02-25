@@ -1,4 +1,4 @@
-Date: Wed, 18 Feb 2015 01:45:54 GMT
+Date: Mon, 23 Feb 2015 16:16:53 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.26
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
@@ -6,7 +6,7 @@ Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
 Set-Cookie: meme_uploaded_image=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
 Set-Cookie: wordpress_test_cookie=WP+Cookie+check; path=/
-Set-Cookie: PHPSESSID=facabb4ccfa2b4a9d86e605ece2c855a; path=/
+Set-Cookie: PHPSESSID=7eb6b1552611a56d06df909dc02ac578; path=/
 X-Pingback: http://www.ourhenhouse.org/xmlrpc.php
 Link: <http://www.ourhenhouse.org/?p=2672>; rel=shortlink
 Connection: close

@@ -169,7 +169,7 @@ class WebDB(object):
             return cache_url_id
 
         sql = """INSERT INTO CachedURL (url, docType, title)
-                 VALUES ('%s', '%s','%s')""" % (self._quote(url), docType, title)
+                 VALUES ('%s', '%s', '%s')""" % (self._quote(url), docType, title)
 
         res = self.execute(sql)
         return self.cur.lastrowid

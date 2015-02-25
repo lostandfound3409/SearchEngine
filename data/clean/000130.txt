@@ -694,6 +694,8 @@ with
 jack
 rose
 tell
+a
+concern
 cal
 that
 she
@@ -708,12 +710,14 @@ save
 her
 from
 fall
+when
+cal
+becom
+indiffer
 she
 suggest
 to
-an
-indiffer
-cal
+him
 that
 jack
 deserv
@@ -4697,52 +4701,6 @@ the
 film
 39
 40
-jame
-cameron
-and
-barri
-dennen
-cameo
-as
-pray
-men
-and
-greg
-elli
-and
-oliv
-page
-play
-cameo
-part
-as
-a
-carpathia
-steward
-and
-steward
-barn
-respect
-41
-42
-the
-boat
-seen
-alongsid
-titan
-is
-the
-ss
-nomad
-1911
-titan
-tender
-ship
-which
-surviv
-to
-this
-day
 pre
 product
 edit
@@ -4823,7 +4781,7 @@ possibl
 —
 jame
 cameron
-43
+41
 jame
 cameron
 had
@@ -4843,9 +4801,9 @@ mount
 everest
 of
 shipwreck
+42
+43
 44
-45
-46
 he
 was
 almost
@@ -4942,7 +4900,7 @@ dive
 to
 the
 shipwreck
-44
+42
 cameron
 wrote
 a
@@ -4951,7 +4909,7 @@ for
 a
 titan
 film
-47
+45
 met
 with
 20th
@@ -4971,8 +4929,8 @@ juliet
 on
 the
 titan
-45
-46
+43
+44
 cameron
 state
 they
@@ -5065,7 +5023,7 @@ the
 titan
 wreck
 itself
-47
+45
 and
 organ
 sever
@@ -5079,7 +5037,7 @@ period
 of
 two
 year
-43
+41
 my
 pitch
 on
@@ -5174,7 +5132,7 @@ at
 the
 real
 wreck
-45
+43
 the
 crew
 shot
@@ -5306,7 +5264,7 @@ staircas
 was
 also
 damag
-48
+46
 descend
 to
 the
@@ -5459,7 +5417,7 @@ began
 write
 the
 screenplay
-47
+45
 he
 want
 to
@@ -5484,7 +5442,7 @@ titan
 crew
 and
 passeng
-43
+41
 i
 read
 everyth
@@ -5516,7 +5474,7 @@ it
 life
 he
 said
-45
+43
 and
 i
 work
@@ -5546,7 +5504,7 @@ and
 i
 adjust
 it
-45
+43
 he
 paid
 meticul
@@ -5668,7 +5626,7 @@ machin
 and
 shot
 it
-45
+43
 cameron
 felt
 the
@@ -5703,7 +5661,7 @@ of
 live
 the
 histori
-43
+41
 the
 treasur
 hunter
@@ -5753,7 +5711,7 @@ would
 mourn
 the
 loss
-43
+41
 he
 said
 all
@@ -5806,7 +5764,7 @@ year
 palpabl
 and
 poignant
-43
+41
 for
 him
 the
@@ -5895,7 +5853,7 @@ and
 accur
 as
 possibl
-49
+47
 harland
 and
 wolff
@@ -5947,7 +5905,7 @@ be
 made
 from
 scratch
-49
+47
 fox
 acquir
 40
@@ -6275,7 +6233,7 @@ rose
 dure
 the
 sink
-50
+48
 for
 the
 safeti
@@ -6289,7 +6247,7 @@ made
 of
 foam
 rubber
-51
+49
 by
 novemb
 15
@@ -6299,7 +6257,7 @@ scene
 were
 be
 shot
-50
+48
 cameron
 chose
 to
@@ -6387,7 +6345,7 @@ to
 the
 correct
 direct
-52
+50
 a
 full
 time
@@ -6428,8 +6386,8 @@ the
 two
 main
 star
-53
-54
+51
+52
 close
 up
 shot
@@ -6700,7 +6658,7 @@ on
 a
 162ft
 crane
-55
+53
 winslet
 chip
 a
@@ -6752,7 +6710,7 @@ t
 believ
 she
 said
-55
+53
 god
 damn
 it
@@ -6772,7 +6730,7 @@ i
 didn
 t
 want
-55
+53
 her
 co
 star
@@ -6818,7 +6776,7 @@ and
 mind
 he
 said
-55
+53
 the
 crew
 felt
@@ -6836,7 +6794,7 @@ mij
 jim
 spelt
 backward
-55
+53
 in
 respons
 to
@@ -6855,7 +6813,7 @@ between
 busi
 and
 aesthet
-55
+53
 dure
 shoot
 on
@@ -6967,7 +6925,7 @@ he
 was
 four
 8
-55
+53
 the
 person
 behind
@@ -6977,7 +6935,7 @@ was
 never
 caught
 16
-56
+54
 the
 film
 schedul
@@ -7029,7 +6987,7 @@ a
 lot
 of
 money
-56
+54
 sever
 other
 left
@@ -7056,7 +7014,7 @@ unsaf
 about
 the
 set
-56
+54
 addit
 dicaprio
 said
@@ -7073,7 +7031,7 @@ in
 danger
 dure
 film
-57
+55
 cameron
 believ
 in
@@ -7150,7 +7108,7 @@ larg
 number
 of
 peopl
-56
+54
 the
 cost
 of
@@ -7443,7 +7401,7 @@ not
 look
 wholli
 convinc
-58
+56
 he
 encourag
 them
@@ -7471,7 +7429,7 @@ the
 white
 star
 line
-59
+57
 afterward
 digit
 water
@@ -7539,7 +7497,7 @@ be
 use
 in
 water
-58
+56
 for
 scene
 set
@@ -7568,7 +7526,7 @@ shot
 against
 a
 greenscreen
-60
+58
 in
 order
 to
@@ -7587,7 +7545,7 @@ into
 a
 greenscreen
 backdrop
-61
+59
 unlik
 previous
 titan
@@ -7814,7 +7772,7 @@ gallon
 000
 l
 tank
-62
+60
 where
 the
 frozen
@@ -7841,7 +7799,7 @@ on
 hair
 and
 cloth
-49
+47
 the
 climact
 scene
@@ -8322,7 +8280,7 @@ after
 the
 titan
 sink
-63
+61
 the
 version
 use
@@ -8357,7 +8315,7 @@ test
 audienc
 dislik
 it
-64
+62
 the
 scene
 was
@@ -8518,7 +8476,7 @@ cut
 for
 similar
 reason
-64
+62
 music
 and
 soundtrack
@@ -8597,7 +8555,7 @@ than
 twenti
 five
 countri
-65
+63
 problem
 play
 this
@@ -8697,7 +8655,7 @@ mood
 within
 the
 film
-66
+64
 horner
 addit
 wrote
@@ -8725,7 +8683,7 @@ sing
 in
 the
 film
-67
+65
 céline
 dion
 agre
@@ -8782,7 +8740,7 @@ end
 of
 the
 movi
-67
+65
 cameron
 also
 want
@@ -8915,7 +8873,7 @@ to
 decemb
 19
 1997
-68
+66
 this
 fuel
 specul
@@ -8976,8 +8934,8 @@ tokyo
 intern
 film
 festiv
-69
-70
+67
+68
 where
 reaction
 was
@@ -8989,7 +8947,7 @@ the
 new
 york
 time
-71
+69
 posit
 review
 start
@@ -9094,12 +9052,12 @@ surpass
 it
 in
 2010
-72
+70
 on
 march
 1
 1998
-73
+71
 it
 becam
 the
@@ -9112,7 +9070,7 @@ than
 1
 billion
 worldwid
-74
+72
 and
 on
 the
@@ -9142,7 +9100,7 @@ it
 3d
 re
 releas
-75
+73
 box
 offic
 mojo
@@ -9167,7 +9125,7 @@ for
 ticket
 price
 inflat
-76
+74
 initi
 theatric
 run
@@ -9297,8 +9255,8 @@ it
 north
 american
 debut
-77
-78
+75
+76
 it
 stay
 at
@@ -9318,7 +9276,7 @@ record
 for
 ani
 film
-79
+77
 the
 film
 stay
@@ -9348,7 +9306,7 @@ of
 600
 788
 188
-80
+78
 outsid
 north
 america
@@ -9365,7 +9323,7 @@ generat
 242
 413
 080
-81
+79
 and
 accumul
 a
@@ -9382,7 +9340,7 @@ it
 initi
 theatric
 run
-82
+80
 commerci
 analysi
 edit
@@ -9452,7 +9410,7 @@ charact
 and
 epic
 drama
-83
+81
 befor
 titan
 s
@@ -9486,10 +9444,10 @@ made
 at
 the
 time
-55
+53
+82
+83
 84
-85
-86
 when
 it
 was
@@ -9549,7 +9507,7 @@ load
 of
 it
 make
-85
+83
 cameron
 also
 thought
@@ -9587,7 +9545,7 @@ a
 certainti
 he
 state
-55
+53
 as
 the
 film
@@ -9644,7 +9602,7 @@ of
 old
 hollywood
 romanc
-55
+53
 it
 s
 hard
@@ -9754,7 +9712,7 @@ respons
 to
 titan
 critic
-55
+53
 when
 the
 film
@@ -9780,7 +9738,7 @@ the
 world
 s
 heart
-84
+82
 the
 first
 batch
@@ -9811,7 +9769,7 @@ stain
 and
 emot
 flabbergast
-86
+84
 the
 film
 was
@@ -9825,7 +9783,7 @@ week
 after
 it
 open
-85
+83
 and
 out
 of
@@ -9859,7 +9817,7 @@ week
 for
 ten
 week
-87
+85
 and
 after
 14
@@ -9873,7 +9831,7 @@ than
 1m
 a
 week
-85
+83
 20th
 centuri
 fox
@@ -9893,7 +9851,7 @@ by
 it
 fifth
 week
-88
+86
 although
 young
 women
@@ -9924,7 +9882,7 @@ time
 box
 offic
 record
-89
+87
 other
 report
 have
@@ -9954,8 +9912,8 @@ ground
 break
 special
 effect
-87
-90
+85
+88
 the
 film
 s
@@ -9967,9 +9925,9 @@ also
 been
 especi
 credit
-86
-91
-92
+84
+89
+90
 now
 consid
 one
@@ -9980,8 +9938,8 @@ that
 make
 men
 cri
-91
-92
+89
+90
 msnbc
 s
 ian
@@ -10045,7 +10003,7 @@ our
 composur
 he
 said
-91
+89
 titan
 abil
 to
@@ -10082,8 +10040,8 @@ like
 that
 sinc
 titan
-93
-94
+91
+92
 also
 address
 the
@@ -10166,7 +10124,7 @@ some
 epic
 love
 stori
-86
+84
 in
 2010
 the
@@ -10335,7 +10293,7 @@ suitabl
 sourc
 of
 emot
-92
+90
 titan
 catchphras
 i
@@ -10355,8 +10313,8 @@ s
 more
 popular
 quotat
-95
-96
+93
+94
 accord
 to
 richard
@@ -10418,7 +10376,7 @@ themselv
 laugh
 he
 said
-96
+94
 cameron
 explain
 the
@@ -10495,7 +10453,7 @@ s
 how
 titan
 work
-97
+95
 media
 awar
 network
@@ -10594,7 +10552,7 @@ gross
 for
 twelv
 year
-98
+96
 cameron
 s
 followup
@@ -10614,14 +10572,14 @@ surpass
 it
 worldwid
 gross
-99
-100
+97
+98
 and
 did
 so
 in
 2010
-72
+70
 various
 explan
 for
@@ -10691,7 +10649,7 @@ moviego
 than
 ever
 befor
-101
+99
 brandon
 gray
 presid
@@ -10727,7 +10685,7 @@ in
 the
 late
 1990s
-99
+97
 in
 decemb
 2009
@@ -10768,7 +10726,7 @@ some
 kind
 of
 chord
-87
+85
 in
 a
 januari
@@ -10803,7 +10761,7 @@ of
 time
 he
 said
-100
+98
 critic
 recept
 edit
@@ -10834,9 +10792,9 @@ histor
 and
 polit
 impact
-83
-102
-103
+81
+100
+101
 it
 hold
 an
@@ -10886,7 +10844,7 @@ and
 old
 fashion
 melodrama
-90
+88
 at
 metacrit
 which
@@ -10921,7 +10879,7 @@ general
 favor
 review
 film
-104
+102
 with
 regard
 to
@@ -11000,7 +10958,7 @@ and
 the
 sad
 saga
-105
+103
 he
 name
 it
@@ -11010,7 +10968,7 @@ best
 film
 of
 1997
-106
+104
 on
 the
 televis
@@ -11056,7 +11014,7 @@ found
 leonardo
 dicaprio
 captiv
-107
+105
 jame
 berardinelli
 state
@@ -11092,7 +11050,7 @@ titan
 you
 experi
 it
-108
+106
 it
 was
 name
@@ -11102,7 +11060,7 @@ best
 film
 of
 1997
-109
+107
 almar
 haflidason
 of
@@ -11158,7 +11116,7 @@ entertain
 achiev
 by
 cameron
-110
+108
 joseph
 mcbride
 of
@@ -11208,7 +11166,7 @@ to
 eman
 from
 hollywood
-111
+109
 the
 romant
 and
@@ -11275,7 +11233,7 @@ stori
 that
 propel
 it
-112
+110
 owen
 gleiberman
 of
@@ -11326,7 +11284,7 @@ level
 of
 popular
 moviemak
-111
+109
 janet
 maslin
 of
@@ -11355,7 +11313,7 @@ gone
 with
 the
 wind
-111
+109
 richard
 corliss
 of
@@ -11377,7 +11335,7 @@ of
 interest
 emot
 element
-113
+111
 some
 review
 felt
@@ -11388,7 +11346,7 @@ and
 dialogu
 were
 weak
-103
+101
 while
 the
 visual
@@ -11442,7 +11400,7 @@ is
 not
 even
 close
-114
+112
 and
 later
 claim
@@ -11462,7 +11420,7 @@ it
 box
 offic
 total
-115
+113
 barbara
 shulgass
 of
@@ -11521,7 +11479,7 @@ the
 actor
 to
 say
-116
+114
 also
 filmmak
 robert
@@ -11542,7 +11500,7 @@ in
 my
 entir
 life
-117
+115
 in
 his
 2012
@@ -11593,7 +11551,7 @@ irish
 and
 the
 unlett
-118
+116
 titan
 suffer
 backlash
@@ -11613,7 +11571,7 @@ of
 best
 film
 end
-119
+117
 and
 yet
 it
@@ -11632,7 +11590,7 @@ movi
 of
 all
 time
-120
+118
 the
 british
 film
@@ -11694,7 +11652,7 @@ those
 attend
 multipl
 screen
-121
+119
 in
 addit
 to
@@ -11729,7 +11687,7 @@ opinion
 of
 the
 film
-122
+120
 benjamin
 willcock
 of
@@ -11804,7 +11762,7 @@ my
 understand
 and
 sympathi
-86
+84
 cameron
 respond
 to
@@ -11997,7 +11955,7 @@ dialogu
 for
 our
 admir
-123
+121
 empir
 eventu
 reinstat
@@ -12047,7 +12005,7 @@ them
 s
 the
 fact
-124
+122
 accolad
 edit
 titan
@@ -12077,7 +12035,7 @@ and
 best
 origin
 song
-125
+123
 kate
 winslet
 and
@@ -12086,9 +12044,7 @@ stuart
 were
 also
 nomine
-but
-lost
-126
+124
 it
 won
 the
@@ -12139,7 +12095,7 @@ guild
 of
 america
 award
-127
+125
 it
 was
 also
@@ -12159,7 +12115,7 @@ fail
 to
 win
 ani
-127
+125
 the
 film
 garner
@@ -12181,7 +12137,7 @@ s
 all
 about
 eve
-128
+126
 and
 won
 eleven
@@ -12238,8 +12194,8 @@ score
 best
 origin
 song
+125
 127
-129
 kate
 winslet
 gloria
@@ -12268,7 +12224,7 @@ dicaprio
 were
 not
 nomine
-84
+82
 it
 was
 the
@@ -12282,7 +12238,7 @@ award
 after
 ben
 hur
-127
+125
 the
 lord
 of
@@ -12343,9 +12299,9 @@ motion
 pictur
 or
 televis
-127
-130
-131
+125
+128
+129
 the
 film
 s
@@ -12390,7 +12346,7 @@ the
 unit
 state
 alon
-132
+130
 the
 soundtrack
 also
@@ -12405,7 +12361,7 @@ in
 the
 u
 s
-133
+131
 my
 heart
 will
@@ -12462,7 +12418,7 @@ the
 kid
 choic
 award
-127
+125
 it
 won
 various
@@ -12486,7 +12442,7 @@ film
 of
 the
 year
-127
+125
 titan
 eventu
 won
@@ -12508,7 +12464,7 @@ bodi
 around
 the
 world
-127
+125
 addit
 the
 book
@@ -12583,7 +12539,7 @@ sourc
 note
 thrill
 25
-134
+132
 a
 list
 of
@@ -12600,7 +12556,7 @@ in
 2001
 passion
 37
-135
+133
 a
 list
 of
@@ -12617,7 +12573,7 @@ in
 2002
 song
 14
-136
+134
 a
 list
 of
@@ -12646,7 +12602,7 @@ on
 movi
 quot
 100
-95
+93
 a
 list
 of
@@ -12679,7 +12635,7 @@ the
 world
 movi
 83
-137
+135
 a
 2007
 10th
@@ -12714,7 +12670,7 @@ s
 top
 10
 6
-138
+136
 the
 2008
 poll
@@ -12758,7 +12714,7 @@ on
 septemb
 1
 1998
-139
+137
 the
 vhs
 was
@@ -12848,7 +12804,7 @@ sell
 one
 million
 copi
-140
+138
 at
 the
 time
@@ -12906,7 +12862,7 @@ perform
 even
 more
 impress
-140
+138
 titan
 was
 re
@@ -12950,7 +12906,7 @@ as
 various
 special
 featur
-141
+139
 an
 intern
 two
@@ -12963,8 +12919,8 @@ on
 novemb
 7
 2005
+138
 140
-142
 the
 two
 disc
@@ -13007,7 +12963,7 @@ on
 novemb
 7
 2005
-142
+140
 also
 avail
 onli
@@ -13077,7 +13033,7 @@ includ
 in
 the
 set
-86
+84
 as
 regard
 to
@@ -13096,7 +13052,7 @@ network
 such
 as
 tnt
-143
+141
 to
 permit
 the
@@ -13155,7 +13111,7 @@ the
 82nd
 academi
 award
-144
+142
 3d
 convers
 edit
@@ -13169,7 +13125,7 @@ as
 titan
 in
 3d
-145
+143
 was
 creat
 by
@@ -13203,7 +13159,7 @@ includ
 the
 4k
 restor
-146
+144
 the
 3d
 convers
@@ -13212,7 +13168,7 @@ perform
 by
 stereo
 d
-147
+145
 and
 soni
 with
@@ -13224,7 +13180,7 @@ record
 remast
 the
 soundtrack
-148
+146
 digit
 2d
 and
@@ -13244,7 +13200,7 @@ creat
 in
 the
 process
-149
+147
 for
 the
 3d
@@ -13291,7 +13247,7 @@ bottom
 of
 the
 screen
-150
+148
 the
 onli
 scene
@@ -13389,7 +13345,7 @@ of
 the
 new
 scene
-151
+149
 an
 accur
 view
@@ -13460,8 +13416,8 @@ kate
 winslet
 in
 attend
-152
-153
+150
+151
 and
 enter
 general
@@ -13484,9 +13440,9 @@ on
 her
 maiden
 voyag
+152
+153
 154
-155
-156
 roll
 stone
 film
@@ -13536,7 +13492,7 @@ the
 movi
 time
 capsul
-157
+155
 write
 for
 entertain
@@ -13572,7 +13528,7 @@ sensat
 crisp
 and
 aliv
-158
+156
 richard
 corliss
 of
@@ -13642,7 +13598,7 @@ discret
 not
 organ
 level
-159
+157
 ann
 hornaday
 for
@@ -13703,7 +13659,7 @@ in
 frame
 and
 composit
-160
+158
 the
 film
 gross
@@ -13742,8 +13698,8 @@ finish
 in
 third
 place
-161
-162
+159
+160
 outsid
 north
 america
@@ -13754,7 +13710,7 @@ earn
 million
 finish
 second
-163
+161
 and
 improv
 on
@@ -13772,7 +13728,7 @@ with
 98
 9
 million
-164
+162
 china
 has
 proven
@@ -13792,7 +13748,7 @@ on
 it
 open
 day
-165
+163
 go
 on
 to
@@ -13824,7 +13780,7 @@ it
 origin
 theatric
 run
-164
+162
 the
 reissu
 ultim
@@ -13848,7 +13804,7 @@ canada
 and
 unit
 state
-166
+164
 the
 3d
 convers
@@ -13886,9 +13842,9 @@ scent
 base
 special
 effect
+165
+166
 167
-168
-169
 see
 also
 edit
@@ -14742,23 +14698,6 @@ dvd
 20th
 centuri
 fox
-titan
-1997
-at
-imdb
-imdb
-retriev
-april
-22
-2014
-titan
-1997
-trivia
-imdb
-retriev
-april
-22
-2014
 a
 b
 c
@@ -18066,6 +18005,14 @@ year
 a
 slave
 2013
+birdman
+or
+the
+unexpect
+virtu
+of
+ignor
+2014
 v
 t
 e
@@ -18784,7 +18731,7 @@ titl
 titanic_
 1997_film
 oldid
-647354207
+648207664
 categori
 1997
 filmsenglish
@@ -19136,12 +19083,12 @@ was
 last
 modifi
 on
-16
+21
 februari
 2015
 at
-05
-27
+17
+17
 text
 is
 avail

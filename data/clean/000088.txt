@@ -29,13 +29,14 @@ home
 about
 polici
 publish
+specul
+fiction
+seri
 book
 smuggler
 publish
 fall
 2014
-specfic
-2013
 featur
 old
 school
@@ -77,8 +78,8 @@ m
 montgomeri
 by
 thea
-3
-week
+1
+month
 ago
 post
 in10
@@ -89,8 +90,7 @@ review
 old
 school
 wednesday
-there
-are16
+comments16
 comment
 taggedann
 of

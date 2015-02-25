@@ -1,0 +1,12 @@
+Server: Apache-Coyote/1.1
+X-UA-Compatible: IE=Edge
+x-Instance-Name: i14latisrapp04
+Content-Type: text/html;charset=UTF-8
+Httpd-Identifier: la-web02
+Vary: Accept-Encoding
+Cache-Control: public, max-age=36
+Date: Mon, 23 Feb 2015 17:57:39 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+

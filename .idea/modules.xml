@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SearchEnigine.iml" filepath="$PROJECT_DIR$/.idea/SearchEnigine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../TheRPG/.idea/TheRPG.iml" filepath="$PROJECT_DIR$/../TheRPG/.idea/TheRPG.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ex47/.idea/ex47.iml" filepath="$PROJECT_DIR$/../ex47/.idea/ex47.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ex48/.idea/ex48.iml" filepath="$PROJECT_DIR$/../ex48/.idea/ex48.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../gothonweb/.idea/gothonweb.iml" filepath="$PROJECT_DIR$/../gothonweb/.idea/gothonweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SearchEngine.iml" filepath="$PROJECT_DIR$/.idea/SearchEngine.iml" />
     </modules>
   </component>
 </project>

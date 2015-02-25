@@ -1,9 +1,9 @@
 Server: nginx
-Date: Wed, 18 Feb 2015 00:45:58 GMT
+Date: Mon, 23 Feb 2015 15:37:35 GMT
 Content-Type: text/html; charset=utf-8
 Content-Length: 32650
 Connection: close
 Vary: Accept-Encoding
-Set-Cookie: session="hhK2PCStfY68Shzkov41C0sYFbQ=?csrf=UydmODMwN2VmZGJjOTQ1YTY1NjQwNzMwNTJkYjE5ZTExZDE5YWU1ZmJiJwpwMAou&workcount=KGRwMApWcG9lbQpwMQpWNTM0CnAyCnNWc3RvcnkKcDMKVjE0NwpwNApzVmJvb2sKcDUKVjgwCnA2CnNWYXJ0aWNsZQpwNwpWMjE2CnA4CnMu"; HttpOnly; Path=/
+Set-Cookie: session="zjHUql8OKCG69jkDYIAPstqx0e8=?csrf=UyczNjRiZmI3OWFhZmJmYmZlZWQyYjg4MGMxNGVkNTg0ZmUwODM1NzIzJwpwMAou&workcount=KGRwMApWYXJ0aWNsZQpwMQpWMjE3CnAyCnNWc3RvcnkKcDMKVjE0NwpwNApzVmJvb2sKcDUKVjgwCnA2CnNWcG9lbQpwNwpWNTM1CnA4CnMu"; HttpOnly; Path=/
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 

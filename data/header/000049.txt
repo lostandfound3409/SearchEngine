@@ -1,11 +1,10 @@
-Cache-Control: private
-Content-Type: application/vnd.ms-powerpoint
-Server: Microsoft-IIS/7.5
-content-disposition: attachment; filename="The Lion, the Witch, & the Wardrobe.ppt"
-X-AspNet-Version: 4.0.30319
-X-Powered-By: ASP.NET
-X-Powered-By-Server: 150
-Date: Wed, 18 Feb 2015 00:55:51 GMT
+Server: nginx/1.6.0
+Date: Mon, 23 Feb 2015 15:46:17 GMT
+Content-Type: text/html
+Content-Length: 14273
+Last-Modified: Sun, 07 Sep 2014 13:17:46 GMT
 Connection: close
-Content-Length: 1158656
+ETag: "540c5afa-37c1"
+Access-Control-Allow-Origin: *
+Accept-Ranges: bytes
 

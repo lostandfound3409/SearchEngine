@@ -1,14 +1,12 @@
 Server: nginx
-Date: Wed, 18 Feb 2015 02:51:54 GMT
+Date: Mon, 23 Feb 2015 17:42:22 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
-X-Powered-By: PHP/5.3.28
-X-Pingback: https://www.movieguide.org/xmlrpc.php
-Link: <https://www.movieguide.org/?p=145947>; rel=shortlink
-Set-Cookie: wfvt_1044030841=54e3fe4a430c4; expires=Wed, 18-Feb-2015 03:21:54 GMT; path=/; httponly
-Cache-Control: max-age=172800
-Expires: Fri, 20 Feb 2015 02:51:54 GMT
-X-Powered-By: PleskLin
-MS-Author-Via: DAV
+X-Pingback: http://sf.funcheap.com/xmlrpc.php
+Link: <http://sf.funcheap.com/?p=304392>; rel=shortlink
+Vary: Accept-Encoding, Cookie, User-Agent
+Last-Modified: Mon, 23 Feb 2015 17:20:42 GMT
+X-PressLabs-Stats: HIT; 0.279s; 42 queries; desktop; ttl 14400s; refresh in 13100s
+X-Request-ID: 93438beb7cb96f9045b44ffbce1ac21a
 

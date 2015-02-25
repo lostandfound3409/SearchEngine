@@ -3,10 +3,11 @@ Content-Type: text/html;charset=utf-8
 Status: 200 OK
 X-XSS-Protection: 1; mode=block
 X-UA-Compatible: IE=edge,chrome=1
-X-Varnish: 2115693970 2115618465
+X-Varnish: 1377832547
+X-Akamai-Transformed: 9 27285 0 pmb=mRUM,1
 Vary: Accept-Encoding
-Cache-Control: public, max-age=1379
-Date: Wed, 18 Feb 2015 02:18:09 GMT
+Cache-Control: public, max-age=2156
+Date: Mon, 23 Feb 2015 17:13:25 GMT
 Transfer-Encoding: chunked
 Connection: close
 Connection: Transfer-Encoding

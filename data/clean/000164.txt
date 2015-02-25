@@ -99,6 +99,8 @@ stori
 learn
 more
 here
+relat
+news
 share
 on
 facebook
@@ -128,15 +130,6 @@ click
 to
 share
 on
-googl
-open
-in
-new
-window
-click
-to
-share
-on
 reddit
 open
 in
@@ -146,7 +139,7 @@ click
 to
 share
 on
-tumblr
+googl
 open
 in
 new
@@ -162,8 +155,6 @@ open
 in
 new
 window
-relat
-articl
 top
 celebr
 news

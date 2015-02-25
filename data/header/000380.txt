@@ -1,0 +1,15 @@
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www207
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Mon, 23 Feb 2015 18:32:24 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 23 Feb 2015 18:32:24 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=240cfa096351f89cbb9335a134c348bc-262f6d9be4e4b7036f28d55d7a0b5dc935beab2fc6b0f196209156c89f6f9b0f; expires=Fri, 24-Jan-2025 06:32:24 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=5f8a644875b22547dcc60724c68d6d36; expires=Thu, 18-Feb-2016 18:32:24 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1424716344; path=/; domain=.last.fm
+

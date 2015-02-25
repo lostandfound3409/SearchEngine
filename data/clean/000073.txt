@@ -1592,7 +1592,9 @@ project
 sceneri
 shot
 in
-america
+the
+unit
+state
 includ
 upstat
 eastern
@@ -8102,7 +8104,7 @@ titl
 lolita_
 1962_film
 oldid
-639764567
+648160501
 categori
 1962
 filmsenglish
@@ -8295,12 +8297,12 @@ was
 last
 modifi
 on
-27
-decemb
-2014
+21
+februari
+2015
 at
-02
-56
+08
+47
 text
 is
 avail

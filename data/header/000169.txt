@@ -1,8 +1,13 @@
-Server: nginx/1.4.7
-Date: Wed, 18 Feb 2015 02:18:43 GMT
-Content-Type: text/html
-Transfer-Encoding: chunked
+Set-Cookie: ServerID=1324; path=/
+Date: Mon, 23 Feb 2015 17:13:32 GMT
+Set-Cookie: JSESSIONID=5CEDCB425616CAA08072A642B58A634D; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Vary: User-Agent,Accept-Encoding
+FLX-Server: web224.flixster.com
+RT-Commit: RTRELEASE.2015-02-19.12-07-52 168658a
+FLX-Commit: ADMINRELEASE.2015-02-19.11-31-51 854dd1f
+FLX-Build-Date: 2015-02-19 14:13:50
 Connection: close
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.3
+Transfer-Encoding: chunked
 

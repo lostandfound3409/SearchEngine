@@ -13,7 +13,7 @@ movi
 forb
 new
 post
-1
+20
 most
 popular
 list
@@ -192,7 +192,7 @@ forbeswoman
 8
 55am
 80
-065
+133
 view
 marvel
 s

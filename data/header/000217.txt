@@ -1,9 +1,11 @@
-Date: Wed, 18 Feb 2015 02:46:40 GMT
-Server: Apache
-X-Pingback: http://derekwinnert.com/xmlrpc.php
-Link: <http://wp.me/p3jRpy-1Ay>; rel=shortlink
-Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.11
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=s212j9mju4n9r4da088ubvv451; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
 Connection: close
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Feb 2015 17:33:16 GMT
+Server: lighttpd/1.4.35
 

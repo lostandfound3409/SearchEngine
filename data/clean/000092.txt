@@ -164,7 +164,7 @@ franc
 languag
 english
 budget
-18
+17
 5
 million
 1
@@ -1859,6 +1859,8 @@ broken
 circl
 breakdown
 2014
+mommi
+2015
 img
 src
 en
@@ -1894,7 +1896,7 @@ titl
 the_name_of_the_rose_
 film
 oldid
-646387503
+648306131
 categori
 1986
 filmsenglish
@@ -2086,12 +2088,12 @@ was
 last
 modifi
 on
-9
+22
 februari
 2015
 at
-19
-22
+10
+03
 text
 is
 avail
