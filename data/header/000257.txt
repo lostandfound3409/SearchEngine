@@ -1,19 +1,16 @@
+Date: Fri, 20 Mar 2015 01:13:00 GMT
 Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=23048413;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 14 Feb 2015 13:05:20 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 267939904 234591818, 875982444 782813177
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:46:49 GMT
-Age: 108567
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "dd3525dfcd32bdfe86af80cfef7234f6"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: ca5eb1927cabc67776f2d1da7031ec3e
+X-Runtime: 0.184290
+X-Rack-Cache: miss
+X-Powered-By: Phusion Passenger 4.0.23
+Set-Cookie: _jango_s=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTFmZmQyNmFjMjI0MjFjYTk5YjI4MDg0OWE3NjY5YmYzBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXAweE10Z0I2NHZ2QWdvblVCZkIzendqSkRxZFAwcTE4TW1GN2FNZ2swZ0k9BjsARg%3D%3D--f735c84dbc03a0ba5b3f2ffa0e633103877ea71a; domain=.jango.com; path=/; expires=Fri, 20-Mar-2020 01:13:00 GMT; HttpOnly
+Content-Length: 66978
+Status: 200 OK
+Vary: Accept-Encoding
 Connection: close
-X-Cache: cp1067 hit (7), cp1054 frontend hit (22)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Content-Type: text/html; charset=utf-8
 

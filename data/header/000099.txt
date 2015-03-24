@@ -1,7 +1,15 @@
-Date: Mon, 23 Feb 2015 16:07:01 GMT
-Server: Apache
-X-Powered-By: PleskLin
-Connection: close
+Date: Fri, 20 Mar 2015 01:08:12 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0EPK85RPXFC147AD2KH6
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: tmGsDNBVzG5nl2Bs1KR91DBSlBk6sxpe4Mtk+/myLxfwbYbTKcRKu0vOYc84vnHZ
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Content-Type: text/html
 

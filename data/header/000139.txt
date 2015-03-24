@@ -1,12 +1,19 @@
-Server: Apache/2.2.15 (CentOS)
-X-Pingback: http://collider.com/xmlrpc.php
-Link: <http://collider.com/?p=123205>; rel=shortlink
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=38224570;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 15 Mar 2015 14:53:13 GMT
 Content-Type: text/html; charset=UTF-8
-Cache-Control: public, max-age=900
+X-Varnish: 3037034098 3007262922, 2563236256 2548514644
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:34:39 GMT
-Age: 0
-Expires: Mon, 23 Feb 2015 16:49:39 GMT
-Vary: Accept-Encoding, User-Agent
+Date: Fri, 20 Mar 2015 01:09:21 GMT
+Age: 28644
 Connection: close
+X-Cache: cp1066 hit (4), cp1068 frontend hit (1)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

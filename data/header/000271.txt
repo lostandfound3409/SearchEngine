@@ -1,19 +1,13 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www195
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
-Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 17:53:51 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 17:53:51 GMT
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=958c2848221529fd6c8e7b34622d6617-448a192287faef9f7e7b7b2fed4e17457f307a9e29e5d31eba10a82a31511f3e; expires=Fri, 24-Jan-2025 05:53:50 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=dfc6a405b171e7dbd302e751276ec15f; expires=Thu, 18-Feb-2016 17:53:50 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424714030; path=/; domain=.last.fm
+Cache-Control: max-age=600
+Date: Fri, 20 Mar 2015 00:17:43 GMT
+Last-Modified: Fri, 20 Mar 2015 00:17:43 GMT
+Server: nginx
+Age: 3340
+Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
+X-Cache: Hit from cloudfront
+Via: 1.1 10e1a26891b31f5e1656ec54497f4365.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: b8HnA2eeaL5yrsl328RgeDPOtucWfcG74KA4JlbViQS8s4hY_uoReA==
 

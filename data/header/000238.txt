@@ -1,12 +1,14 @@
-Date: Mon, 23 Feb 2015 17:38:21 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYq315BasBMZEV3KMVY6snFMWvqMhM2PVz2UoQGE0L3bXmvdbpsW5OynRTb0eO1LjrHJ44UrGGm%0D%0AdY3mcrbn-kxXGn0zExJ9nMl4NrfjbwXoTAqrPTxBlA7_t8tCkTUkUxRYQPOyRfcbFSWZnA5BMqUk%0D%0A3J1yKfFVMcZ2Fy1qVX6I8RRBihYfw0c8iEut2aMtZbYgesWy4qNh0hAg1yt9RD64KVRLskaJwc0P%0D%0AJyhVPksKJm7LfiqrfjVM5F9qWBifa13O_a0ke27gavAgpSAsCOHbew%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:52:29 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:52:29 GMT; Path=/
-Set-Cookie: session-id-time=1582393102; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:52:29 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Server: nginx
+Cache-Control: max-age=172800
+Content-Type: text/html; charset=UTF-8
+MS-Author-Via: DAV
+Date: Fri, 20 Mar 2015 01:11:49 GMT
+X-Pingback: http://www.movieguide.org/xmlrpc.php
+Link: <http://www.movieguide.org/?p=145947>; rel=shortlink
+Expires: Sun, 22 Mar 2015 01:11:48 GMT
 Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: wfvt_3501858075=550b73d544fcb; expires=Fri, 20-Mar-2015 01:41:49 GMT; path=/; httponly
+X-Powered-By: PHP/5.3.28
+X-Powered-By: PleskLin
 

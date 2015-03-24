@@ -1,8 +1,15 @@
-Server: nginx/1.4.7
-Date: Mon, 23 Feb 2015 17:13:31 GMT
-Content-Type: text/html
+Date: Fri, 20 Mar 2015 01:10:14 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 1PZPWS2YNYEGTT0ZED7K
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: dZ7BXq55Js1hqixk1rl6UY/JhSfz1cIv8xk/8VHHhNm2g5J1A6eNgeZoKqbIppAe
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Connection: close
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.3
 

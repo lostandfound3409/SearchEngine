@@ -1,19 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=14045479;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sun, 22 Feb 2015 22:17:32 GMT
+Server: nginx
+Date: Fri, 20 Mar 2015 01:09:24 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 2902643168 2872182171, 2642889065
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:39:20 GMT
-Age: 23980
 Connection: close
-X-Cache: cp1052 hit (8), cp1068 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://lylesmoviefiles.com/xmlrpc.php
+Link: <http://wp.me/P2aIde-4V>; rel=shortlink
+X-ac: 3.ord _dca
 

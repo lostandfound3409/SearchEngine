@@ -1,16 +1,12 @@
-Server: nginx/1.4.4
-Content-Type: text/html;charset=utf-8
-Status: 200 OK
-X-XSS-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-X-UA-Compatible: IE=edge,chrome=1
-X-Varnish: 1377877479 1377601620
-X-Origin: Matterhorn
-Vary: Accept-Encoding
-Cache-Control: public, max-age=355
-Date: Mon, 23 Feb 2015 17:18:00 GMT
+Date: Fri, 20 Mar 2015 01:10:33 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYkI2GuUBI6_oG1RztHK4zzL45V3TFyjPpKfORk-pquMACgYlhHGWpgI5fuxJ3NcICu_3xAXb26%0D%0ATQAbmsyO61f2GiWY7o3vFZhEm02ax6FMY7IMC8YIy3jEzHOe2O6xJR6i6es1s53V5ywakZS1vUu-%0D%0Axw4jNLNokNN5GYwRECp0uRxw4CIN-KH-EsBHMxTAdkinSBQj3cLbpKkJiu-RlAZ9UXx-VmUh0ZHF%0D%0AnHNgJvTX_uug7_jRjTjHpD9FPjYolvpUVF4HLKepjOnIAwoMh_bdpg%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:40 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:40 GMT; Path=/
+Set-Cookie: session-id-time=1584493833; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:40 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Connection: close
-Connection: Transfer-Encoding
-X-Origin: Matterhorn
 

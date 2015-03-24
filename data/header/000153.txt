@@ -1,21 +1,15 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=999394;ns=0
-Content-language: en
-Expires: Thu, 01 Jan 1970 00:00:00 GMT
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Wed, 18 Feb 2015 16:53:14 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3206760409, 1076710541
-Via: 1.1 varnish, 1.1 varnish
-Content-Length: 214995
-Accept-Ranges: bytes
-Date: Mon, 23 Feb 2015 17:05:45 GMT
-Age: 0
+Server: Apache/2.2.21 (Unix) PHP/5.3.19
+Content-Length: 52888
+Content-Type: text/html; charset=utf-8
+Set-Cookie: IGNMEDIA_NETWORK=a40a25584e98aef8e88f7a959b729971; path=/; domain=.ign.com
+Set-Cookie: geoCC=US; path=/; domain=.ign.com
+Set-Cookie: i18n-ccpref=15-US-www-1; expires=Sat, 21-Mar-2015 01:09:47 GMT; path=/; domain=.ign.com
+X-Powered-By: PHP/5.3.19
+Vary: Accept-Encoding
+X-Varnish-Ttl: 120
+Expires: Fri, 20 Mar 2015 01:09:49 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:09:49 GMT
 Connection: close
-X-Cache: cp1068 miss (0), cp1067 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

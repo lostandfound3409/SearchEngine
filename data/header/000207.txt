@@ -1,16 +1,14 @@
-Date: Mon, 23 Feb 2015 17:32:21 GMT
-Server: gwiseguy/2.0
-Cache-Control: no-cache
-X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
-P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Cache-Control: max-age=0, private, must-revalidate
 Content-Type: text/html; charset=utf-8
-X-Content-Type-Options: nosniff
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-X-Frame-Options: SAMEORIGIN
-Set-Cookie: YSC=hDf1QRLTeRI; path=/; domain=.youtube.com; HttpOnly
-Set-Cookie: VISITOR_INFO1_LIVE=IAe_2DZAuYs; expires=Sun, 25-Oct-2015 05:25:21 GMT; path=/; domain=.youtube.com; HttpOnly
-Alternate-Protocol: 443:quic,p=0.08
-Accept-Ranges: none
-Vary: Accept-Encoding
-Connection: close
+Date: Fri, 20 Mar 2015 01:11:23 GMT
+ETag: "45d1c0f28de75cfd34400089f44f9ac1"
+Server: nginx
+Set-Cookie: _ebert_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTRhMjU5MTlhZDI0NWRlZDRlNjFkM2U2MGQ4Nzc0MzExBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWZRaVg5bFlqNkxSNzd1MXlTZTlEd3pCYkNmbUoycHRpM0hZSVFEeklyamM9BjsARg%3D%3D--df3b3ead730aed8fecb8a599a1bb279432bf47b9; path=/; HttpOnly
+Status: 200 OK
+X-Rack-Cache: miss
+X-Request-Id: a3764670716e4eb94b2d1ad5b64435a2
+X-Runtime: 0.068858
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Length: 81413
+Connection: Close
 

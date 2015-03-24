@@ -1,14 +1,20 @@
-Date: Mon, 23 Feb 2015 17:15:42 GMT
-Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
-Expires: Tue, 24 Feb 2015 05:15:44 GMT
-Cache-Control: maxage=43200
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www204
+P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Fri, 20 Mar 2015 01:14:23 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Vary: X-Country-Code
 Vary: Accept-Encoding
-Content-Type: text/html; charset=UTF-8
-Age: 2758
-X-Cache: HIT from bb-all-isquid03.allmusic.amn
-X-Cache-Lookup: HIT from bb-all-isquid03.allmusic.amn:80
-X-Cache: MISS from bb-all-esquid02.allmusic.amn
-X-Cache-Lookup: MISS from bb-all-esquid02.allmusic.amn:80
-Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid02.allmusic.amn (squid/3.1.23)
+Expires: Fri, 20 Mar 2015 01:14:24 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:14:24 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=65e74da1877c8f76c439e3e6d8d078d1-df77b1febf079fe0ee0a03b3f6345d6d334f091b24265a9bdee5ba7ef8006779; expires=Mon, 17-Feb-2025 13:14:23 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=60e679e8b264089d045301944bf2f9e8; expires=Mon, 14-Mar-2016 01:14:23 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1426814063; path=/; domain=.last.fm
 

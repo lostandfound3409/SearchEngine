@@ -1,10 +1,16 @@
-Cache-Control: private
-Content-Length: 87108
-Content-Type: text/html
-Expires: Mon, 23 Feb 2015 18:23:45 GMT
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Set-Cookie: trackingid=150544642; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/
-Set-Cookie: ASPSESSIONIDAQRTRCQC=ECBIOKFBPIBKBDHEMMIHFBFH; path=/
-Date: Mon, 23 Feb 2015 18:23:46 GMT
+Date: Fri, 20 Mar 2015 01:16:08 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "9f9e23333f17eafd21b97ed5cb8fd91d"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 6cc8fd5723ddf37ea7b0e479484dea3a
+X-Runtime: 0.137840
+X-Rack-Cache: miss
+X-Powered-By: Phusion Passenger 4.0.23
+Set-Cookie: _jango_s=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWQ2OGMwYzE4ZWRmOGQyMGY5N2ViOWE2YWFkYWQxMWQ2BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUxWUEFHRHFpTVJyYnhTMElMUmtzOXZ4Z1NSSjY0ZmVUUnBhd3JjekRlY1k9BjsARg%3D%3D--7ebb46aa5240c33569f187bf5180fe0f8ce8ad5b; domain=.jango.com; path=/; expires=Fri, 20-Mar-2020 01:16:08 GMT; HttpOnly
+Content-Length: 67539
+Status: 200 OK
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
 

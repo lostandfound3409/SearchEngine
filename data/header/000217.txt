@@ -1,11 +1,12 @@
-X-Powered-By: PHP/5.5.11
-Content-Type: text/html; charset=utf-8
-Set-Cookie: PHPSESSID=s212j9mju4n9r4da088ubvv451; path=/
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-Connection: close
+Date: Fri, 20 Mar 2015 01:11:38 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYqp7zoCrjlS8pnWtqiGGor8kUrjXB9gakBwm6T_hdEZTjqrta4wBbI0dWBAOh2Wo7WKKqVELT6%0D%0Ai2Pg9-Lm6WpG0WghZFFRUNfb5ywFhSgCj_QtonSQBDtGcwj6L2Vc4UEWIalWlBtOsmLEcAGDRfMH%0D%0ApBwcw89oUGUa5HU9k2MbmzqPaeI93Yh5PfHkDi1AC6riofb1Qkt0n8STAdr6crACllqJZ2OATbR5%0D%0ATxfjum5xRs9zsj37NQfGN2haY0sBhpCRlprFFmZ84NbdlB2V-jcF7A%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:46 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:46 GMT; Path=/
+Set-Cookie: session-id-time=1584493899; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:46 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:33:16 GMT
-Server: lighttpd/1.4.35
 

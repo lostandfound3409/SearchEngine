@@ -1,15 +1,16 @@
-Date: Mon, 23 Feb 2015 17:57:52 GMT
-Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
-Set-Cookie: allmusic_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220e4b04f4158154d5235f78d6f3f7259e%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A17%3A%22Python-urllib%2F3.4%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424714272%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D8a24550036632ae8292419c3f76eb20a; path=/
-Set-Cookie: allmusic_session=a%3A6%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220e4b04f4158154d5235f78d6f3f7259e%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A17%3A%22Python-urllib%2F3.4%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424714272%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22user%22%3Bi%3A0%3B%7De6895ee7dbdb6bbab3dd43c75db95982; path=/
-Expires: Tue, 24 Feb 2015 05:57:54 GMT
-Cache-Control: maxage=43200
 Vary: Accept-Encoding
-Content-Type: text/html; charset=UTF-8
-X-Cache: MISS from bb-all-isquid03.allmusic.amn
-X-Cache-Lookup: MISS from bb-all-isquid03.allmusic.amn:80
-X-Cache: MISS from bb-all-esquid01.allmusic.amn
-X-Cache-Lookup: MISS from bb-all-esquid01.allmusic.amn:80
-Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid01.allmusic.amn (squid/3.1.23)
+Set-Cookie: persistent_id=pid%3Db9f93cee-f69d-48f9-8b5a-d51e03ee93bf%26llid%3D%26lprid%3D%26lltime%3D; domain=.myspace.com; path=/; expires=Thu, 15 Mar 2035 01:14:09 GMT; httpOnly
+Set-Cookie: visit_id=be791de2-1f37-4fbb-b5ea-a33d0f576a5b; domain=.myspace.com; path=/; expires=Fri, 20 Mar 2015 01:44:09 GMT; httpOnly
+Set-Cookie: beacons_enabled=true; domain=.myspace.com; path=/; expires=Fri, 20 Mar 2015 01:44:09 GMT
+Set-Cookie: ads=adInitVisit%3D; domain=.myspace.com; path=/; expires=Sun, 19 Apr 2015 01:14:09 GMT
+Set-Cookie: player=sequenceId%3D-1%26paused%3Dfalse%26currentTime%3D0%26volume%3D0.5%26mute%3Dfalse%26shuffled%3Dfalse%26repeat%3Doff%26mode%3Dqueue%26radioEntity%3D%26radioMediaType%3D%26radioMediaId%3D%26radioCurrentTime%3D0%26pinned%3Dfalse%26streamStartDateTime%3D%26radioStreamStartDateTime%3D%26at%3D360%26incognito%3Dfalse%26allowSkips%3Dtrue%26ccOn%3Dfalse; domain=.myspace.com; path=/; expires=Sun, 19 Apr 2015 01:14:09 GMT
+X-Handling-Host: las1-app017
+X-TrackingId: 2aa9a0ab-a8d5-46c1-a2bf-181e396f26b0
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=utf-8
+Content-Length: 269802
+X-Response-Time: 396ms
+Date: Fri, 20 Mar 2015 01:14:09 GMT
+Connection: keep-alive
 

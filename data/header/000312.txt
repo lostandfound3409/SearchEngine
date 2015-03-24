@@ -1,20 +1,19 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www240
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Last-Modified: Mon, 23 Feb 2015 18:05:21 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
-Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 18:05:23 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 18:05:23 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=42010;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Wed, 18 Mar 2015 18:32:30 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3906088519 3905415876, 1650688846 1521039311
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:14:41 GMT
+Age: 110486
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=d972bff4e74b8f8ec721d754d7165b6b-c715e7933e078f1c91a264031f8378219c463f30f64d665da717eb270450a617; expires=Fri, 24-Jan-2025 06:05:21 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=8ac11d67e3ca8eaaab14da02e34b2e22; expires=Thu, 18-Feb-2016 18:05:21 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424714721; path=/; domain=.last.fm
+X-Cache: cp1065 hit (7), cp1055 frontend hit (294)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

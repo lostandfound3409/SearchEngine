@@ -1,14 +1,12 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 17:38:21 GMT
-Content-Type: text/html; charset=UTF-8
-Content-Length: 58005
-Connection: close
-Vary: Accept-Encoding
-Accept-Ranges: bytes
-X-Mod-Pagespeed: 1.8.31.5-4307
-Cache-Control: max-age=604800
-Vary: Accept-Encoding,Cookie
-X-Powered-By: W3 Total Cache/0.9.4.1
-Expires: Mon, 02 Mar 2015 17:38:21 GMT
-ngpass_ngstatic: 1
+Date: Fri, 20 Mar 2015 01:12:16 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYvXvf64yKTvtsEiS1TSBniieALGDSXnVfYVTlYZ-xoervdrR9wP82IyHFdi6wytua_uFjUaZzd%0D%0AYMAp3rwjuNrNF_HSpS7lmeKSOrAGvhc5JMhXwwiB_HDUK5Px8ID2gFI6RBtqr84pGFzYttiPEE5v%0D%0AZ75gNvQzrbwgptH3vr8395lSfPtbP6eHHUO3JW5L3o0hJxhPmR3Bth2KPArhNsMyPaaCnm_Z7OWk%0D%0Ag-3wZyKhu7egVzuiFVlhUSgtj8tHiQmx4acemUWClNF9RWA2L6yq3g%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:23 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:23 GMT; Path=/
+Set-Cookie: session-id-time=1584493936; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:23 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
 

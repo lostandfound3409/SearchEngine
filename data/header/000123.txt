@@ -1,19 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=32313;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Mon, 23 Feb 2015 03:27:39 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3988182075, 704508905 693775441
-Via: 1.1 varnish, 1.1 varnish
+Date: Fri, 20 Mar 2015 01:08:49 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYlvs9s83oFflOrjc0bup2FuOX4GJfReUAHkbpXNkKFw0TbnQ1badEA00a5ZW77GMyF0R5DxVhb%0D%0AlLqM92AHq22J6NKUlQsafFKv-1olPE9RL_eyldbM97zyxHQ6ioNbJvjXyGhCOj7sW5asCryoJlbQ%0D%0AP3CO7hMG8JVYLKLirWRrGIEpBVwugxYaW5mj0JQmxF8ajDJcbQzBSXPaw6kpAwqyxksXthgo1qIh%0D%0AGTiDWiKFpi_wvsJtL34SpXqESTMTSIteYOijMhjJuaI2ztNatTS7Eg%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:22:57 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:22:57 GMT; Path=/
+Set-Cookie: session-id-time=1584493730; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:22:57 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:22:04 GMT
-Age: 9038
-Connection: close
-X-Cache: cp1053 miss (0), cp1066 frontend hit (2)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -1,10 +1,15 @@
-Accept-Ranges: bytes
-Content-Type: text/html
-Date: Mon, 23 Feb 2015 15:58:22 GMT
-Etag: "3bf8011-19f4-48078f4473d10"
-Last-Modified: Fri, 26 Feb 2010 04:01:29 GMT
-Server: TheAtlantic Web Server
-Vary: Accept-Encoding
-Content-Length: 6644
-Connection: close
+Date: Fri, 20 Mar 2015 01:07:45 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 11ZV2W75SDDXRDXCR8AG
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: LOMKFnonv7+VY1/mVtoxRA72ukrzupuMxa4tqbS/lDRCFheTktqvsmesfOpSYEaN
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
 

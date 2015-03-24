@@ -1,9 +1,10 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 15:45:58 GMT
-Content-Type: text/html; charset=UTF-8
-Transfer-Encoding: chunked
+Server: nginx/1.6.0
+Date: Fri, 20 Mar 2015 01:06:52 GMT
+Content-Type: text/html
+Content-Length: 14273
+Last-Modified: Sun, 07 Sep 2014 13:17:46 GMT
 Connection: close
-Vary: Accept-Encoding
-X-Pingback: http://blogs.slj.com/afuse8production/xmlrpc.php
-Link: <http://blogs.slj.com/afuse8production/?p=14005>; rel=shortlink
+ETag: "540c5afa-37c1"
+Access-Control-Allow-Origin: *
+Accept-Ranges: bytes
 

@@ -1,10 +1,24 @@
-Cache-Control: private
+Server: nginx/1.4.1
 Content-Type: text/html; charset=utf-8
-Server: Microsoft-IIS/7.0
-Set-Cookie: ASP.NET_SessionId=y4n4uj5554fjwp45mzjk4air; path=/; HttpOnly
-X-AspNet-Version: 2.0.50727
-X-Powered-By: ASP.NET
-Date: Mon, 23 Feb 2015 17:29:52 GMT
+Pragma: no-cache
+Cache-Control: no-cache
+X-Debug-Logged-In: false
+ETag: W/"vjAot/D6FRnc/maMHv8Ayg=="
+Via: 1.1 varnish
+X-Beresp-status: 200
+X-WebP: false
+X-Logged-In: false
+X-UA-Device: pc
+X-UA-Retina: false
+Content-Length: 194205
+Accept-Ranges: bytes
+Date: Fri, 20 Mar 2015 01:11:11 GMT
+Via: 1.1 varnish
+Age: 3330
 Connection: close
-Content-Length: 46282
+X-Served-By: cache-jfk1025-JFK, cache-ord1726-ORD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1426813871.772843,VS0,VE1
+Vary: Accept-Encoding, User-Agent, Cookie
 

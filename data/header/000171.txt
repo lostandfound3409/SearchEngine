@@ -1,19 +1,22 @@
 Server: Apache
 X-Content-Type-Options: nosniff
-X-Analytics: page_id=50793;ns=0
 Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Fri, 20 Feb 2015 19:40:48 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 2873861537 2873593097, 708203561 457787517
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:14:03 GMT
-Age: 250365
+X-Backend-Response-Time: 0.175
+ETag: "20150318041822-1426727654"
+Last-Modified: Wed, 18 Mar 2015 04:18:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 309150
+Accept-Ranges: bytes
+Date: Fri, 20 Mar 2015 01:10:19 GMT
+Age: 73328
 Connection: close
-X-Cache: cp1068 hit (3), cp1066 frontend hit (334)
+X-Served-By: ap-s12, cache-wk-sjc3160-WIKIA, cache-ord1726-ORD
+X-Cache: ORIGIN, HIT, HIT
+X-Cache-Hits: ORIGIN, 8, 1
+X-Timer: S1426813819.412117,VS0,VE1
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=4ydrJoR9KH; domain=.wikia.com; path=/; expires=Wed, 16 Sep 2015 01:10:19 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
 Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

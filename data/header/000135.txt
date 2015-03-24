@@ -1,9 +1,24 @@
-Date: Mon, 23 Feb 2015 16:34:16 GMT
-Server: Apache
-Vary: Accept-Encoding,Cookie
-Cache-Control: max-age=3, must-revalidate
-WP-Super-Cache: Served supercache file from PHP
+Server: nginx/1.4.1
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache
+X-Debug-Logged-In: false
+ETag: W/"TgPCEU+UCqw4sLwJaFwhNQ=="
+Via: 1.1 varnish
+X-Beresp-status: 200
+X-WebP: false
+X-Logged-In: false
+X-UA-Device: pc
+X-UA-Retina: false
+Content-Length: 215103
+Accept-Ranges: bytes
+Date: Fri, 20 Mar 2015 01:09:12 GMT
+Via: 1.1 varnish
+Age: 3330
 Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
+X-Served-By: cache-jfk1033-JFK, cache-ord1725-ORD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1426813752.917894,VS0,VE1
+Vary: Accept-Encoding, User-Agent, Cookie
 

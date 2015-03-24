@@ -1,19 +1,22 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=880;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sun, 22 Feb 2015 23:22:10 GMT
+Last-Modified: Fri, 20 Mar 2015 01:15:12 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=372976&cc=us&urlDesc=/abba
+x-apple-orig-url: https://itunes.apple.com/us/artist/abba/id372976
+x-apple-application-site: NWK
+apple-timing-app: 405 ms
+x-apple-aka-ttl: Generated Thu Mar 19 18:15:12 PDT 2015, Expires Thu Mar 19 18:16:12 PDT 2015, TTL 60s
+x-apple-application-instance: 1002201
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3931465399 3930317477, 712609420 640860019
-Via: 1.1 varnish, 1.1 varnish
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: 3VQVP36JN7WMTEBQBBAHJT4EW4
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.154.42.212/80/us/artist/abba/id372976/browser/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=56
+Date: Fri, 20 Mar 2015 01:15:12 GMT
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 18:14:42 GMT
-Age: 67938
 Connection: close
-X-Cache: cp1053 hit (8), cp1066 frontend hit (117)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
 

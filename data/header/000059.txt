@@ -1,17 +1,13 @@
-Date: Mon, 23 Feb 2015 15:49:46 GMT
-Server: Server
-Content-Type: text/html; charset=utf-8
-Status: 200 OK
-Vary: User-Agent,Accept-Encoding
-X-Request-Id: 073KD3SZN9RNFBSYQY4K
-X-UA-Compatible: IE=Edge,chrome=1
-ETag: "9e142cd097ac861262f3a1556c638c4b"
-Cache-Control: max-age=0, private, must-revalidate
-X-Frame-Options: SAMEORIGIN
-X-Runtime: 0.030524
-X-Content-Type-Options: nosniff
-Set-Cookie: csid=BAhJIhg5OTctMzI4MjA4OC0yODAzODc2BjoGRVQ%3D--b1aeaa2c6c08b42992c1010ea6ad80373219dc03; path=/; expires=Fri, 23-Feb-2035 15:49:46 GMT
-Set-Cookie: locale=en; path=/
-Set-Cookie: _session_id2=c8fa078bbd98b484a68d596398b43b2f; path=/; expires=Mon, 23-Feb-2015 21:49:46 GMT; HttpOnly
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=600
+Date: Fri, 20 Mar 2015 00:59:03 GMT
+Last-Modified: Fri, 20 Mar 2015 00:59:02 GMT
+Server: nginx
+Age: 489
+Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
+X-Cache: Hit from cloudfront
+Via: 1.1 8bba94479eb92e86021cccf65eb137b5.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: hz6HAW5WUIPe3NFGJn3lcKgFTulWKj6rstrbARXgP6MTfG9m1Uonhw==
 

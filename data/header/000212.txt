@@ -1,22 +1,16 @@
-Server: Apache
+Date: Fri, 20 Mar 2015 01:11:27 GMT
+Server: gwiseguy/2.0
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Cache-Control: no-cache
+X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
-Content-language: en
-X-Backend-Response-Time: 0.198
-ETag: "20120215074336-1424445818"
-Last-Modified: Wed, 15 Feb 2012 07:43:36 GMT
 Content-Type: text/html; charset=utf-8
-X-Cacheable: YES
-Content-Length: 60449
-Accept-Ranges: bytes
-Date: Mon, 23 Feb 2015 17:33:05 GMT
-Age: 0
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+Set-Cookie: YSC=906kVrW-Vuk; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=ofDqyCTvj2g; expires=Wed, 18-Nov-2015 13:04:27 GMT; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.5
+Accept-Ranges: none
+Vary: Accept-Encoding
 Connection: close
-X-Served-By: ap-s13, cache-wk-sjc3161-WKSJC, cache-ord1722-ORD
-X-Cache: ORIGIN, MISS, MISS
-X-Cache-Hits: ORIGIN, 0, 0
-X-Timer: S1424712785.310653,VS0,VE303
-Vary: Accept-Encoding,Cookie
-Set-Cookie: wikia_beacon_id=EawuHIW1wV; domain=.wikia.com; path=/; expires=Sat, 22 Aug 2015 17:33:05 GMT;
-Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 

@@ -1,19 +1,15 @@
+Date: Fri, 20 Mar 2015 01:08:36 GMT
 Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=2215876;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 14 Feb 2015 13:05:20 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 350151049 338868237, 2640976177 2635168736
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:12:05 GMT
-Age: 14532
+X-Powered-By: PHP/5.3.26
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: meme_uploaded_image=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+Set-Cookie: wordpress_test_cookie=WP+Cookie+check; path=/
+Set-Cookie: PHPSESSID=9091f1c2a3b4c447f8bcec04fda4b801; path=/
+X-Pingback: http://www.ourhenhouse.org/xmlrpc.php
+Link: <http://www.ourhenhouse.org/?p=2672>; rel=shortlink
 Connection: close
-X-Cache: cp1067 hit (5), cp1068 frontend hit (1)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

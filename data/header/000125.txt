@@ -1,19 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=29648888;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 21 Feb 2015 02:27:11 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3135404328 3117475313, 1896068905 1885603415
-Via: 1.1 varnish, 1.1 varnish
+Date: Fri, 20 Mar 2015 01:08:59 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Expires: Thu, 01 Jan 1970 22:00:00 GMT
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYmCToywDrec9H7LkXlUd_rBoDfPnzTSV8ppcILoIPUmx15y0D9wCF2c9qxPCosPf7hOf3vnWnkjJjV1bYbGVoeD9ynP5aSJZWg7CBNDEgT6gE3boa5AVxYzIH-tdErSijKtE0V0G_PnClcOJ3wrxbYgYPysKPqNqDKncNyVE8VTkc;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=FQpEI98bnstlbCNWLlBsKwiOAiSO2RITtsmaRI2qIbQNupE3vnoBZ67ZEhQoWVIEjtkkY9ptQiSN7jVRHVv0EPmZspeu2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Fri, 20 Mar 2015 07:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:22:15 GMT
-Age: 21967
-Connection: close
-X-Cache: cp1055 hit (7), cp1052 frontend hit (2)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

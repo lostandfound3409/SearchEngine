@@ -1,8 +1,12 @@
-Date: Mon, 23 Feb 2015 17:33:06 GMT
-Server: Apache
-Set-Cookie: tmic=fde9cfb1fe936ea708f7f7248e92a2c2f50eb966%3A0; expires=Wed, 25-Mar-2015 17:33:06 GMT; path=/; domain=www.movieinsider.com
-Cache-Control: max-age=0, private
-Content-Type: text/html; charset=windows-1252
-Connection: close
+Date: Fri, 20 Mar 2015 01:11:33 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYrJ1bpQKyltpvth9ySdGFP8tNj4C7a7_Pw0TUN8utCk7Y-Zf27JxKo9bNBLm-5NG_nKeq5Fo29%0D%0A8nEZV2b_QluBMZoM93Uc_d2oE1hVXcCO330oFKlzHlfLkrq30O9ga_ckj7TL3tqBmdIY0SCHY0dY%0D%0Axj8PpMKs4w1VBKuV45YLH8nuECvju_8bJ4M_OANAGc2mKC9bFW-DMeyDy5i3UfcJHbsGwu1TtrAk%0D%0AaKLA9g_IAkiLIlsspioF1DZhDDriKOdAz15YRzP96ZSe7jf8_a4Zfg%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:40 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:40 GMT; Path=/
+Set-Cookie: session-id-time=1584493893; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:40 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 

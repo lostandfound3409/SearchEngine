@@ -1,19 +1,9 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=305527;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 21 Feb 2015 02:06:50 GMT
+Server: nginx/1.6.2
+Date: Fri, 20 Mar 2015 01:11:00 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 2570869144 2551037943, 709257740
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:29:09 GMT
-Age: 15079
 Connection: close
-X-Cache: cp1065 hit (10), cp1066 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+X-Pingback: http://meetinthelobby.com/xmlrpc.php
+Link: <http://meetinthelobby.com/?p=7627>; rel=shortlink
+Set-Cookie: websitez_mobile_detector=%7C0%7C9db37f00c110491777cd01f08b545768; expires=Fri, 20-Mar-2015 02:11:00 GMT; path=/
 

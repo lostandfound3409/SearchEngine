@@ -1,12 +1,19 @@
-Date: Mon, 23 Feb 2015 16:30:03 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYmKh2NoEPqNUT9wtE687CB2WMXFqCul7ypqLBYSM-yPHzDEVHvkk436BaXS_78v-VoQ-k0zp-Z%0D%0AaoJVRVELutlQJyoG713s4ZYTqbaZojeRNR4Re8JCcUaKGyDh5TUEkmLypFLMWFlvOkD5JfCIS_6g%0D%0A_umnXN0flcQK_0s532-H88iPBVDM1S9ftDXynInqM348_yD4FQLF9MMgz1pClG9XNsMhIA1fdldV%0D%0ApWtELdLcVy3q5N1uMidyf5GBpehIW6XZXHntN6MqOUzBWFMFbPENqg%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:44:10 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:44:10 GMT; Path=/
-Set-Cookie: session-id-time=1582389003; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:44:10 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=3146465;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 22 Feb 2015 04:36:58 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 4016398963 4008310411, 2969941912 2922616545
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:09:08 GMT
+Age: 39826
+Connection: close
+X-Cache: cp1065 hit (2), cp1054 frontend hit (13)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

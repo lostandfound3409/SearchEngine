@@ -1,19 +1,15 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=212686;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 21 Feb 2015 19:04:11 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3203353001 3162370738, 1858365694 1849577036
-Via: 1.1 varnish, 1.1 varnish
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www194
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Fri, 20 Mar 2015 01:15:19 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:15:19 GMT
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 18:16:31 GMT
-Age: 34307
 Connection: close
-X-Cache: cp1068 hit (6), cp1053 frontend hit (12)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=dc6e83ccdeb0fddcc013a38a0f2809d3-4c95f40d9b63ff9b0e0a0d451197cdc1189b492a1f1d5461f593116d67c44db0; expires=Mon, 17-Feb-2025 13:15:19 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=3bb069ed2a282b1ada166c9a976c4560; expires=Mon, 14-Mar-2016 01:15:19 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1426814119; path=/; domain=.last.fm
 

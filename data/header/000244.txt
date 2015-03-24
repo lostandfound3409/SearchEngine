@@ -1,21 +1,12 @@
-Server: Cowboy
-Status: 200 OK
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-X-Ua-Compatible: chrome=1
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-X-Request-Id: 796d8a0a-c5b2-4a51-b555-30d5039a3157
-X-Runtime: 0.225793
-X-Content-Digest: ee034c5e63c311836b0a39f9081ac5c5bc8f640b
-Age: 0
-X-Rack-Cache: stale, valid, store
-Via: 1.1 vegur
-Date: Mon, 23 Feb 2015 17:42:08 GMT
-Expires: Mon, 23 Feb 2015 17:42:08 GMT
-Cache-Control: max-age=0, no-cache
-X-Page-Speed: 127_2_dp
-Alternate-Protocol: 80:quic,p=0.08
-Accept-Ranges: none
-Connection: close
+Date: Fri, 20 Mar 2015 01:12:30 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYsfFwfaqR-aI8-P0XzGnm9-lH2hnqotrIAvlVNx_NbwiYeZCTRmrX8RWByOv_XApTtOeRcTU7M%0D%0AUcDheEzPuMqk6h4n15TifemIHg0CStgDhsJflk9X2oV_oRH2EMmV3zOKrW_T5Qxhs3qUoRI37wve%0D%0A96Gpvduqkyo9b8LrhXaLE82Pd_7eAz9sMlfaubW-pTzoJyKV3-Nyfz42b7rw0UWalggbUpCvyC1r%0D%0A-p5Pl7SHrqTRcCRt3wH2DyR89i4wp8TG0d-5wrcN3JkWQlFSsqBwig%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:38 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:38 GMT; Path=/
+Set-Cookie: session-id-time=1584493951; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:38 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
 

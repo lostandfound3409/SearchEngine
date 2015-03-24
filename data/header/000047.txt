@@ -1,11 +1,15 @@
-Server: nginx/1.6.2
-Date: Mon, 23 Feb 2015 15:46:04 GMT
+Server: nginx
+Date: Fri, 20 Mar 2015 01:06:53 GMT
 Content-Type: text/html; charset=UTF-8
-Content-Length: 99844
+Transfer-Encoding: chunked
 Connection: close
-Last-Modified: Thu, 23 Jan 2014 21:00:24 GMT
-Accept-Ranges: bytes
-Cache-Control: max-age=3, must-revalidate
-Expires: Mon, 23 Feb 2015 15:46:07 GMT
-Vary: Accept-Encoding,Cookie
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: https://goodbookscents.wordpress.com/xmlrpc.php
+Link: <http://wp.me/p2lO0T-Hy>; rel=shortlink
+Last-Modified: Fri, 20 Mar 2015 01:06:53 GMT
+Cache-Control: max-age=300, must-revalidate
+X-nananana: Batcache
+X-ac: 1.ord _dca
 

@@ -1,9 +1,14 @@
-Date: Mon, 23 Feb 2015 16:40:11 GMT
-Server: Apache/2
-X-Powered-By: PHP/5.3.27
-X-Pingback: http://www.fushionmag.com/xmlrpc.php
-Vary: Accept-Encoding,User-Agent
-Connection: close
+Date: Fri, 20 Mar 2015 01:09:38 GMT
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=ISO-8859-1
+Connection: close
+Set-Cookie: __cfduid=d731097ea855d5bb8642dc87e41dd1ce91426813778; expires=Sat, 19-Mar-16 01:09:38 GMT; path=/; domain=.megashare.sc; HttpOnly
+X-Powered-By: PHP/5.3.28
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ktnfn96pkbh7ka2mh64bgt0953; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding,User-Agent
+Server: cloudflare-nginx
+CF-RAY: 1c9d88620d3d099a-ORD
 

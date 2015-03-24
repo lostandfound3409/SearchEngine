@@ -1,20 +1,16 @@
-Server: Apache
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-Expires: Thu, 01 Jan 1970 00:00:00 GMT
-Content-language: en
-X-Analytics: page_id=999394;ns=0
-X-Powered-By: HHVM/3.3.1
-X-Content-Type-Options: nosniff
-Last-Modified: Wed, 18 Feb 2015 16:53:14 GMT
+Server: cloudflare-nginx
+Date: Fri, 20 Mar 2015 01:09:53 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3206803597, 873049114
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:06:18 GMT
-Age: 0
 Connection: close
-X-Cache: cp1068 miss (0), cp1054 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Set-Cookie: __cfduid=d3233248738e8a7d5c46ecf3f6f5f17271426813792; expires=Sat, 19-Mar-16 01:09:52 GMT; path=/; domain=.fanart.tv; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.36-0+deb7u3
+Set-Cookie: PHPSESSID=b7fqtbf265iq3ksu5snjd535r4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: https://fanart.tv/xmlrpc.php
+Set-Cookie: invite-anyone=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+CF-RAY: 1c9d88bcc8eb09a6-ORD
 

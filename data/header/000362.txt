@@ -1,16 +1,16 @@
-Date: Mon, 23 Feb 2015 18:24:12 GMT
-Server: gwiseguy/2.0
-X-Content-Type-Options: nosniff
-Cache-Control: no-cache
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
-Content-Type: text/html; charset=utf-8
-X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
-X-Frame-Options: SAMEORIGIN
-Set-Cookie: YSC=BEcDM6weLJY; path=/; domain=.youtube.com; HttpOnly
-Set-Cookie: VISITOR_INFO1_LIVE=A7ELObPxcGI; expires=Sun, 25-Oct-2015 06:17:12 GMT; path=/; domain=.youtube.com; HttpOnly
-Alternate-Protocol: 443:quic,p=0.08
-Accept-Ranges: none
+Date: Fri, 20 Mar 2015 01:16:24 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "6f2a5a8f3a4318c441d8b3ee34d22835"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: d0129e17c57614bc9660c946b88de093
+X-Runtime: 0.355776
+X-Rack-Cache: miss
+X-Powered-By: Phusion Passenger 4.0.23
+Set-Cookie: _jango_s=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTJlOTM4ODI0NGE0Y2NiOWRiZjk2NDM0ODJiMWUyZDU0BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWxwS3d0SlBtZ2JzTlM5UGZrQ0hwd3NSUjRCSXdmeXRnakNNWUZjdWc2a2c9BjsARg%3D%3D--7d49cd2de773c157492ed6eb11a184e852b159a8; domain=.jango.com; path=/; expires=Fri, 20-Mar-2020 01:16:24 GMT; HttpOnly
+Content-Length: 66882
+Status: 200 OK
 Vary: Accept-Encoding
 Connection: close
+Content-Type: text/html; charset=utf-8
 

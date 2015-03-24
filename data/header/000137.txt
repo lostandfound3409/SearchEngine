@@ -1,8 +1,19 @@
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=14045479;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Tue, 10 Mar 2015 02:50:11 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1851729012 1843980197, 2096809165 2044537050
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:34:38 GMT
-Server: LiteSpeed
+Date: Fri, 20 Mar 2015 01:09:20 GMT
+Age: 40133
 Connection: close
-X-Powered-By: PHP/5.3.28
-Set-Cookie: ae74935a9f5bd890e996f9ae0c7fe805=q5vS1ldKBFw%3DRXHN2qLD5gI%3DNobY4bU%2Bf%2Bg%3DqPgFel6P9Uw%3Daa0wj%2BrGoS4%3DlopdREWA8%2B4%3DkhzKBmGGs%2FU%3DnbacHS8jG08%3D; expires=Sun, 15-Mar-2015 16:34:37 GMT; path=/; domain=.hdwallpapers.in; httponly
-Content-Type: text/html; charset=utf-8;
+X-Cache: cp1052 hit (3), cp1066 frontend hit (11)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

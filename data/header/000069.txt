@@ -1,14 +1,19 @@
-Cache-Control: no-cache, no-store
-Pragma: no-cache
-Content-Type: text/html; charset=utf-8
-Expires: -1
-Server: Microsoft-IIS/7.5
-X-AspNet-Version: 4.0.30319
-X-Powered-By: ASP.NET
-Vary: Accept-Encoding
-Date: Mon, 23 Feb 2015 15:55:18 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=19614202;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Wed, 18 Mar 2015 08:28:11 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2126707169 2124665601, 2969822193 2794679819
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:07:30 GMT
+Age: 146286
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: ASP.NET_SessionId=qg2bitvgwryk5rn3dibtouh0; path=/; HttpOnly
+X-Cache: cp1068 hit (7), cp1054 frontend hit (313)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

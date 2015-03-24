@@ -1,17 +1,10 @@
-Date: Mon, 23 Feb 2015 16:12:06 GMT
-Server: Server
-Content-Type: text/html; charset=utf-8
-Status: 200 OK
-Vary: User-Agent,Accept-Encoding
-X-Request-Id: 12RK9W6BRJ9F8QPP0A5A
-X-UA-Compatible: IE=Edge,chrome=1
-ETag: "681591ddf3182c9474c6d900a2553226"
-Cache-Control: max-age=0, private, must-revalidate
-X-Frame-Options: SAMEORIGIN
-X-Runtime: 0.033471
-X-Content-Type-Options: nosniff
-Set-Cookie: csid=BAhJIhg5NDUtMDQxMDAyNi0zNzExNDQ1BjoGRVQ%3D--2c6d6159781b9606a8474cee8b95df96e5b37f52; path=/; expires=Fri, 23-Feb-2035 16:12:06 GMT
-Set-Cookie: locale=en; path=/
-Set-Cookie: _session_id2=fdce4a4ad55d0262f61bfdb517109f15; path=/; expires=Mon, 23-Feb-2015 22:12:06 GMT; HttpOnly
-Transfer-Encoding: chunked
+Content-Type: text/html
+Last-Modified: Sun, 08 May 2011 19:30:22 GMT
+Accept-Ranges: bytes
+ETag: "0db3d5fb6dcc1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Fri, 20 Mar 2015 01:08:41 GMT
+Connection: close
+Content-Length: 11220
 

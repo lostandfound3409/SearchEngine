@@ -1,13 +1,12 @@
-Set-Cookie: ServerID=1329; path=/
-Date: Mon, 23 Feb 2015 17:18:03 GMT
-Set-Cookie: JSESSIONID=3D1A4FBEE7DA6BDB60637AF4F8E32D78; Path=/; HttpOnly
-Content-Type: text/html;charset=ISO-8859-1
+Date: Fri, 20 Mar 2015 01:10:33 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
-Vary: User-Agent,Accept-Encoding
-FLX-Server: web229.flixster.com
-RT-Commit: RTRELEASE.2015-02-19.12-07-52 168658a
-FLX-Commit: ADMINRELEASE.2015-02-19.11-31-51 854dd1f
-FLX-Build-Date: 2015-02-19 14:13:50
-Connection: close
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYpik-texoa1TyLaj2NqKc_YrKqWipJlxdtKe_bk1qjQBUYLldWtIsK5XDPXVngIQquxWRXBMDB%0D%0AWQ_gSCuATDnxYuNGR8FIw1yBsrdi9cZbbj2aIRz5usMtaNCdDVgR7GBq5MuiOnloWdLDIEpFD6zo%0D%0AcJssoNSW0HLWzbJaJ8Sztx9P5Ulk4LJUsdR3IbUXenKQa4uZpL70e7-KPygvi_EexkRs05raxwXw%0D%0Aj8xsG34MrgD9IwhziviUeeXIj6DGLQf6Uxgm6NxkxnZaeTCnV_Tvsg%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:41 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:41 GMT; Path=/
+Set-Cookie: session-id-time=1584493834; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:41 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 

@@ -1,10 +1,19 @@
-Server: nginx/1.6.0
-Date: Mon, 23 Feb 2015 15:46:17 GMT
-Content-Type: text/html
-Content-Length: 14273
-Last-Modified: Sun, 07 Sep 2014 13:17:46 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=1880660;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 16 Mar 2015 22:40:07 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1971444419 1971053600, 2270611547 1946050044
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:06:54 GMT
+Age: 267934
 Connection: close
-ETag: "540c5afa-37c1"
-Access-Control-Allow-Origin: *
-Accept-Ranges: bytes
+X-Cache: cp1053 hit (4), cp1053 frontend hit (171)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

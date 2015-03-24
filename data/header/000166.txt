@@ -1,15 +1,19 @@
-Server: nginx/1.4.4
-Content-Type: text/html;charset=utf-8
-Status: 200 OK
-X-XSS-Protection: 1; mode=block
-X-UA-Compatible: IE=edge,chrome=1
-X-Varnish: 1377832547
-X-Akamai-Transformed: 9 27285 0 pmb=mRUM,1
-Vary: Accept-Encoding
-Cache-Control: public, max-age=2156
-Date: Mon, 23 Feb 2015 17:13:25 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=50793;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 16 Mar 2015 22:21:13 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1955475437 1954964413, 3143822857 2819839950
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:10:10 GMT
+Age: 269332
 Connection: close
-Connection: Transfer-Encoding
-X-Origin: Matterhorn
+X-Cache: cp1068 hit (3), cp1065 frontend hit (330)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

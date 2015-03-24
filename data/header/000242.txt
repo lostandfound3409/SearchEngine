@@ -1,9 +1,12 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 17:39:08 GMT
-Content-Type: text/html
+Date: Fri, 20 Mar 2015 01:12:26 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYjpogvt84L5fnUhrW96mo-9rSdCok51cvdi2MO2RyXSVjY_cuD7jFg5wjOVKRyPETdb851UP4M%0D%0A1Gqx_MQKBW40BZ75EsQ5QRs1Vg8BqOeLW1y4UO_N2eKkGHnQACm6LNxJ5rtnbNiZkWlC_OjOroCP%0D%0AIaqdiWlgcMuyFNro9aim0iy2O5JXDe0W1UzpDDVaDfUNBEpqwmRwdj6iNKDdKNacd0RkwylNeZqx%0D%0A1FjK3DqgJAvmqCPi6Et7ITIYobFIFBrmiP1pD-dYBcDmCi41Te7Wow%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:33 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:33 GMT; Path=/
+Set-Cookie: session-id-time=1584493946; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:33 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Connection: close
-X-Powered-By: PHP/5.4.10
-Set-Cookie: dealver=009; path=/; domain=.blu-ray.com
-Set-Cookie: firstview=1; path=/; domain=.blu-ray.com
 

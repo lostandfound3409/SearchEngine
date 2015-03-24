@@ -1,12 +1,8 @@
-Date: Fri, 31 Jan 2014 16:05:43 GMT
-Server: Apache/2
-X-Powered-By: PHP/5.3.28
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-Set-Cookie: PHPSESSID=5a5u11oq4ileqn23r0jhkl3840; path=/
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Vary: Accept-Encoding,User-Agent
+Date: Fri, 20 Mar 2015 01:11:24 GMT
+Server: Apache
+Set-Cookie: tmic=fde9cfb1fe936ea708f7f7248e92a2c2f50eb966%3A0; expires=Sun, 19-Apr-2015 01:11:24 GMT; path=/; domain=www.movieinsider.com
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=windows-1252
 Connection: close
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
 

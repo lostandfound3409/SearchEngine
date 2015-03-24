@@ -1,19 +1,15 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=6597101;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 21 Feb 2015 19:35:46 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 4005880931 3985461525, 709287921
-Via: 1.1 varnish, 1.1 varnish
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1722679945 1722659273
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=1567
+Date: Fri, 20 Mar 2015 01:11:04 GMT
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:29:35 GMT
-Age: 15422
 Connection: close
-X-Cache: cp1053 hit (8), cp1066 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

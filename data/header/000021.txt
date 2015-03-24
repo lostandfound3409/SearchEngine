@@ -5,15 +5,15 @@ Content-language: en
 X-UA-Compatible: IE=Edge
 Vary: Accept-Encoding,Cookie
 X-Powered-By: HHVM/3.3.1
-Last-Modified: Thu, 19 Feb 2015 06:11:07 GMT
+Last-Modified: Wed, 18 Mar 2015 14:17:50 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 4223066298 4223024531, 701472225 328536001
+X-Varnish: 1240853506, 1650017792 1492047364
 Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 15:39:32 GMT
-Age: 379631
+Date: Fri, 20 Mar 2015 01:06:18 GMT
+Age: 125306
 Connection: close
-X-Cache: cp1067 hit (2), cp1066 frontend hit (1012)
+X-Cache: cp1067 miss (0), cp1055 frontend hit (290)
 Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

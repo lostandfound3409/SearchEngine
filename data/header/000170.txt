@@ -1,8 +1,14 @@
-Server: nginx/1.4.7
-Date: Mon, 23 Feb 2015 17:14:03 GMT
-Content-Type: text/html
-Transfer-Encoding: chunked
-Connection: close
+Server: Apache
+Content-Type: text/html; charset=UTF-8
 Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.3
+Cache-Control: max-age=894
+Expires: Fri, 20 Mar 2015 01:25:13 GMT
+Date: Fri, 20 Mar 2015 01:10:19 GMT
+Content-Length: 31639
+Connection: close
+Set-Cookie: edgelong=-76.4974
+Set-Cookie: edgelat=42.4320
+Set-Cookie: edgestate=NY
+Set-Cookie: edgecity=ITHACA
+Set-Cookie: edgezip=14850
 

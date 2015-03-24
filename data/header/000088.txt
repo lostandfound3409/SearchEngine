@@ -1,11 +1,11 @@
-Date: Mon, 23 Feb 2015 15:59:51 GMT
+Date: Fri, 20 Mar 2015 01:07:55 GMT
 Server: Apache
-Last-Modified: Sun, 22 Feb 2015 20:05:31 GMT
-ETag: "1b54c-50fb2cecc9404"
-Accept-Ranges: bytes
-Content-Length: 111948
-Vary: Accept-Encoding,Cookie
-X-Powered-By: W3 Total Cache/0.9.4.1
+Set-Cookie: SESSb04c4fb7fbb8812e5f15bbbf21002d31=pvugkel7a08hk94bpv84irbgd5; expires=Mon, 30-Mar-2015 01:07:55 GMT; path=/; domain=.tatteredcover.com
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Fri, 20 Mar 2015 01:07:55 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
 Connection: close
-Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
 

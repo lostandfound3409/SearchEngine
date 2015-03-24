@@ -1,19 +1,9 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=4667849;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Tue, 17 Feb 2015 13:37:52 GMT
+Server: Apache/2.2
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3152726610 3132068207, 1078984807 1040080484
-Via: 1.1 varnish, 1.1 varnish
+Date: Fri, 20 Mar 2015 01:12:08 GMT
+X-Pingback: http://presencelearning.com/xmlrpc.php
+Link: <http://presencelearning.com/?p=7266>; rel=shortlink
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:37:45 GMT
-Age: 55023
 Connection: close
-X-Cache: cp1068 hit (2), cp1067 frontend hit (10)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Set-Cookie: X-Mapping-nfchjghl=9049D36C3D60CDF317A120E5233F1F6D; path=/
 

@@ -1,20 +1,24 @@
-Server: Apache
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-Expires: Thu, 01 Jan 1970 00:00:00 GMT
-Content-language: en
-X-Analytics: page_id=999394;ns=0
-X-Powered-By: HHVM/3.3.1
-X-Content-Type-Options: nosniff
-Last-Modified: Wed, 18 Feb 2015 16:53:14 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3206673620, 1899150047
-Via: 1.1 varnish, 1.1 varnish
+Server: nginx
+Date: Fri, 20 Mar 2015 01:09:43 GMT
+Content-Type: text/html; charset=utf-8
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:04:39 GMT
-Age: 0
 Connection: close
-X-Cache: cp1068 miss (0), cp1052 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+X-Drupal-Cache: MISS
+Etag: "1426751857-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </movie-reviews/pirates-of-the-caribbean-dead-mans-chest>; rel="canonical",</node/1257808>; rel="shortlink"
+Cache-Control: public, max-age=86400
+Last-Modified: Thu, 19 Mar 2015 07:57:37 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-9c297b16-ce0d-11e4-abb3-22000ae82924
+X-AH-Environment: prod
+X-Varnish: 1906432074 1904783553
+Age: 61923
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 18
 

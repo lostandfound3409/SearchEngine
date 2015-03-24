@@ -1,20 +1,16 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www221
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Last-Modified: Mon, 23 Feb 2015 18:18:03 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
+Date: Fri, 20 Mar 2015 01:15:40 GMT
+Server: Apache
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "6892b8155605447cb55af3a07365e88c"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 0a44d25b2353226107c6355d9998e175
+X-Runtime: 0.121079
+X-Rack-Cache: miss
+X-Powered-By: Phusion Passenger 4.0.23
+Set-Cookie: _jango_s=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWQwY2U1ZDMxYTFjZDQ2ZjkwNzVkYjc2ZjRkN2I5ODllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWo3d3Zvam9qSkk5QnVIYTIvblpQemNGb0xUbE9hZ1QwQjBNUVVKTGp2dk09BjsARg%3D%3D--806fb9b91b9faefcdfb3922c63c030bad866aa88; domain=.jango.com; path=/; expires=Fri, 20-Mar-2020 01:15:40 GMT; HttpOnly
+Content-Length: 67088
+Status: 200 OK
 Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 18:18:05 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 18:18:05 GMT
-Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=2c147bc1eef6f473cee92259cc5fad88-42cc945131b272b1f90f7e594a55d868b002f78fb77476b1f6e5a54db8c246f3; expires=Fri, 24-Jan-2025 06:18:02 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=7ff441faee7c71e5c42b7b6369cb84cf; expires=Thu, 18-Feb-2016 18:18:02 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424715482; path=/; domain=.last.fm
+Content-Type: text/html; charset=utf-8
 

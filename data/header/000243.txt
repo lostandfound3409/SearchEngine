@@ -1,15 +1,12 @@
-Date: Mon, 23 Feb 2015 17:41:32 GMT
+Date: Fri, 20 Mar 2015 01:12:27 GMT
 Server: Server
-pragma: no-cache
-x-amz-id-1: 17CVE6GMABBYQXNP7J7V
-p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-x-sap-pg: dvd_display_on_website
-cache-control: no-cache
-x-frame-options: SAMEORIGIN
-expires: -1
-x-amz-id-2: OWQLbH3AvhSlb58pB+8tATOeTxh1Kn4amHtGyeAeE0Nbz3uPBmWsRGM5LLoSQwGq
-x-ua-compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Content-Type: text/html; charset=UTF-8
+Set-Cookie: uu=BCYn-mc9XDLM13YTaAC2Dy02dvyHqIp8GiEw4JU-JLU1auGNYUhCfBxRPC-BCrL9WyPUUkp19UUz%0D%0AOq-trBFUfHY78Xx_8mkRvWhJJZqlfgMbVDycXTfps4NSPNfSDLRb03cSk4LDycRPJV38hHiFQyGK%0D%0AqWgfP7qLLVoI8Ijz9meCP5HAXIsWbIQ_1N-sIAGH5wOO-2RIW4ZZpKY467AK7lR3LnYafNlXMgBA%0D%0A9qvqCWetuUDjZN8n9tQVdqEGMHjKfPB2QynGzmlzLVvDiMB80K40Qg%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:35 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:35 GMT; Path=/
+Set-Cookie: session-id-time=1584493947; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:35 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 

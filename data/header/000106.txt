@@ -1,17 +1,14 @@
-Date: Mon, 23 Feb 2015 16:08:00 GMT
+Date: Fri, 20 Mar 2015 01:08:19 GMT
 Server: Server
-Content-Type: text/html; charset=utf-8
-Status: 200 OK
-Vary: User-Agent,Accept-Encoding
-X-Request-Id: 050CWAQAB1B4HZ6TYFJ4
-X-UA-Compatible: IE=Edge,chrome=1
-ETag: "0985355b7b15ee4ee6abd9322f3c063f"
-Cache-Control: max-age=0, private, must-revalidate
-X-Frame-Options: SAMEORIGIN
-X-Runtime: 0.028592
-X-Content-Type-Options: nosniff
-Set-Cookie: csid=BAhJIhg0MDgtODI5ODE4Ni04ODgyODg4BjoGRVQ%3D--5eda154b8e729557c670f8fcf645b51d206b1f32; path=/; expires=Fri, 23-Feb-2035 16:08:00 GMT
-Set-Cookie: locale=en; path=/
-Set-Cookie: _session_id2=baaf8b341e46e637e51a71326e05e1e1; path=/; expires=Mon, 23-Feb-2015 22:08:00 GMT; HttpOnly
+pragma: no-cache
+x-amz-id-1: 0E8VDHACCYHCZHBTBSDK
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: ebooks_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: /L68l2tJvMtaKFCAkED6lCplu1kxV+QAYfx+TnK0piBpk0TXj3AycUwji/shpWgq
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
 Transfer-Encoding: chunked
 

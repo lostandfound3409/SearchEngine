@@ -1,9 +1,9 @@
 Server: nginx/1.6.2
-Date: Mon, 23 Feb 2015 15:44:01 GMT
+Date: Fri, 20 Mar 2015 01:06:41 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
-Vary: Cookie
-X-Pingback: http://www.umershafqat.com/xmlrpc.php
-Set-Cookie: wfvt_3228801996=54eb4ac0b9163; expires=Mon, 23-Feb-2015 16:14:00 GMT; path=/; httponly
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+WP-Super-Cache: Served supercache file from PHP
 

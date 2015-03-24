@@ -1,15 +1,10 @@
-Date: Mon, 23 Feb 2015 18:17:46 GMT
-Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
-Set-Cookie: allmusic_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22b00ea2cf80c5f2021a8d41bf1562db74%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A17%3A%22Python-urllib%2F3.4%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424715466%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D374d73364138ec721aa873c70359eb65; path=/
-Set-Cookie: allmusic_session=a%3A6%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22b00ea2cf80c5f2021a8d41bf1562db74%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A18%3A%222607%3Af700%3A1%3A83%3A%3A92%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A17%3A%22Python-urllib%2F3.4%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1424715466%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22user%22%3Bi%3A0%3B%7Ddcb71ddfc41743842dd150fd7f420fea; path=/
-Expires: Tue, 24 Feb 2015 06:17:48 GMT
-Cache-Control: maxage=43200
-Vary: Accept-Encoding
-Content-Type: text/html; charset=UTF-8
-X-Cache: MISS from bb-all-isquid03.allmusic.amn
-X-Cache-Lookup: MISS from bb-all-isquid03.allmusic.amn:80
-X-Cache: MISS from bb-all-esquid02.allmusic.amn
-X-Cache-Lookup: MISS from bb-all-esquid02.allmusic.amn:80
-Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid02.allmusic.amn (squid/3.1.23)
+Cache-Control: private
+Content-Length: 88249
+Content-Type: text/html
+Expires: Fri, 20 Mar 2015 01:15:33 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Set-Cookie: trackingid=152114740; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/
+Set-Cookie: ASPSESSIONIDCCQBBBCB=HPEDKNCBPMLKDLDBPDACGGNG; path=/
+Date: Fri, 20 Mar 2015 01:15:34 GMT
 

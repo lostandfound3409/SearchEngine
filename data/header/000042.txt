@@ -1,19 +1,9 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=1880660;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 21 Feb 2015 03:26:10 GMT
+Server: nginx
+Date: Fri, 20 Mar 2015 01:06:48 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3747926077 3747526834, 1071020388 858124249
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 15:45:21 GMT
-Age: 217144
 Connection: close
-X-Cache: cp1053 hit (5), cp1067 frontend hit (159)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Vary: Accept-Encoding
+X-Pingback: http://blogs.slj.com/afuse8production/xmlrpc.php
+Link: <http://blogs.slj.com/afuse8production/?p=14005>; rel=shortlink
 

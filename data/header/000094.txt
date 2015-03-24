@@ -1,19 +1,17 @@
-Server: Apache
+Date: Fri, 20 Mar 2015 01:08:03 GMT
+Server: Server
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Vary: User-Agent,Accept-Encoding
+X-Request-Id: 0V33SN1A9SW93VDG5PDH
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "45c8a67142d7e023da989eb5003e96d6"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.034941
 X-Content-Type-Options: nosniff
-X-Analytics: page_id=10748702;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3201952155 3156196000, 702982516
-Via: 1.1 varnish, 1.1 varnish
+Set-Cookie: csid=BAhJIhg4NzEtMzMxNTU1Ny0yMTA3MTQ2BjoGRVQ%3D--b3a551d162f86a0d07b2322e2cc192d058a9a2a1; path=/; expires=Tue, 20-Mar-2035 01:08:03 GMT
+Set-Cookie: locale=en; path=/
+Set-Cookie: _session_id2=4675cecb8889bda66f444042aedbc0d7; path=/; expires=Fri, 20-Mar-2015 07:08:03 GMT; HttpOnly
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:01:02 GMT
-Age: 30476
-Connection: close
-X-Cache: cp1068 hit (4), cp1066 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

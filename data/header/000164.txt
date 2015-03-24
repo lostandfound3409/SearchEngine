@@ -1,12 +1,8 @@
-Date: Mon, 23 Feb 2015 17:13:18 GMT
-Server: Apache
-Last-Modified: Sun, 22 Feb 2015 19:34:48 GMT
-ETag: "700002cf-4f44-50fb260f77708;50f7b92ede6d6"
-Accept-Ranges: bytes
-Content-Length: 20292
-Cache-Control: max-age=3, must-revalidate
-Expires: Mon, 23 Feb 2015 17:13:21 GMT
-Vary: Accept-Encoding,Cookie
+Server: nginx/1.4.7
+Date: Fri, 20 Mar 2015 01:10:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
 Connection: close
-Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3
 

@@ -2,13 +2,18 @@ from WebDB import WebDB
 import os
 from TermDictionary import TermDictionary
 from stemming.porter2 import stem
+from Evaluation import Evaluation
+from random import shuffle
+
 
 class Queries():
     itemFolder = 'data\item'
     cleanFolder = r'data\clean'
     termDict = TermDictionary()
     db = WebDB('data\cache.db')
+    eval = Evaluation()
 
+    #Generate the positional list for all words in the clean files
     print("Generating positional list...")
     for root, dirs, files in os.walk(cleanFolder):
         for file in files:
@@ -25,7 +30,7 @@ class Queries():
         tokenQuery = stem(tokenQuery).lower()
         print("Actual Search: " + tokenQuery)
         tokenId = self.termDict.getPosFromQuery(tokenQuery)
-        tokenList =[]
+        tokenList = []
         for fileId, pos in tokenId.items():
             if (self.db.lookupCachedURL_byID(int(fileId))) is not None:
                 tokenList.append(str(self.db.lookupCachedURL_byID(int(fileId))))
@@ -110,7 +115,8 @@ class Queries():
                         if key1 == key2:
                             for allValues1 in value1:
                                 for allValues2 in value2:
-                                    if int(allValues1) - int(allValues2) <= int(range) or int(allValues2) - int(allValues1) <= int(range):
+                                    if int(allValues1) - int(allValues2) <= int(range) or int(allValues2) - int(
+                                            allValues1) <= int(range):
                                         listCheck = self.db.lookupCachedURL_byID(int(key1))
                                         if listCheck not in nearList:
                                             nearList.append(listCheck)
@@ -118,7 +124,94 @@ class Queries():
             except TypeError:
                 print("0 results")
         self.print_results(nearList)
-        
+
+    #-------------------------------------------
+    # Function for free query
+    #-------------------------------------------
+    def theQuery(self):
+        query = input("Enter a query: ")
+        query = stem(query).lower()
+        docWeight = input("Document weight(nnn or ltc): ")
+        self.termDict.calcWeight(docWeight)
+        queryWeight = input("Query weight(nnn or ltc): ")
+        scores = self.termDict.calcQuery(query, queryWeight)
+        count = 0
+        for doc in scores:
+            if count < 5 and self.db.lookupCachedURL_byID(int(doc[0])) != None:
+                print(str(self.db.lookupCachedURL_byID(int(doc[0]))) + " " + str(doc[1]))
+            count += 1
+    #-------------------------------------------
+    # Function for evaluation purposes. Uses automatic search for terms in item files.
+    #-------------------------------------------
+    def autoQuery(self):
+        docWeighting = ["nnn","ltc"]
+        queryWeighting = ["nnn","ltc"]
+        print("Evaluating all documents...")
+        for weight in docWeighting:
+            self.termDict.calcWeight(weight)
+            for weight2 in queryWeighting:
+                print("Evaluating next weighting scheme...")
+                meanAvgPrec = 0
+                meanRPrec = 0
+                meanPrec = 0
+                meanAuc = 0
+                for root, dirs, files in os.walk(self.itemFolder):
+                    for file in files:
+                        log = open(os.path.join(root, file), 'r')
+                        for query in log.readlines():
+                            currentList = []
+                            #Grab the query and clean it up
+                            query = query.replace(",", "")
+                            query = stem(query).lower()
+                            scores = self.termDict.calcQuery(query.strip(), weight2)
+                            for doc in scores:
+                                if self.db.lookupCachedURL_byID(int(doc[0])) is not None:
+                                    #Grab the database search result and clean it up
+                                    splitTerm = str(self.db.lookupCachedURL_byID(int(doc[0]))).split(",")
+                                    splitTerm = splitTerm[1].split(":")
+                                    splitTerm[0] = splitTerm[0].replace("'", "")
+                                    if stem(splitTerm[0]).lower().strip() == query.strip(): #Comparing the media type of the query to the database result
+                                        currentList.append(1)#Search is relevant
+                                    else:
+                                        currentList.append(0)#Search is non-relevant
+                            meanAvgPrec += self.eval.avgPrecision(currentList)
+                            meanRPrec += self.eval.rPrecision(currentList)
+                            meanPrec += self.eval.precision(currentList, 10)
+                            meanAuc += self.eval.areaUnderCurve(currentList)
+                print(weight, " ", weight2)
+                print("Mean Avg. Precision: ", meanAvgPrec / 39)
+                print("Mean Precision @ R: ", meanRPrec / 39)
+                print("Mean Precision @ 10: ", meanPrec / 39)
+                print("Mean Area Under Curve: ", meanAuc / 39, "\n")
+
+    # Random evaluation metrics
+        shuffleList = []
+        meanAvgPrec = 0
+        meanRPrec = 0
+        meanPrec = 0
+        meanAuc = 0
+        for x in range(0, 200):
+            for x in range(0, 357):
+                shuffleList.append(0)
+            for x in range(0, 10):
+                shuffleList.append(1)
+            shuffle(shuffleList)
+            meanAvgPrec += self.eval.avgPrecision(shuffleList)
+            meanRPrec += self.eval.rPrecision(shuffleList)
+            meanPrec += self.eval.precision(shuffleList, 10)
+            meanAuc += self.eval.areaUnderCurve(shuffleList)
+
+        print("Random Evaluation")
+        print("Mean Avg. Precision: ", meanAvgPrec / 200)
+        print("Mean Precision @ R: ", meanRPrec / 200)
+        print("Mean Precision @ 10: ", meanPrec / 200)
+        print("Mean Area Under Curve: ", meanAuc / 200, "\n")
+
+
+
+    #-------------------------------------------
+    # Print the results of a search
+    #-------------------------------------------
     def print_results(self, listToPrint):
         itemCount = 0
         for item in listToPrint:

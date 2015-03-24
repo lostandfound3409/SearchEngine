@@ -1,21 +1,14 @@
 Server: nginx
-Date: Mon, 23 Feb 2015 15:41:22 GMT
-Content-Type: text/html; charset=utf-8
+Date: Fri, 20 Mar 2015 01:06:26 GMT
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
 Vary: Accept-Encoding
-Vary: Accept-Encoding
-Status: 200 OK
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-X-UA-Compatible: chrome=1
-Cache-Control: max-age=0,must-revalidate
-X-Request-Id: 15c31939-10e8-4fc4-bb8d-ecf698b7ef84
-X-Runtime: 0.261349
-P3P: CP="CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA"
-X-Varnish: 127725935
-Age: 0
-Via: 1.1 varnish-v4
-Accept-Ranges: bytes
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://canonfodder.net/xmlrpc.php
+Last-Modified: Fri, 20 Mar 2015 01:06:26 GMT
+Cache-Control: max-age=300, must-revalidate
+X-nananana: Batcache
+X-ac: 3.ord _dca
 

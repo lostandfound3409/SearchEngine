@@ -1,13 +1,18 @@
+Cache-Control: max-age=300
 Content-Type: text/html; charset=UTF-8
+Date: Fri, 20 Mar 2015 01:13:34 GMT
+Expires: Fri, 20 Mar 2015 01:18:34 GMT
+Last-Modified: Fri, 20 Mar 2015 01:13:34 +0000
+Link: <http://www.wonderingsound.com/?p=3051754>; rel=shortlink
+Server: Apache/2.2.15 (CentOS)
+Set-Cookie: PHPSESSID=mb7iqc8tof6vsrqeketeo53tu2; path=/
+Set-Cookie: EMID=39788f067b; expires=Sat, 19-Mar-2016 01:13:34 GMT; Max-Age=31536000; path=/
+Set-Cookie: AWSELB=574FC5B5142D845966FDDA2CC6F10E6DE915CE35C08D26958A1DB8059F4D251180A0DFE35144567AD1EE45FAD8156B6358D1EDE7D51A9AD54E65000EB975C01831CCBDC4567C737788B9B93079836BC28A7D3E0F72;PATH=/
+Vary: Cookie,Accept-Encoding
+X-Country: US
+X-nananana: Batcache
+X-Powered-By: PHP/5.5.18
+X-Region: US
 Transfer-Encoding: chunked
 Connection: close
-Age: 0
-Cache-Control: max-age=600
-Date: Mon, 23 Feb 2015 17:54:06 GMT
-Last-Modified: Mon, 23 Feb 2015 17:54:06 GMT
-Server: nginx
-Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
-X-Cache: Miss from cloudfront
-Via: 1.1 27887404abced3ba83cf4c729062f56c.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: JHgV1P0teRkrWnbEl5uep8CCEb_oAyePVzDS-7GFIgHf4R__pDGN6A==
 

@@ -1,12 +1,19 @@
-Date: Mon, 23 Feb 2015 18:23:43 GMT
-Server: Apache
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-Set-Cookie: PHPSESSID=b3etrm2rhcna19skit2cmrqnq6; path=/
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www162
+P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Vary: X-Country-Code
 Vary: Accept-Encoding
-Cache-Control: max-age=1, private, must-revalidate
-Connection: close
+Expires: Fri, 20 Mar 2015 01:16:07 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:16:07 GMT
 Transfer-Encoding: chunked
-Content-Type: text/html
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=85c65863362a9d4929bf5f4ac5620c14-76fb8c2106baea459656aeeef6efe5d93c8aba29e4a29f2cf3d1d3fa53ca6e04; expires=Mon, 17-Feb-2025 13:16:07 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=8747c25a22960d151be17a284cdc0118; expires=Mon, 14-Mar-2016 01:16:07 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1426814167; path=/; domain=.last.fm
 

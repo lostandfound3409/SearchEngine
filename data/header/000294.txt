@@ -1,11 +1,16 @@
-Date: Mon, 23 Feb 2015 17:57:42 GMT
-Server: Apache-Coyote/1.1
-X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
-X-Powered-By: JSF/1.2
-Content-Type: text/html;charset=UTF-8
-Set-Cookie: JSESSIONID=8C380E5F2C81E8A687C681949030C9B5; Path=/
-Set-Cookie: SERVER=cloud-web-1|VOtqG; path=/
-X-UA-Compatible: IE=EmulateIE8
+Date: Fri, 20 Mar 2015 01:14:04 GMT
+Server: gwiseguy/2.0
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+X-Content-Type-Options: nosniff
+Set-Cookie: YSC=FcaqmVo0Zn0; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=xflvn8NMGwY; expires=Wed, 18-Nov-2015 13:07:04 GMT; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.5
+Accept-Ranges: none
+Vary: Accept-Encoding
 Connection: close
-Transfer-Encoding: chunked
 

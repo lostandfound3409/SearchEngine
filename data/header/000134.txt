@@ -1,19 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=1703585;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Fri, 20 Feb 2015 14:22:06 GMT
+Server: nginx
+Date: Fri, 20 Mar 2015 01:09:12 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3183899006 3166222835, 1074497699 1058086930
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 16:34:08 GMT
-Age: 25088
 Connection: close
-X-Cache: cp1068 hit (2), cp1067 frontend hit (6)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: https://titanicsound.wordpress.com/xmlrpc.php
+Link: <http://wp.me/5nbUl>; rel=shortlink
+X-ac: 1.ord _dca
 

@@ -1,12 +1,13 @@
-Date: Mon, 23 Feb 2015 17:19:57 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYkJhypVIr6BFrr8lZyT0Ob46PnLzoyWU5BAq_wlFIYa0dhpmwFahsIbWEZp-NF9Gc6luGK84vp%0D%0ARo4VwlXVvjd0WrAh4Be319y-wqe1OyOXmTKs0kkoiL_uPTtRW4Q-KGwibnK1Zg8d0VciaiMOpdXT%0D%0AWZwOdKp-AtfMFt5ULuHlK5qhsja320xKRsnyfgPvSEGnRRI6O3Pi1oB1iUgRaVL0akrzDyEoXr6r%0D%0AyhoyBOxSGwjPTx-afWrYZut9hky4vilh7vDnmdaB-EE3wpcyACl5Jg%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:34:04 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:34:04 GMT; Path=/
-Set-Cookie: session-id-time=1582391997; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:34:04 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Server: Apache/2.2.15 (CentOS)
+X-Pingback: http://collider.com/xmlrpc.php
+Link: <http://collider.com/?p=351751>; rel=shortlink
+X-Mod-Oboe-PS: 1.7.30.5-1b9067388c7559ed3592edeee499f1269d5bfd16
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=900
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:10:39 GMT
+Age: 53
+Expires: Fri, 20 Mar 2015 01:25:39 GMT
+Vary: Accept-Encoding, User-Agent
+Connection: close
 

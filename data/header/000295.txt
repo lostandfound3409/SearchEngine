@@ -1,11 +1,19 @@
-Age: 1
-Cache-Control: public, max-age=0, s-maxage=0
-Content-Type: text/html;charset=utf-8
-Date: Mon, 23 Feb 2015 17:57:46 GMT
-Via: 1.1 varnish
-X-Cache: MISS
-x-cacheable: C:5m
-X-Varnish: 3907681303
-transfer-encoding: chunked
-Connection: Close
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=5052197;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 17:50:11 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1867463060 1867155878, 1900709956 1864186409
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:14:05 GMT
+Age: 26629
+Connection: close
+X-Cache: cp1052 hit (7), cp1067 frontend hit (100)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

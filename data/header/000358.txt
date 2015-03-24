@@ -1,10 +1,14 @@
-Cache-Control: private
-Content-Length: 84182
-Content-Type: text/html
-Expires: Mon, 23 Feb 2015 18:23:54 GMT
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Set-Cookie: trackingid=150544653; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/
-Set-Cookie: ASPSESSIONIDAQRTRCQC=PCBIOKFBCFLNBEIFIIDKAJAM; path=/
-Date: Mon, 23 Feb 2015 18:23:55 GMT
+Date: Fri, 20 Mar 2015 00:32:16 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
+Expires: Fri, 20 Mar 2015 12:32:23 GMT
+Cache-Control: maxage=43200
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Age: 2648
+X-Cache: HIT from bb-all-isquid03.allmusic.amn
+X-Cache-Lookup: HIT from bb-all-isquid03.allmusic.amn:80
+X-Cache: MISS from bb-all-esquid01.allmusic.amn
+X-Cache-Lookup: MISS from bb-all-esquid01.allmusic.amn:80
+Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid01.allmusic.amn (squid/3.1.23)
 

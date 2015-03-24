@@ -1,12 +1,8 @@
-Date: Mon, 23 Feb 2015 15:58:18 GMT
+Date: Fri, 20 Mar 2015 01:07:39 GMT
 Server: Apache
-X-Powered-By: PHP/5.4.37
-Set-Cookie: nlivc=ECE%7Bz%1E%0D%26fq; expires=Mon, 02-Mar-2015 15:58:18 GMT; path=/
-Vary: Accept-Encoding
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
-Pragma: no-cache
-Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Tue, 02 Jul 2013 22:00:15 GMT
+Accept-Ranges: bytes
+Content-Length: 19187
+Content-Type: text/html; charset=UTF-8
 Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=utf-8
 

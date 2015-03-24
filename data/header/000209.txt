@@ -1,8 +1,9 @@
-Server: nginx/1.4.7
-Date: Mon, 23 Feb 2015 17:32:25 GMT
-Content-Type: text/html
-Transfer-Encoding: chunked
-Connection: close
+Date: Fri, 20 Mar 2015 01:11:24 GMT
+Server: Apache
+X-Pingback: http://earnthis.net/xmlrpc.php
+Link: <http://earnthis.net/?p=4654>; rel=shortlink
 Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.3
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

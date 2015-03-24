@@ -1,11 +1,15 @@
-Date: Mon, 23 Feb 2015 16:00:05 GMT
-Server: Apache
-Set-Cookie: SESSb04c4fb7fbb8812e5f15bbbf21002d31=fra3c4em5fsq8e301389qidk15; expires=Thu, 05-Mar-2015 16:00:06 GMT; path=/; domain=.tatteredcover.com
-Expires: Sun, 19 Nov 1978 05:00:00 GMT
-Last-Modified: Mon, 23 Feb 2015 16:00:06 GMT
-Cache-Control: store, no-cache, must-revalidate
-Cache-Control: post-check=0, pre-check=0
-Connection: close
+Date: Fri, 20 Mar 2015 01:07:59 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0KNVZ7ZWGJ12EBC52NFH
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: nRrGFk6rUJg3Hx14FvSank+bYcVkmI3UCEASAHoxzSP59wZogTOG8xzMmD4qNPUS
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=utf-8
 

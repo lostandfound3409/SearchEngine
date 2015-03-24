@@ -1,12 +1,12 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 17:42:22 GMT
-Content-Type: text/html; charset=UTF-8
+Date: Fri, 20 Mar 2015 01:12:34 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYiozQ9_N3X4PXTzSLqgkyJEVAo-TC5PvlB1sApkL4ohzNAjGkU824NIVFzxAoWqaWYql8KU-8W%0D%0AUL_SeYrJIpLBNHwGsCGwc7lgOPZa0r2PslzVkBHsEomQjhJHaowJnbgZ0pGFRult5w5xbr7qW-4p%0D%0A_Xg0VKF61NYWDFdjd2adC0Nf53fe0N5LvEH9qmQjOZWj8b63EosNX2GkLr05MxrchtMZtz3mBd6c%0D%0A4O0tW1RjpEOjx4M_b80uacaaXfqtEEbJSqMUjMDvl3CQcH4V4walow%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:41 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:41 GMT; Path=/
+Set-Cookie: session-id-time=1584493954; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:26:41 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Connection: close
-X-Pingback: http://sf.funcheap.com/xmlrpc.php
-Link: <http://sf.funcheap.com/?p=304392>; rel=shortlink
-Vary: Accept-Encoding, Cookie, User-Agent
-Last-Modified: Mon, 23 Feb 2015 17:20:42 GMT
-X-PressLabs-Stats: HIT; 0.279s; 42 queries; desktop; ttl 14400s; refresh in 13100s
-X-Request-ID: 93438beb7cb96f9045b44ffbce1ac21a
 

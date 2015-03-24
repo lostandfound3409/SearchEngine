@@ -1,14 +1,15 @@
-X-UA-Compatible: IE=Edge
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding
-Cache-Control: max-age=300
-Expires: Mon, 23 Feb 2015 15:59:22 GMT
-Date: Mon, 23 Feb 2015 15:54:22 GMT
+Date: Fri, 20 Mar 2015 01:07:24 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 1EWXZFQCXB4Q32C3EJKG
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: v1TH0zHzVID/Kw1O//4D4pohU/fn34WbvOmz+zXuEHQicEWt5l3CLFRQScriKzEu
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: ABCGuestID=107.14.38.196.160271424706862164; expires=Mon, 23-Feb-2015 16:24:22 GMT; path=/; domain=.abc.net.au
-Set-Cookie: ABC_LD=int; path=/; domain=.abc.net.au
-Set-Cookie: ABC_FF=desktop; expires=Mon, 23-Feb-2015 17:54:22 GMT; path=/
 

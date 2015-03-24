@@ -1,22 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-Content-language: en
-X-Backend-Response-Time: 0.222
-ETag: "20150214173607-1424103784"
-Last-Modified: Sat, 14 Feb 2015 17:36:07 GMT
-Content-Type: text/html; charset=utf-8
-X-Cacheable: YES
-Content-Length: 307211
-Accept-Ranges: bytes
-Date: Wed, 18 Feb 2015 02:23:16 GMT
-Age: 63563
-Connection: close
-X-Served-By: ap-s19, cache-wk-sjc3160-WKSJC, cache-dfw1824-DFW
-X-Cache: ORIGIN, MISS, HIT
-X-Cache-Hits: ORIGIN, 0, 1
-X-Timer: S1424226196.874964,VS0,VE0
-Vary: Accept-Encoding,Cookie
-Set-Cookie: wikia_beacon_id=J8RS3f8bBt; domain=.wikia.com; path=/; expires=Mon, 17 Aug 2015 02:23:16 GMT;
-Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Date: Fri, 20 Mar 2015 01:10:34 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYhNohf8Mc42wh7Qt8MVJUYadPJrH4S5HPXSkQgJmU7Gq80rlk1KWFuT1hwmmz7DSLL40gxAPf2%0D%0AJFGwFIQbNQeqbfe_jZfmM-9jc0wKMruqGBlOsBcX3_cWRqNHvxrU7jaoW3llVh9wTbnMMC0OP7Yl%0D%0ATNr3cIZ8Jrm7ozjJmj_Te6hz65lzZcaUaILgjaFTYKPrbkEG8r4z7VF6cs49xM3CAVLCdGl9cVSs%0D%0AOsmY8xqleNmnQxy0hpMHqyXbZSZSxiO_ufIIhJOoRZm_lC1-UvQZKQ%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:42 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:42 GMT; Path=/
+Set-Cookie: session-id-time=1584493835; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:24:42 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
 

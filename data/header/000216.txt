@@ -1,9 +1,12 @@
-Date: Mon, 23 Feb 2015 17:33:12 GMT
-Server: Apache
-X-Pingback: http://earnthis.net/xmlrpc.php
-Link: <http://earnthis.net/?p=4654>; rel=shortlink
-Vary: Accept-Encoding
-Connection: close
+Date: Fri, 20 Mar 2015 01:11:37 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYllR83leu6T98JAmhuR5pghDS66XFunWwDEpVpkFj_L9mrwGHsK9jt8A3XY3V4dAxoNZe6e-A5%0D%0A3aATjm238N_3g7wCwBMrTO3cDskTOMw4GO6RDXF3nnK59Jwj4rAFt8Hb8GGSEf0F0evu93WQFsOB%0D%0An18YoRoMPHit2R5o7n-1DmwKclAe3j_AZ-OkoykJSWlMIxzI0xjMnL6jtkTI0JDaZONhxKnvelDH%0D%0A6G0Dx6_sCqJQKsgopuIsF3B14qcKrA-iO7jdJK01EBzNKyJLLn9qkQ%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:44 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:44 GMT; Path=/
+Set-Cookie: session-id-time=1584493897; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:44 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
 

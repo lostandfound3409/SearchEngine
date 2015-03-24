@@ -1,12 +1,9 @@
-Date: Mon, 23 Feb 2015 17:07:04 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYgvAVNE6mZzT_MVWmhrgBw4ccP5ZDYKSAtr4qW074MCz_G_IqGHhW7Thz116x8xl1ItTOFFXcH%0D%0A77SyPwsSyOoDQBkRedjJxyll3IFK3kUK1mGw6ROVVRyLsZ4DTcgI84XyNgWk5dAh-JLn3iqnesRx%0D%0AebZl-eHgGUSGh1FbB5B0eYsDf34bzste1Gtl8WRbBmy63jepmhc67pcg6HIK7O457HXraLGVF7wt%0D%0AUURlBF8qKd-yc3cffsCtEfvo_nlK9txTIGdFzDa6c9fBPpLcgxGyWQ%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:21:10 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:21:10 GMT; Path=/
-Set-Cookie: session-id-time=1582391223; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:21:10 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Server: Microsoft-IIS/7.0
+X-Pingback: http://neoavatara.com/blog/xmlrpc.php
+Link: <http://wp.me/prgqx-2Vq>; rel=shortlink
+X-Powered-By: ASP.NET
+Date: Fri, 20 Mar 2015 01:09:55 GMT
+Connection: close
+Content-Length: 25113
 

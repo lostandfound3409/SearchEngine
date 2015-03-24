@@ -1,12 +1,19 @@
-Cache-Control: private
-Content-Type: text/html; charset=utf-8
-Server: Microsoft-IIS/7.5
-X-AspNet-Version: 2.0.50727
-Set-Cookie: tracker=product|=780; path=/; HttpOnly
-Set-Cookie: cuser=currency=GBP&remembered=False&lastculture=&lastsite=&userid={f32cf836-8d72-4d8c-a998-f21985c91996}&usertype=0; expires=Wed, 25-Mar-2015 18:23:50 GMT; path=/; HttpOnly
-X-Powered-By: ASP.NET
-Date: Mon, 23 Feb 2015 18:23:49 GMT
-Set-Cookie: NSC_qt_nvtjdsppn.dpn=ffffffffaf181e2b45525d5f4f58455e445a4a423660;path=/;httponly
-ETag: "4f5fbc-769d9eb0b64d"
-Transfer-Encoding: Chunked
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=31056;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 18:30:37 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2420744000 2420473473, 2271305918 2239042504
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:16:09 GMT
+Age: 24312
+Connection: close
+X-Cache: cp1054 hit (6), cp1053 frontend hit (105)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

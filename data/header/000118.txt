@@ -1,12 +1,19 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 16:16:59 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=4273140;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Wed, 18 Mar 2015 20:24:04 GMT
 Content-Type: text/html; charset=UTF-8
+X-Varnish: 2201078991 2200852761, 1650209356 1529591853
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:08:43 GMT
+Age: 103465
 Connection: close
-Vary: Accept-Encoding
-Vary: Cookie
-X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
-X-Pingback: https://novelsummary.wordpress.com/xmlrpc.php
-Link: <http://wp.me/p2I0lB-39>; rel=shortlink
-X-ac: 1.ord _dca
+X-Cache: cp1068 hit (2), cp1055 frontend hit (295)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

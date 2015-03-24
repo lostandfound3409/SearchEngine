@@ -1,8 +1,12 @@
-Server: nginx/1.4.7
-Date: Mon, 23 Feb 2015 17:33:16 GMT
-Content-Type: text/html
+Date: Fri, 20 Mar 2015 01:11:39 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYjP761UWTR39s1myiUYLqPChFFgHCF4qF3cA7Cul3r6gPUZSJ7uZh14SdzVSOkMKYmPk2HQUoR%0D%0A5XudONcep_2bJNDybUsSjmd2UPmjGSFYrIPGJNzewIlGm1eSfe2_Ws9ZRsq5NA1Kh2jju8UshiHE%0D%0Avt71u7G3oUobIxhck49y_lL_bgQW_4ANH5tjPxnAneViRQ-y7Fyx2t6h70FdGXBzyRtExkpp8hwE%0D%0AvyqjEehjpvPhyTx_NaR-1qCl0s9mcWxMj49uqKhF7R1wFPDwJOek1g%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:47 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:47 GMT; Path=/
+Set-Cookie: session-id-time=1584493899; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:25:47 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Connection: close
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.3.3
 

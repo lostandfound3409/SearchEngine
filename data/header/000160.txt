@@ -1,16 +1,15 @@
-Server: cloudflare-nginx
-Date: Mon, 23 Feb 2015 17:11:19 GMT
-Content-Type: text/html; charset=UTF-8
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1239751194
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=329
+Date: Fri, 20 Mar 2015 01:10:02 GMT
 Transfer-Encoding: chunked
 Connection: close
-Set-Cookie: __cfduid=dbe55b975df9cd4a2df52680b087a9ad21424711479; expires=Tue, 23-Feb-16 17:11:19 GMT; path=/; domain=.fanart.tv; HttpOnly
-Vary: Accept-Encoding
-X-Powered-By: PHP/5.4.36-0+deb7u3
-Set-Cookie: PHPSESSID=knlbqli4q1iae68ou60nmg78h2; path=/
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-X-Pingback: https://fanart.tv/xmlrpc.php
-Set-Cookie: invite-anyone=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
-CF-RAY: 1bd50ab7ef0009ca-ORD
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

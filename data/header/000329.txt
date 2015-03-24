@@ -1,11 +1,14 @@
-Server: nginx
-Date: Mon, 23 Feb 2015 18:14:30 GMT
-Content-Type: text/html; charset=UTF-8
-Transfer-Encoding: chunked
-Connection: close
+Date: Fri, 20 Mar 2015 00:19:43 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
+Expires: Fri, 20 Mar 2015 12:19:48 GMT
+Cache-Control: maxage=43200
 Vary: Accept-Encoding
-Vary: Cookie
-X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
-X-Pingback: https://justwilliam1959.wordpress.com/xmlrpc.php
-X-ac: 1.ord _dca
+Content-Type: text/html; charset=UTF-8
+X-Cache: HIT from bb-all-isquid03.allmusic.amn
+X-Cache-Lookup: HIT from bb-all-isquid03.allmusic.amn:80
+Age: 3333
+X-Cache: HIT from bb-all-esquid02.allmusic.amn
+X-Cache-Lookup: HIT from bb-all-esquid02.allmusic.amn:80
+Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid02.allmusic.amn (squid/3.1.23)
 

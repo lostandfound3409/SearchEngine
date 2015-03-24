@@ -28,31 +28,34 @@ class MLStripper(HTMLParser):
 class Spider:
     directoriesToCreate = [r'data', r'data\item', r'data\raw', r'data\clean',
                            r'data\header']  # Directories to be created
-    directoriesToRenew = [r'data\raw', r'data\clean', r'data\header']
+    directoriesToDelete = [r'data\raw', r'data\clean', r'data\header']
     itemFolder = 'data\item'
     cleanFolder = 'data\clean'
     googleman = MyGoogle()
     startId = 0
-    num_results = 10
 
-    # Constructor, clears and recreates cache
-    def __init__(self, create=directoriesToCreate, delete=directoriesToRenew):
-        """self.delete_dirs(delete)
-        self.create_dirs(create)"""
+    # Constructor
+    def __init__(self,):{}
 
-    #Creates Cache
+    #-------------------------------------------
+    # Create directories
+    #-------------------------------------------
     def create_dirs(self, directories):
         for direc in directories:
             if not os.path.exists(direc): os.makedirs(direc)
         print("Directories Created!")
 
-    #Deletes Cache
+    #-------------------------------------------
+    # Delete directories
+    #-------------------------------------------
     def delete_dirs(self, directories):
         for direc in directories:
             if os.path.exists(direc): shutil.rmtree(direc)
         print("Cache Cleared!")
 
-    #List parser
+    #-------------------------------------------
+    # Parses a website and remove unwanted characters
+    #-------------------------------------------
     def parser(self, siteIn):
         # Remove scripts and styles
         soup = BeautifulSoup(siteIn)
@@ -70,7 +73,6 @@ class Spider:
 
         return wordList, title
 
-    #Stemmer
     def stem_list(self, listIn):
         documents = [[stem(word) for word in sentence.split(" ")] for sentence in listIn]
         return documents
@@ -86,18 +88,21 @@ class Spider:
                 toReturn.append(item)
         return toReturn
 
+    #-------------------------------------------
+    # Fetch and store a certain website
+    #-------------------------------------------
     def fetch(self, urlIn, site, theId, theType, query):
         wordlist = []
         print("Fetching...")
         readSite = site.read()
 
-        #Header storage algorithm
+        #Header storage
         headerFile = open(r'data\header\\' + str(theId).zfill(6) + '.txt', 'w+')
         headerFile.write(str(site.info()))
         headerFile.close()
 
 
-        #Clean
+        #Clean storage
         wordlist, title = self.parser(readSite)
         wordlist = self.lower_list(wordlist)
         wordlist = self.stem_list(wordlist)
@@ -106,13 +111,14 @@ class Spider:
         for item in wordlist:
             try:
                 cleanFile.write(item + "\n")
-                #Raw
-                rawFile = open(r'data\raw\\' + str(theId).zfill(6) + '.html', 'w+')
-                rawFile.write(str(readSite))
-                rawFile.close()
             except UnicodeEncodeError:
                 print("Non UTF-8 string detected. Not writing to file")
         cleanFile.close()
+
+        #Raw storage
+        rawFile = open(r'data\raw\\' + str(theId).zfill(6) + '.html', 'w+')
+        rawFile.write(str(readSite))
+        rawFile.close()
 
         #Store in database
         db = WebDB('data\cache.db')
@@ -129,8 +135,14 @@ class Spider:
 
         print("Stored in DB \n")
 
+    #-------------------------------------------
+    # Deletes current cache and recreates it. Function will then initiate
+    # the download of the top 10 results for all search terms in the item folder.
+    #-------------------------------------------
     def cache_restruct(self):
         input("Are you sure? This will delete all files stored in the data folder \nPress enter to continue.....")
+        self.delete_dirs(self.directoriesToDelete)
+        self.create_dirs(self.directoriesToCreate)
         databaseClear = input("Would you like to clear the database file as well?(y or n): ")
         if databaseClear == "y":
             db = None
@@ -143,13 +155,15 @@ class Spider:
                 for query in log.readlines():
                     my_list = self.googleman.searchMe("\"" + query.rstrip() + "\" " + type)
                     print("Searching for " + "\"" + query.rstrip() + "\" " + type)
-                    for url in my_list[0:self.num_results]:
-                        print(url)
-                        try:
-                            site = urllib.request.urlopen(str(url))
-                            self.fetch(url, site, self.startId, type, query.rstrip())
-                        except (urllib.error.URLError, SyntaxError):
-                            print("Can not access this page, skipping....")
-                        self.startId += 1
+                    if my_list is not None:
+                        for url in my_list:
+                            print(url)
+                            try:
+                                site = urllib.request.urlopen(str(url))
+                                self.fetch(url, site, self.startId, type, query.rstrip())
+                            except (urllib.error.URLError, SyntaxError):
+                                print("Can not access this page, skipping....")
+                                self.startId -= 1
+                            self.startId += 1
         print("Please restart the application.")
         time.sleep(5)

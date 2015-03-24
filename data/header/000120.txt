@@ -1,9 +1,19 @@
-Cache-Control: no-cache, must-revalidate
-Pragma: no-cache
-Content-Type: text/html
-Expires: Mon, 23 Feb 2015 22:17:04 GMT
-Server: Unknown
-Vary: Accept-Encoding
-Date: Mon, 23 Feb 2015 16:17:04 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=2915373;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 04:34:59 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1325598483 1323304338, 3143716780 3059032251
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:08:48 GMT
+Age: 73807
 Connection: close
+X-Cache: cp1067 hit (6), cp1065 frontend hit (24)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

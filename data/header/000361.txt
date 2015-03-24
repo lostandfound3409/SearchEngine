@@ -1,15 +1,16 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www173
+Date: Fri, 20 Mar 2015 01:16:23 GMT
+Server: gwiseguy/2.0
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+X-Frame-Options: SAMEORIGIN
 Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Set-Cookie: YSC=fhfEx1z_Okk; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=bliY0qZy88k; expires=Wed, 18-Nov-2015 13:09:23 GMT; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.5
+Accept-Ranges: none
 Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 18:24:04 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 18:24:04 GMT
-Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=c7c41604b8757bb2cec4c0f379b8e038-a3239f7d8327a9af85e6c1e0a58b0abcae6f2491c823bad55349cdb3aebbed02; expires=Fri, 24-Jan-2025 06:24:03 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=d0289112ed18218639e205eab68b3908; expires=Thu, 18-Feb-2016 18:24:03 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424715843; path=/; domain=.last.fm
 

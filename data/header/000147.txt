@@ -1,9 +1,8 @@
-Date: Wed, 18 Feb 2015 02:08:46 GMT
-Server: Apache
-Accept-Ranges: bytes
-Vary: Accept-Encoding,Cookie
-X-Powered-By: W3 Total Cache/0.9.4
-Content-Length: 48184
+Server: nginx/1.4.7
+Date: Fri, 20 Mar 2015 01:09:37 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
 Connection: close
-Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3
 

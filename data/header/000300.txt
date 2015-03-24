@@ -1,20 +1,9 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www219
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Last-Modified: Mon, 23 Feb 2015 17:58:30 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
-Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 17:58:31 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 17:58:31 GMT
+Server: openresty
+Date: Fri, 20 Mar 2015 01:14:15 GMT
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=6bc9a023b08f0974beae2eaeb3e1c31b-fec384f99cc080f5aaacbec0e20ef71d883e00e7037bea6b607e2d7830f90269; expires=Fri, 24-Jan-2025 05:58:30 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=05f2a28756f5cd4c3e1e1592d24b3442; expires=Thu, 18-Feb-2016 17:58:30 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424714310; path=/; domain=.last.fm
+X-Powered-By: PHP/5.4.38
+X-Pingback: http://www.inquisitr.com/wp/xmlrpc.php
+Link: <http://www.inquisitr.com/?p=1938350>; rel=shortlink
 

@@ -1,13 +1,19 @@
-Content-Type: text/html; charset=UTF-8
-Expires: Mon, 23 Feb 2015 16:10:18 GMT
-Date: Mon, 23 Feb 2015 16:10:18 GMT
-Cache-Control: private, max-age=0
-Last-Modified: Mon, 23 Feb 2015 06:30:31 GMT
+Server: Apache
 X-Content-Type-Options: nosniff
-X-XSS-Protection: 1; mode=block
-Server: GSE
-Alternate-Protocol: 80:quic,p=0.08,80:quic,p=0.08
-Accept-Ranges: none
-Vary: Accept-Encoding
+X-Analytics: page_id=67317;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 14:45:35 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2330344450 2329981055, 3143694227 3092520275
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:08:29 GMT
+Age: 37276
 Connection: close
+X-Cache: cp1053 hit (2), cp1065 frontend hit (35)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -1,10 +1,14 @@
-Date: Mon, 23 Feb 2015 18:04:15 GMT
-Server: Apache/2.2.22 (Ubuntu)
-X-Powered-By: PHP/5.3.10-1ubuntu3.6
-Set-Cookie: gcms10gcms_session=q3o1epHKo9AGIUpuo83npSrxuPo%2FWUWudE6UH18YgpQqw22%2F9iKkLOspE7UEXHPJTIg5rVdG%2ByQgyPKwE26A7v58DEB4Msh3y8JC2pmiCBy8Hr9tkERPzVb5gWMpz6Tt4CYN9NM0%2FayFgxUtp16EvfhjbtjylZHM%2FBqZuB8xxrT%2BBeuFrUWGnSG%2BcpCZmVYy0tRS26zkNmF3Ofzymx0AYySQcY2I1UQ0VtV1HFN9Pzcepa%2FDFIVm96PgmyKW8Xk4gt0AHPG9CDklGssPHSTak9Cl6%2FdzSXjcsBkzebjSxqLIF8FuaPsZwtFqOjSWtfaDe2WahuKuURp75w2q72c7uAUf2Xb2TxDyhuYe8VWSiXnCcMX7%2BVd1LFA8ZSx9MEDa21uOMuBkDnLo4f3VOXbTcy52l6RpkjhIAsdXcOnON0tPDsdTK30Nh2FUvwrtkfrwWorasqhdREE8dvm4wNICaUG49GD6RHNwpeMfrhHG8%2BSsIiTNHiIoFiSXbK7Xq%2BNVkzWpPcB9c%2Fn4E3TXCe26whxHwu7zW0b7KY07mo4qrJo%3D; expires=Mon, 23-Feb-2015 19:04:15 GMT; path=/
-Set-Cookie: gcms10gcms_session=EYxQHxQK6APYV5U%2B39r7rG6R%2Bv2dO6%2FWYFjzvUjajlXTHDPd1DrGxhm6Z2Woqh0P%2BWCkelZUv7%2B7ylNz3W4C8EKUvFAtNyldo%2BqmSbydIw2z1W8RggaD9zU4HNeIgaGPvob%2F2JHw%2FVOyo9JJAmfzTTDMQD4ErRRbSLbf8d4tYnXF1PiopxxHRkbxg66SASimAGlbxzUCNqZM13aS%2BUB72AQfUHkUesl7SzqqBCHkA14u6TCC%2B3gO8S%2FIouRE66zyGBf7QwR%2FDC0vjGsaJrANd%2FnuV01KukGrVsCClkyS%2FKZZMLsjX14FBPg75w9Y6OFzD1tbpRSv9pbM6M1zqbgVn1IYk7pd4atPfVffKk%2BMvH8SWTbFAHaukCx6717CVSOPPpgOG17pCr3LwFfILKlnJZFRYYhF3MB1hynOP8IMagrklpQz2A%2BuG%2BjpcmoC%2FX9%2FniG5xMLyf1UMZv1QnzuNsxuXm%2BdxRRwWDbVvFB0z5Dab1CntlZK3JuyQ216zNgPoFbcpKgcFU7NxBYFhFBDnY3qzgoua6bdTRf3Nqy6LSpiD4jok%2Bj%2FlO4dyF6ywTxrX1F09IJDUpa3L4v1MeJKFig%3D%3D; expires=Mon, 23-Feb-2015 19:04:15 GMT; path=/
+Date: Fri, 20 Mar 2015 01:14:57 GMT
+Server: Apache
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Set-Cookie: GEO-67_249_139_22=usa%3A%3Autica%3A%3A43.08885%3A%3A-75.1885%3A%3Acable%3A%3Any; expires=Fri, 20-Mar-2015 02:14:57 GMT; path=/
+Set-Cookie: GEO-67_249_139_22=usa%3A%3Autica%3A%3A43.08885%3A%3A-75.1885%3A%3Acable%3A%3Any; expires=Fri, 20-Mar-2015 02:14:57 GMT; path=/
+Set-Cookie: gdgt_edition=usa; expires=Sat, 19-Mar-2016 01:14:57 GMT; path=/; domain=.engadget.com
+X-AOL-SNH: 4b74cda19ea7ade99b0dd66247ec8f34
+X-UA-Compatible: IE=edge
 Vary: Accept-Encoding
-Connection: close
+Keep-Alive: timeout=5, max=20000000
+Connection: Keep-Alive
 Transfer-Encoding: chunked
 Content-Type: text/html
 

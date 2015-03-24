@@ -1,19 +1,12 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=19659802;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 2812688803 2782231864, 1893469898
-Via: 1.1 varnish, 1.1 varnish
+Date: Fri, 20 Mar 2015 01:06:48 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: private
+Vary: Accept-Encoding
+Content-Type: text/html
+Expires: Fri, 20 Mar 2015 01:06:48 GMT
+Age: 2
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 15:45:52 GMT
-Age: 23018
 Connection: close
-X-Cache: cp1054 hit (4), cp1052 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Via: http/1.1 phtml4.store.bf1.yahoo.com (ApacheTrafficServer/5.0.1)
+Server: ATS
 

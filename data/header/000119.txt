@@ -1,10 +1,19 @@
-Content-Type: text/html
-Last-Modified: Sun, 08 May 2011 19:30:22 GMT
-Accept-Ranges: bytes
-ETag: "0db3d5fb6dcc1:0"
-Server: Microsoft-IIS/8.0
-X-Powered-By: ASP.NET
-Date: Wed, 18 Feb 2015 01:46:04 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=2964059;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 04:34:59 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1715490444 1714944302, 1862345736 1774599186
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:08:47 GMT
+Age: 73867
 Connection: close
-Content-Length: 11220
+X-Cache: cp1055 hit (3), cp1052 frontend hit (55)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

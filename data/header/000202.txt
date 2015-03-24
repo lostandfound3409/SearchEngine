@@ -1,19 +1,14 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=88678;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Mon, 23 Feb 2015 14:22:35 GMT
+Date: Fri, 20 Mar 2015 01:11:14 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 3194593542 3194375982, 709345855 695877124
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:30:25 GMT
-Age: 11257
 Connection: close
-X-Cache: cp1068 hit (2), cp1066 frontend hit (27)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Set-Cookie: __cfduid=d86d40e8e4bbc668ac279c38e8a3618bc1426813874; expires=Sat, 19-Mar-16 01:11:14 GMT; path=/; domain=.megashare.sc; HttpOnly
+X-Powered-By: PHP/5.3.28
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=kcc6h2ok5hisgisg9shktdch10; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding,User-Agent
+Server: cloudflare-nginx
+CF-RAY: 1c9d8ab97c4d0418-ORD
 

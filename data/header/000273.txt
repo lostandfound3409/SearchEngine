@@ -1,19 +1,14 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www209
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
-Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 17:53:57 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 17:53:57 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Mod-Pagespeed: 1.8.31.5-4307
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+Cache-Control: max-age=0, no-cache
+Content-Type: text/html; charset=UTF-8
+WP-Super-Cache: Served supercache file from PHP
+Date: Fri, 20 Mar 2015 01:13:28 GMT
+Keep-Alive: timeout=5, max=97
 Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=69665c60530b9480e815767f2b5c7329-f6bd014b28e1d7e2d21c5adaf5ea2d4cd31a4d65c8f13c0960a7455ee50f4873; expires=Fri, 24-Jan-2025 05:53:56 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=d1a3dc7e4126aeeea59db0a88989604e; expires=Thu, 18-Feb-2016 17:53:56 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424714036; path=/; domain=.last.fm
+Set-Cookie: X-Mapping-fjhppofk=2552AD212BEBED62396B54864C087BA2; path=/
+X-Powered-By: PHP/5.3.10-1ubuntu3.13
 

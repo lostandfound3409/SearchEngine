@@ -1600,7 +1600,7 @@ articl
 donat
 to
 wikipedia
-wikimedia
+wikipedia
 shop
 interact
 help

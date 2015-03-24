@@ -1,13 +1,8 @@
-Content-Type: text/html; charset=UTF-8
-Expires: Mon, 23 Feb 2015 15:38:19 GMT
-Date: Mon, 23 Feb 2015 15:38:19 GMT
-Cache-Control: private, max-age=0
-Last-Modified: Sun, 05 Oct 2014 02:10:34 GMT
-X-Content-Type-Options: nosniff
-X-XSS-Protection: 1; mode=block
-Server: GSE
-Alternate-Protocol: 80:quic,p=0.08
-Accept-Ranges: none
+Date: Fri, 20 Mar 2015 01:06:11 GMT
+Server: Apache
+X-Pingback: http://aheaton.dreamhosters.com/xmlrpc.php
 Vary: Accept-Encoding
 Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

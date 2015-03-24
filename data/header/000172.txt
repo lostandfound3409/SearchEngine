@@ -1,12 +1,9 @@
-Date: Mon, 23 Feb 2015 17:15:49 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYieAWuJQ8CsJtFmyzuCu_w7YJY7-Df52kNqoMt-dCA03Zr1Q3wvmQl2x29MiOPlGSAL3jVcoYg%0D%0ATpaAqgaCd6V5pRB1G7y9by8b-lU1oN91vdDeq5NrbnGGT0s_M-2Rb5IoiZIl6g8-Fgqdj1JJHeA0%0D%0A4JEdjSjXlaBTZbGL4p5Grxq_tuu2GoehSPoUBQ0b2hEcyAKpvcMEjpb5YUC3TuCXc1jGfg5vq5uh%0D%0AO5oSKZBaqzXKgrHeRVjbLJGaKvhtXNTbMSSh8JrgnkACA2-I2s8Y6Q%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:29:56 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:29:56 GMT; Path=/
-Set-Cookie: session-id-time=1582391749; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:29:56 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Date: Fri, 20 Mar 2015 01:10:21 GMT
+Server: Apache
+X-Pingback: http://redlettermedia.com/wordpress/xmlrpc.php
+Link: <http://redlettermedia.com/?p=204>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
 Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 

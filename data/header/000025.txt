@@ -1,16 +1,15 @@
-Date: Wed, 18 Feb 2015 00:49:51 GMT
+Date: Fri, 20 Mar 2015 01:06:23 GMT
 Server: Server
 pragma: no-cache
-x-amz-id-1: 15RN6CG3MNZS11XZTECD
+x-amz-id-1: 1Z4J55VTVMR192G7K31P
 p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 x-sap-pg: book_display_on_website
 cache-control: no-cache
 x-frame-options: SAMEORIGIN
 expires: -1
-x-amz-id-2: AGYx1jx+091ZESLAiiA+HY1E9W8btNWPpdnJRaPxYFl00xqJzjlQ4qexNF/1wlso
+x-amz-id-2: iga+/OgxEF/ACigyQSjspzOzbPm+eyRXHp3IrvoKphiWn9BBwgcRm2OUvPPinDpz
 x-ua-compatible: IE=edge
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-Connection: close
 Transfer-Encoding: chunked
 

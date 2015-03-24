@@ -1,12 +1,16 @@
-Date: Mon, 23 Feb 2015 16:40:12 GMT
-Server: Server
+Date: Fri, 20 Mar 2015 01:09:39 GMT
+Server: gwiseguy/2.0
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
 X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYuov_KW9EgT5dAWhTgmmWYKuug7Brwo-NWkiZmuS7s7A8TVVNtPU6i1yMy_0i6X7P7dJv9reG_%0D%0AlR63hQHM0ObjVpJPz3txSauJf_EqDgXd2N4SydsZhX2ZTcBAQqhN1uFYbqg6lmggBDZbda5dXXrT%0D%0AxnsBSxKEfB1WvtH0ExHOw3d_FybThaDuSkmJxYKK2KT2zx1EmjZ8oQN8zyUKeAIb_GH3fPxordCn%0D%0Aln1IkURD3DExWHANldMBHRgXPiMVOJKRpWEdF3URq2Z6mBTy9yzBEQ%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:54:20 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:54:20 GMT; Path=/
-Set-Cookie: session-id-time=1582389612; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 19:54:20 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Transfer-Encoding: chunked
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Set-Cookie: VISITOR_INFO1_LIVE=hxs6ijy602c; expires=Wed, 18-Nov-2015 13:02:39 GMT; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: YSC=21P_qM7cHHs; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.5
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
 

@@ -1,10 +1,21 @@
-Date: Mon, 23 Feb 2015 17:38:18 GMT
-Server: Apache/2.2.15 (CentOS)
-X-Powered-By: PHP/5.3.3
-Cache-Control: max-age=300, public
-Expires: Mon, 23 Feb 2015 17:43:18 GMT
+Server: Cowboy
+Status: 200 OK
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: chrome=1
+Content-Type: text/html; charset=utf-8
 Vary: Accept-Encoding
+X-Request-Id: b73d1781-e068-46ef-83cf-137c480bd157
+X-Runtime: 0.536398
+X-Content-Digest: 3d6f769a5923fc8ac95ac03c060bea0ba9c2f04b
+Age: 0
+X-Rack-Cache: miss, ignore, store
+Via: 1.1 vegur
+Date: Fri, 20 Mar 2015 01:12:15 GMT
+Expires: Fri, 20 Mar 2015 01:12:15 GMT
+Cache-Control: max-age=0, no-cache
+X-Page-Speed: 131_1_dp
+Alternate-Protocol: 80:quic,p=0.5
+Accept-Ranges: none
 Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
 

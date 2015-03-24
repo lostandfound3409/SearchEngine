@@ -1,22 +1,15 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-Content-language: en
-X-Backend-Response-Time: 0.295
-ETag: "20150207224614-1424445818"
-Last-Modified: Sat, 07 Feb 2015 22:46:14 GMT
-Content-Type: text/html; charset=utf-8
-X-Cacheable: YES
-Content-Length: 164648
-Accept-Ranges: bytes
-Date: Mon, 23 Feb 2015 17:38:42 GMT
-Age: 9502
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1239862764 1239767350
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=193
+Date: Fri, 20 Mar 2015 01:12:20 GMT
+Transfer-Encoding: chunked
 Connection: close
-X-Served-By: ap-s43, cache-wk-sjc3161-WKSJC, cache-ord1727-ORD
-X-Cache: ORIGIN, HIT, MISS
-X-Cache-Hits: ORIGIN, 4, 0
-X-Timer: S1424713122.410754,VS0,VE104
-Vary: Accept-Encoding,Cookie
-Set-Cookie: wikia_beacon_id=hjwrgrSrCg; domain=.wikia.com; path=/; expires=Sat, 22 Aug 2015 17:38:42 GMT;
-Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

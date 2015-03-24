@@ -1,18 +1,18 @@
 Server: CherryPy/3.6.0
-Content-Language: en_US
-Cache-Control: no-cache, must-revalidate
 Pragma: no-cache
-Content-Type: text/html;charset=utf-8
 Expires: Sun, 28 Jan 2007 00:00:00 GMT
 Vary: Accept-Encoding
-Set-Cookie: session_id=f239db6a958c6e3e5e1523aaa5ff7a3987422fdc; Domain=.gutenberg.org; expires=Mon, 23 Feb 2015 15:57:10 GMT; Path=/
+Cache-Control: no-cache, must-revalidate
+Content-Language: en_US
+Content-Type: text/html;charset=utf-8
+Set-Cookie: session_id=c08bb8c899bb0c3a1cd74e5bc05653ed002b0296; Domain=.gutenberg.org; expires=Fri, 20 Mar 2015 01:35:38 GMT; Path=/
 Accept-Ranges: none
 X-Frame-Options: sameorigin
 X-Connection: Close
 X-Powered-By: 3
 Content-Length: 23169
-Date: Mon, 23 Feb 2015 15:27:10 GMT
-X-Varnish: 1160687608
+Date: Fri, 20 Mar 2015 01:05:38 GMT
+X-Varnish: 1581321993
 Age: 0
 Via: 1.1 varnish
 Connection: close

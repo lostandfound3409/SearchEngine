@@ -185,6 +185,8 @@ more
 way
 to
 shop
+desert
+jewel
 clearanc
 sculptur
 book
@@ -263,8 +265,6 @@ accent
 tablewar
 pillow
 throw
-kitchen
-accessori
 view
 all
 more
@@ -408,6 +408,9 @@ art
 lover
 timeless
 classic
+gift
+wrap
+paper
 view
 all
 more

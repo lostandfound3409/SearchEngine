@@ -1,19 +1,23 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=8076363;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Fri, 20 Feb 2015 06:14:06 GMT
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=180
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 2894328613 2880267736, 1854633128 1842388176
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:28:46 GMT
-Age: 22330
+J-Cacheable: YES
+Link: <http://www.wired.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+Server: Apache/2.4.6 (CentOS) PHP/5.6.6
+Varnish-X-Cache-Hits: 2
+Via: 1.1 varnish-v4
+X-Pingback: http://www.wired.com/xmlrpc.php
+X-Powered-By: PHP/5.6.6
+Via: 1.1 varnish
+Content-Length: 92929
+Accept-Ranges: bytes
+Date: Fri, 20 Mar 2015 01:10:58 GMT
+Via: 1.1 varnish
+Age: 0
 Connection: close
-X-Cache: cp1052 hit (5), cp1053 frontend hit (3)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+X-Served-By: cache-jfk1031-JFK, cache-dfw1829-DFW
+X-Cache: HIT, MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1426813858.538590,VS0,VE68
+Vary: Accept-Encoding
 

@@ -1,13 +1,16 @@
-Content-Type: text/html; charset=UTF-8
-Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:13:35 GMT
+Server: gwiseguy/2.0
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Set-Cookie: YSC=UB8GIlPoaOM; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=If9lbckS_Og; expires=Wed, 18-Nov-2015 13:06:35 GMT; path=/; domain=.youtube.com; HttpOnly
+Alternate-Protocol: 443:quic,p=0.5
+Accept-Ranges: none
+Vary: Accept-Encoding
 Connection: close
-Age: 1
-Cache-Control: max-age=600
-Date: Mon, 23 Feb 2015 17:54:11 GMT
-Last-Modified: Mon, 23 Feb 2015 17:54:10 GMT
-Server: nginx
-Vary: Accept-Encoding,CloudFront-Is-Mobile-Viewer,CloudFront-Is-Desktop-Viewer,CloudFront-Is-Tablet-Viewer
-X-Cache: Miss from cloudfront
-Via: 1.1 a0e79ddb07cf1a3ce75c0e88ccb79135.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: Bg39gFtDR2eyHcIosgA7fposksz4wsA6sfka1D3dR_VhGZwBH7MXag==
 

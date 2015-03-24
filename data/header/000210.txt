@@ -1,12 +1,11 @@
-Date: Mon, 23 Feb 2015 17:32:28 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYpaz95-ssanb46HgI1t7IoXOU8qRDw6AaRpHIeNPD7QByQtI2rpuDAmR7YBj2yGRh4Vfcj2PTm%0D%0AyoSY5XgLEEIigT3AcNtJB3xnAPn2y4pyioVqLQmpk6rhv_PDJIn78a_WEfyPr9Ud6mwEjPW1JeZb%0D%0AvoCbLc7d7cSMpGsJ8WYEPPJ6_fvfJ2COIPaRkXP72TyO9SlOHIz_zQthHfsVr70ambvM7sRv29xE%0D%0AYgTnLPilQRW35Eo3ppcv6mix8zhdKm6SxJtdxbeCjphLu90BAzsOdg%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:46:36 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:46:36 GMT; Path=/
-Set-Cookie: session-id-time=1582392749; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:46:36 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+X-Powered-By: PHP/5.5.11
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=ghmmugn6tpuman1nmppi008r90; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
 Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 01:11:26 GMT
+Server: lighttpd/1.4.35
 

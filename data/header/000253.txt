@@ -1,12 +1,15 @@
-Date: Mon, 23 Feb 2015 17:44:56 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYjwAfSvQWWRzXusqrEZLjVsemOe-uopl3nFyUGLO9pvTrVoAzqJ4CP-lKy1TgQLK4WTFYorSQ1%0D%0Asx3cVbU-CSYckuj0696pgB5O4lCi4bz8DPTadgjnPm387smAXtLY36jtzAWJ0mh2z_JlvuchpJoC%0D%0AEiVucXfXKhd2EsclAkqaX5SZ4lpY0GK2BWwygACTuMp4YcJ7Ow4FrpKj9YTkz0GC9HNh64SQn_I7%0D%0AVuDLvAuMsonlPg50fbuz2JpGZDwm0MgOHWU5oUo5H4BRKOlc_OkpKQ%0D%0A; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:59:04 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:59:04 GMT; Path=/
-Set-Cookie: session-id-time=1582393497; Domain=.imdb.com; Expires=Sat, 13-Mar-2083 20:59:04 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www222
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Fri, 20 Mar 2015 01:12:44 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:12:44 GMT
 Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=47b1f48c0269ec1986d526796173cca5-e42389ba3c09e0927d556d82b73da3e72b6aa5759c1670727adf8075cacd49b8; expires=Mon, 17-Feb-2025 13:12:43 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=1108f5829425e50c7daa2d19ce4c834c; expires=Mon, 14-Mar-2016 01:12:43 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1426813963; path=/; domain=.last.fm
 

@@ -181,10 +181,10 @@ refer
 7
 extern
 link
-seri
+§seri
 overview
 edit
-ann
+§ann
 s
 earli
 life
@@ -322,7 +322,7 @@ whom
 ann
 help
 rais
-arriv
+§arriv
 at
 green
 gabl
@@ -788,7 +788,7 @@ on
 gilbert
 s
 side
-avonlea
+§avonlea
 schoolteach
 year
 edit
@@ -1081,7 +1081,7 @@ it
 pain
 and
 glad
-redmond
+§redmond
 colleg
 edit
 in
@@ -1278,7 +1278,7 @@ a
 fellow
 redmond
 student
-engag
+§engag
 to
 gilbert
 edit
@@ -1443,7 +1443,7 @@ year
 medic
 school
 cours
-marriag
+§marriag
 and
 motherhood
 edit
@@ -1774,7 +1774,7 @@ from
 a
 pow
 camp
-ann
+§ann
 the
 grandmoth
 edit
@@ -2153,7 +2153,7 @@ a
 50
 year
 marriag
-book
+§book
 edit
 in
 addit
@@ -2400,7 +2400,7 @@ befor
 their
 earli
 death
-film
+§film
 and
 televis
 edit
@@ -2704,7 +2704,7 @@ the
 voic
 of
 ann
-recept
+§recept
 and
 legaci
 edit
@@ -2753,7 +2753,7 @@ i
 love
 her
 1
-note
+§note
 edit
 good
 lenni
@@ -2777,7 +2777,7 @@ retriev
 19
 march
 2011
-refer
+§refer
 edit
 busbi
 brian
@@ -2794,7 +2794,7 @@ page
 235
 237
 knopf
-extern
+§extern
 link
 edit
 luci
@@ -3224,7 +3224,7 @@ articl
 donat
 to
 wikipedia
-wikimedia
+wikipedia
 shop
 interact
 help

@@ -11,8 +11,8 @@ num_results = 10
 queries = Queries()
 spiderman = Spider()
 
-choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n> "))
-while 0 < choice < 8:
+choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Free Query \n (8)Evaluate\n (9)Quit \n> "))
+while 0 < choice < 9:
     # token query
     if choice == 1:
         queries.token_query()
@@ -31,10 +31,16 @@ while 0 < choice < 8:
     #Recreate cache
     elif choice == 6:
         spiderman.cache_restruct()
+    #Free query
     elif choice == 7:
+        queries.theQuery()
+    #Auto query for evaluation
+    elif choice == 8:
+        queries.autoQuery()
+    elif choice == 9:
         exit(0)
 
-    choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Quit \n>"))
+    choice = int(input("Please enter a number: \n (1)Token \n (2)AND \n (3)OR \n (4)Phrase[2 tokens] \n (5)NEAR \n (6)Download new cache \n (7)Free Query \n (8)Evaluate\n (9)Quit \n>"))
 
 print("\nYou did not enter a valid number\n")
 

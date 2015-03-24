@@ -1,20 +1,15 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www232
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Last-Modified: Mon, 23 Feb 2015 17:53:58 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
-Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 17:53:59 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 17:53:59 GMT
+Date: Fri, 20 Mar 2015 01:13:29 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 14T3KHVH4A3M9TEENJR9
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: music_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: EJGdRVyuAPNDlo9DvDVoff27cWMdm6zh48tFWozRfpZ892kKlCzszC7MVKdxZ+vF
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
-Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: AnonSession=115839e343d586e3cbb183c6ddeb5d59-ca1079c6d8e4df800578e120a9ab0b41782706f8a4c4da5e3e5d19153473851e; expires=Fri, 24-Jan-2025 05:53:57 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=e6f8b4949fc50b1f90863f8e5d63fa65; expires=Thu, 18-Feb-2016 17:53:57 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424714037; path=/; domain=.last.fm
 

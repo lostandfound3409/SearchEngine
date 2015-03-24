@@ -1,19 +1,20 @@
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=3354767;ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Thu, 19 Feb 2015 23:00:35 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 2812689600 2785335881, 701913037
-Via: 1.1 varnish, 1.1 varnish
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Date: Fri, 20 Mar 2015 01:06:50 GMT
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 15:45:52 GMT
-Age: 20684
 Connection: close
-X-Cache: cp1054 hit (5), cp1066 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Connection: Transfer-Encoding
+Set-Cookie: JSESSIONID=1712mwlp4hgnq1jbxkeuwc90prpnjflite021426813609367;Path=/;Expires=Fri, 20-Mar-2015 02:06:49 GMT
+Set-Cookie: pds%5Flife=d=AQDdcj6EK1fOpFJo2t4zYa7NvURP4iIEKOF%2BVN9QkEfaDaaI%2FY5rxWaEVhvRK1tGBxI%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Wed, 18-Mar-2020 01:06:49 GMT
+Set-Cookie: BNCAB=A;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: userid=c823RZUWHz;Path=/;Domain=.barnesandnoble.com;Expires=Wed, 18-Mar-2020 01:06:49 GMT
+Set-Cookie: pds%5Fsess=d=AQBA6NlZA3YCWvhfIsK5sYq4rx1Q207mscctIKN7srzbitz7OwLGRdtGIo%2FEcek3BZk%3D&v=5;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: bnMobile=type=&state=ignore&device=N;path=/;domain=.barnesandnoble.com;
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+Set-Cookie: TS019fd21a=016b4a666e51ff81add87f699cea72b1e95971ad0a80232c048cd53bf31d9cf66db3ee469b3c87c0fbc59cd0100d32d607e8d02955; Path=/
+Set-Cookie: TS01a610f6=016b4a666ee26c238801a90487cf54a5ace8144cfefa57f8dff29310053b8e9e495f9a0aff30df8f9c56034c85de52185614da5046f63ae5a80ec00d65af30f1fb60cae485f08a1c01921cdac8e72d09f2b72e23540ed55aa01e3cd767bf915ca8f964e2c6826b8b7a33ab28d377bc00566dc2f1ba2b6d6c638bda63a96b227392a5223976; path=/; domain=.barnesandnoble.com
 

@@ -4809,8 +4809,8 @@ articl
 donat
 to
 wikipedia
-wikimedia
-shop
+wikipedia
+store
 interact
 help
 about

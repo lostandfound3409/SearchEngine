@@ -1,12 +1,12 @@
-Content-Type: text/html;charset=utf-8
-Content-Language: en-US
-Server: 
-Backend: templates
+Date: Fri, 20 Mar 2015 01:09:34 GMT
+Server: Server
 X-Frame-Options: SAMEORIGIN
-X-Cnection: close
-Vary: Accept-Encoding
-Date: Mon, 23 Feb 2015 16:39:58 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYuNojABp8E4LKsLITwUtk3MqOS-_xe1a2XM_2X2DlH-brpbXERBIe1gMiY_aWegGG-4tLCN2at%0D%0AEzp76hxr6iCv_iYYEputdOvczGQcDzl1RuNpwM9tsiA9dSbHw3GF_wqT6o7olsMsn81kqAlTMUxj%0D%0AWe7KvwbJSZH-6zTeftZ32tFDt33oUcgDjExxEGJlJ8_M2wL8FEaYTnuQ3gk6jbMQjWaTlkZ3sg0G%0D%0AQNvhmVGYM_8bsNFj5ideQuwwYcaG8sfxwxhqGIrqWiWHT7EHmftX1g%0D%0A; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:23:41 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:23:41 GMT; Path=/
+Set-Cookie: session-id-time=1584493774; Domain=.imdb.com; Expires=Wed, 07-Apr-2083 04:23:41 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Connection: close
-Connection: Transfer-Encoding
 

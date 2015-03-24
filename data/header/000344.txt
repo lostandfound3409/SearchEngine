@@ -1,20 +1,22 @@
-Server: Apache/2.2.22 (Unix)
-X-Web-Node: www221
-P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
-X-Frame-Options: SAMEORIGIN
-Last-Modified: Mon, 23 Feb 2015 18:18:31 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Vary: X-Country-Code
+Last-Modified: Fri, 20 Mar 2015 01:15:47 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=63729&cc=us&urlDesc=/celine-dion
+x-apple-orig-url: https://itunes.apple.com/us/artist/celine-dion/id63729
+x-apple-application-site: ST11
+apple-timing-app: 590 ms
+x-apple-aka-ttl: Generated Thu Mar 19 18:15:47 PDT 2015, Expires Thu Mar 19 18:16:47 PDT 2015, TTL 60s
+x-apple-application-instance: 2125943
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: PIM6WBTOLUCZ6TMU5FV3EOYTZQ
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.161/80/us/artist/celine-dion/id63729/browser/https
 Vary: Accept-Encoding
-Expires: Mon, 23 Feb 2015 18:18:32 GMT
-Cache-Control: max-age=0, no-cache, no-store
-Pragma: no-cache
-Date: Mon, 23 Feb 2015 18:18:32 GMT
+Cache-Control: no-transform, max-age=59
+Date: Fri, 20 Mar 2015 01:15:47 GMT
 Transfer-Encoding: chunked
 Connection: close
 Connection: Transfer-Encoding
-Set-Cookie: AnonSession=5119b2724ad46589cb14ca057913c60c-615289bad350209c2148e5e5223a666ea0b2cec357c6a66028f509f98fd78776; expires=Fri, 24-Jan-2025 06:18:31 GMT; path=/; domain=.last.fm
-Set-Cookie: AnonTrack=510a9d64799ab2b324a32585e6199c75; expires=Thu, 18-Feb-2016 18:18:31 GMT; path=/; domain=.last.fm
-Set-Cookie: FirstVisit=1424715511; path=/; domain=.last.fm
+X-Apple-Partner: origin.0
 

@@ -1,11 +1,14 @@
-Date: Mon, 23 Feb 2015 17:56:03 GMT
-Server: Apache/2.2.3 (CentOS)
-X-Powered-By: PHP/5.1.6
-Set-Cookie: PO2SID=1i514690bjr3hl9kckrd0nm946; path=/; domain=.prince.org
-Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-Pragma: no-cache
-Connection: close
-Transfer-Encoding: chunked
+Date: Fri, 20 Mar 2015 00:18:08 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
+Expires: Fri, 20 Mar 2015 12:18:10 GMT
+Cache-Control: maxage=43200
+Vary: Accept-Encoding
 Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from bb-all-isquid03.allmusic.amn
+X-Cache-Lookup: MISS from bb-all-isquid03.allmusic.amn:80
+Age: 3338
+X-Cache: HIT from bb-all-esquid02.allmusic.amn
+X-Cache-Lookup: HIT from bb-all-esquid02.allmusic.amn:80
+Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid02.allmusic.amn (squid/3.1.23)
 

@@ -58,6 +58,10 @@ for
 children
 group
 lesson
+kid
+and
+teen
+camp
 summer
 citi
 camp

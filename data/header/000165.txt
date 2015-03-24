@@ -1,12 +1,16 @@
-Server: Apache/2.2.15 (CentOS)
-X-Pingback: http://collider.com/xmlrpc.php
-Link: <http://collider.com/?p=31723>; rel=shortlink
-Content-Type: text/html; charset=UTF-8
-Cache-Control: public, max-age=900
+Server: nginx/1.4.4
+Content-Type: text/html;charset=utf-8
+Status: 200 OK
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
+X-Varnish: 1239945456 1239889487
+X-Origin: Matterhorn
+Vary: Accept-Encoding
+Cache-Control: public, max-age=1146
+Date: Fri, 20 Mar 2015 01:10:09 GMT
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:13:20 GMT
-Age: 0
-Expires: Mon, 23 Feb 2015 17:28:20 GMT
-Vary: Accept-Encoding, User-Agent
 Connection: close
+Connection: Transfer-Encoding
+X-Origin: Matterhorn
 

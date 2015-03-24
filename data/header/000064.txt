@@ -1,14 +1,15 @@
-Cache-Control: no-cache
-Pragma: no-cache
-Content-Length: 7886
-Content-Type: text/html; charset=utf-8
-Expires: -1
-Server: Microsoft-IIS/7.5
-X-AspNet-Version: 4.0.30319
-p3p: CP="CAO PSA OUR"
-Set-Cookie: SessionID=4f427037-62fb-4169-ac91-297a0cf90334; path=/
-Set-Cookie: VisitorID=82029166-1480-485a-94a5-f2832f97f996&Exp=2/23/2018 7:54:13 AM; expires=Fri, 23-Feb-2018 15:54:13 GMT; path=/
-X-Powered-By: ASP.NET
-Date: Mon, 23 Feb 2015 15:54:13 GMT
+Server: nginx
+Date: Fri, 20 Mar 2015 01:07:20 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
 Connection: close
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://101books.net/xmlrpc.php
+Link: <http://wp.me/p136Ap-F>; rel=shortlink
+Last-Modified: Fri, 20 Mar 2015 01:07:20 GMT
+Cache-Control: max-age=300, must-revalidate
+X-nananana: Batcache
+X-ac: 3.ord _dca
 

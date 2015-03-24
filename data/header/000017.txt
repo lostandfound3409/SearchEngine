@@ -1,13 +1,13 @@
 Cache-Control: public, max-age=0
-Content-Length: 48307
+Content-Length: 44156
 Content-Type: text/html; charset=utf-8
 Expires: Sun, 11 Mar 1984 12:00:00 GMT
-Last-Modified: Mon, 23 Feb 2015 15:38:07 +0000
-ETag: "1424705887-0"
+Last-Modified: Fri, 20 Mar 2015 00:57:56 +0000
+ETag: "1426813076-0"
 Vary: Cookie
 Server: Microsoft-IIS/6.0
-X-Drupal-Cache: MISS
-Set-Cookie: test=ref_; expires=Mon, 23-Feb-2015 15:39:07 GMT
-Date: Mon, 23 Feb 2015 15:38:08 GMT
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Drupal-Cache: HIT
+Date: Fri, 20 Mar 2015 01:06:09 GMT
 Connection: close
 

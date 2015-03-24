@@ -1,7 +1,22 @@
-Date: Mon, 23 Feb 2015 17:32:19 GMT
-Server: Apache/2.4.12 (FreeBSD) mod_wsgi/3.5 Python/2.7.9
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.187
+ETag: "20120215074336-1426807502"
+Last-Modified: Wed, 15 Feb 2012 07:43:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 61341
 Accept-Ranges: bytes
-Content-Length: 5889
+Date: Fri, 20 Mar 2015 01:11:22 GMT
+Age: 3327
 Connection: close
-Content-Type: text/html
+X-Served-By: ap-s16, cache-wk-sjc3161-WIKIA, cache-ord1722-ORD
+X-Cache: ORIGIN, HIT, MISS
+X-Cache-Hits: ORIGIN, 1, 0
+X-Timer: S1426813882.744943,VS0,VE104
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=3PvrDo3LDo; domain=.wikia.com; path=/; expires=Wed, 16 Sep 2015 01:11:22 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 

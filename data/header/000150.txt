@@ -1,20 +1,13 @@
-Server: Apache
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-Expires: Thu, 01 Jan 1970 00:00:00 GMT
-Content-language: en
-X-Analytics: page_id=999394;ns=0
-X-Powered-By: HHVM/3.3.1
-X-Content-Type-Options: nosniff
-Last-Modified: Wed, 18 Feb 2015 16:53:14 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 3206632183, 2644599140
-Via: 1.1 varnish, 1.1 varnish
-Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:04:07 GMT
-Age: 0
+Set-Cookie: ServerID=1607; path=/
+Date: Fri, 20 Mar 2015 01:09:40 GMT
+Set-Cookie: JSESSIONID=31293097072DEF2D6B068B3958F8ABF2; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Vary: User-Agent,Accept-Encoding
+FLX-Server: web507.flixster.com
+RT-Commit: RTRELEASE.2015-03-19.12-47-22 9dee20e
+FLX-Commit: ADMINRELEASE.2015-03-19.11-18-06 894ac47
+FLX-Build-Date: 2015-03-19 12:50:27
 Connection: close
-X-Cache: cp1068 miss (0), cp1068 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Transfer-Encoding: chunked
 

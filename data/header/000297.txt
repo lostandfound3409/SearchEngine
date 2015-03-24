@@ -1,9 +1,14 @@
-Server: Apache-Coyote/1.1
-Content-Length: 129337
-Content-Type: text/html;charset=utf-8
+Date: Fri, 20 Mar 2015 00:18:36 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.4.26-1+deb.sury.org~precise+1
+Expires: Fri, 20 Mar 2015 12:18:42 GMT
+Cache-Control: maxage=43200
 Vary: Accept-Encoding
-Access-Control-Allow-Origin: http://c.brightcove.com
-Cache-Control: max-age=433
-Date: Mon, 23 Feb 2015 17:58:03 GMT
-Connection: close
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from bb-all-isquid03.allmusic.amn
+X-Cache-Lookup: MISS from bb-all-isquid03.allmusic.amn:80
+Age: 3341
+X-Cache: HIT from bb-all-esquid02.allmusic.amn
+X-Cache-Lookup: HIT from bb-all-esquid02.allmusic.amn:80
+Via: 1.0 bb-all-isquid03.allmusic.amn (squid/3.1.23), 1.0 bb-all-esquid02.allmusic.amn (squid/3.1.23)
 

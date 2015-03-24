@@ -1,9 +1,26 @@
-Server: Apache-Coyote/1.1
-Content-Length: 176633
-Content-Type: text/html;charset=utf-8
+Server: nginx/1.2.7
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+X-Content-Access-Type: Metered
+X-Content-Restricted-URL: /restricted/?return=http%3A%2F%2Fwww.sctimes.com%2Fstory%2Fentertainment%2Fmusic%2F2015%2F03%2F18%2Fsterling-guertin-band-rocked-elton-john-songs%2F24928979%2F
+X-Meter-Registered-Threshold: 7
+X-UA-Compatible: IE=Edge,chrome=1
+X-Secret: cnpudnkgcnpiZXZnbUBoZm5nYnFubC5wYnogbmFxIFYganZ5eSBnZWwgZ2IgdHJnIGxiaCBuIHdiby4=
+X-Meter-Enabled: Yes
+X-Content-Key: 24928979
+X-Meter-Threshold: 7
+X-Gannett-Site-Version: 242.0
+X-Meter-Limit-URL: /get-access/?return=http%3A%2F%2Fwww.sctimes.com%2Fstory%2Fentertainment%2Fmusic%2F2015%2F03%2F18%2Fsterling-guertin-band-rocked-elton-john-songs%2F24928979%2F
 Vary: Accept-Encoding
-Access-Control-Allow-Origin: http://c.brightcove.com
-Cache-Control: max-age=1
-Date: Mon, 23 Feb 2015 17:58:11 GMT
+Expires: Fri, 20 Mar 2015 01:14:14 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Fri, 20 Mar 2015 01:14:14 GMT
+Transfer-Encoding: chunked
 Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: firefly_akamai="uC363c5j8zmUwrNeoIBVg9cwX8wnDMCM3tE9MUVJmJm9d02T1rDF5v96v2ux1CrjvfWsybxGAz0bAEe5HsGyc5881eOcBkc9PTGxZhwFaE4qAdmgKbnutW1vu+W7GDUvhTtDAtkitXS7A6TifDgzpTKeDVoHoeD7NH4jm+2gvIE="; Domain=.sctimes.com; expires=Sat, 19-Mar-2016 01:14:13 GMT; Max-Age=31536000; Path=/
+Set-Cookie: cleanup_check=; Domain=.sctimes.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+Set-Cookie: firefly_akamai_meter=yGuEDhfQcLI7b1xjm4ZRCfxuKFyi4K3bf59P+9UdEjY=; expires=Sat, 19-Mar-2016 01:14:14 GMT; path=/; domain=sctimes.com
+Set-Cookie: firefly_akamai_open=eyJ2aWV3Q291bnQiOjEsICJ2aWV3VGhyZXNob2xkIjo3LCAidmlld2VkQ29udGVudCI6IFsiMjQ5Mjg5NzkiXX0=; expires=Sat, 19-Mar-2016 01:14:14 GMT; path=/; domain=sctimes.com
 

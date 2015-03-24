@@ -1,11 +1,19 @@
-X-Pingback: http://sites.psu.edu/reshmajblog/xmlrpc.php
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=525314;ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 19 Mar 2015 10:43:19 GMT
 Content-Type: text/html; charset=UTF-8
-X-Backend: sitesweb2
+X-Varnish: 1758455593 1745841877, 1900485906 1839370136
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 23 Feb 2015 17:32:18 GMT
-Age: 0
+Date: Fri, 20 Mar 2015 01:11:21 GMT
+Age: 51584
 Connection: close
-X-Server: varnish1
-X-Cache: MISS sitesvarnish1 0
-Set-Cookie: BIGipServer~Sites~sites-prod=!DI7dGQQFbeHwVV+29r7QUUhQvxMof0cmAvobyWEVF3uM9BmPiG5Cy0MBoCFCC9ob/lPqbifMYoGxlyQ=; path=/
+X-Cache: cp1055 hit (8), cp1067 frontend hit (32)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 
