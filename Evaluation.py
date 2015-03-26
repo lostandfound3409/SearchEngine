@@ -40,10 +40,10 @@ class Evaluation():
     def precision(self, ranking, n):
         count = 0
         if len(ranking) > 9:
-            for item in range(10):
+            for item in range(n):
                 if ranking[item] == 1:
                     count+=1
-        prec = count / 10
+        prec = count / n
         return prec
 
     #-------------------------------------------

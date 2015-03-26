@@ -136,10 +136,12 @@ class Queries():
         queryWeight = input("Query weight(nnn or ltc): ")
         scores = self.termDict.calcQuery(query, queryWeight)
         count = 0
+        relevant = []
         for doc in scores:
             if count < 5 and self.db.lookupCachedURL_byID(int(doc[0])) != None:
-                print(str(self.db.lookupCachedURL_byID(int(doc[0]))) + " " + str(doc[1]))
+                relevant.append(str(self.db.lookupCachedURL_byID((int(doc[0])))+ " " + str(doc[1])))
             count += 1
+        self.print_results(relevant)
     #-------------------------------------------
     # Function for evaluation purposes. Uses automatic search for terms in item files.
     #-------------------------------------------
@@ -214,7 +216,10 @@ class Queries():
     #-------------------------------------------
     def print_results(self, listToPrint):
         itemCount = 0
-        for item in listToPrint:
-            if item is not None:
-                itemCount += 1
-                print(str(itemCount) + ". " + str(item))
+        if listToPrint is not None:
+            for item in listToPrint:
+                if item is not None:
+                    itemCount += 1
+                    print(str(itemCount) + ". " + str(item))
+        else:
+            print("No Results")
